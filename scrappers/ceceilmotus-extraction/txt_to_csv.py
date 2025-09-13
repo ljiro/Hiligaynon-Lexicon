@@ -2,9 +2,8 @@ import re
 import csv
 from pathlib import Path
 
-# ---------- Config ----------
-txt_path = Path(r"C:\Users\CODE CLASSES\nlp\Hiligaynon-Lexicon\output\output.txt")
-csv_path = Path(r"C:\Users\CODE CLASSES\nlp\Hiligaynon-Lexicon\output\output_parsed.csv")
+txt_path = Path(r"/output/output.txt")
+csv_path = Path(r"/output/output_parsed.csv")
 start_page = 28
 
 # create output dir if missing
