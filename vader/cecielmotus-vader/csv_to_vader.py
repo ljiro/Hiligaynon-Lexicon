@@ -3,8 +3,8 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from pathlib import Path
 
 # Input/output paths
-csv_input = Path(r"C:\Users\CODE CLASSES\nlp\Hiligaynon-Lexicon\preprocessed\Lexicon_merged.csv")
-lexicon_output = Path(r"C:\Users\CODE CLASSES\nlp\Hiligaynon-Lexicon\output\vader_hiligaynon_cleaned.txt")
+csv_input = Path(r"/output/preprocessed-output\Lexicon_merged.csv")
+lexicon_output = Path(r"/output/vader-output/vader_hiligaynon_cleaned.txt")
 
 # Load the parsed CSV
 df = pd.read_csv(csv_input)
