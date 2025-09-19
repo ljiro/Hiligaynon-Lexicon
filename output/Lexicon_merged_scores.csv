@@ -9,10 +9,10 @@ abáw,intj,interjection,"oh, wow, really.",0.586
 aberíya,v,verb,"to have engine trouble, to stop.",-0.599
 abí’,pt,particle,"let me see, would you please, hey, excuse please.",0.599
 ábi’ábi,v,verb,"to greet, to shake hands with.",0.153
-ábi’ábi,adj,adjective,"kind, friendly, civil.",0.153
+ábi’ábi,adj,adjective,"kind, friendly, civil.",0.765
 abogádo,n,noun,"lawyer, attorney-at-law.",0.0
 abóso,n,noun,abuse.,-0.637
-abóso,v,verb,"to abuse, to take advantage of.",-0.637
+abóso,v,verb,"to abuse, to take advantage of.",-0.494
 ábri,v,verb,"to unlock, to unfasten, to open.",0.0
 abríl,n,noun,april.,0.0
 ábtik,adj,adjective,"active, brisk, lively.",0.735
@@ -20,11 +20,11 @@ abú,n,noun,ash.,0.0
 abúnu,n,noun,fertilizer.,0.0
 abúnu,v,verb,to fertilize.,0.0
 abút,v,verb,"to arrive, to reach, to come to.",0.026
-abút,adj,adjective,"cranky, irritable, moody.",0.026
+abút,adj,adjective,"cranky, irritable, moody.",-0.681
 alabútun,na,noun formative,ang tigúlang.,0.0
 ábyan,n,noun,"friend, buddy.",0.494
 ákig,n,noun,"anger, hatred.",-0.836
-ákig,v,verb,"to be angry, to scold.",-0.836
+ákig,v,verb,"to be angry, to scold.",-0.718
 akú,pr,pronoun,"i, me (first person singular nominal pronoun).",0.0
 áku’,v,verb,"to own, to claim, to promise, to swear, to admit.",0.44
 ákun,pr,pronoun,"my, mine (first person singular pre-possessive pronoun).",0.0
@@ -59,16 +59,16 @@ ahénte,n,noun,agent.,0.0
 alabá’ab,adj,adjective,"of liquid, lukewarm.",0.0
 álak,n,noun,"hard drink, liquor.",-0.103
 alágad,n,noun,adopted person.,0.0
-alágad,v,verb,"to adopt, to take care of someone.",0.0
+alágad,v,verb,"to adopt, to take care of someone.",0.599
 aláhas,n,noun,jewelry.,0.0
 álam,n,noun,"wisdom, knowledge.",0.527
-álam,adj,adjective,"bright, smart, brilliant.",0.527
-álam,v,verb,"to become smart, to become brilliant.",0.527
+álam,adj,adjective,"bright, smart, brilliant.",0.856
+álam,v,verb,"to become smart, to become brilliant.",0.758
 alámbre,n,noun,wire.,0.0
 alangá’ang,n,noun,slight fever.,0.0
 alangá’ang,adj,adjective,"feverish, having a slight temperature.",0.0
 álang’álang,adj,adjective,"doubtful, immature.",-0.34
-álang’álang,v,verb,to hesitate.,-0.34
+álang’álang,v,verb,to hesitate.,-0.273
 alangáy,adj,adjective,"equal, the same.",0.0
 alás,pt,particle,time particle used with time-telling from dos until dose.,0.0
 álat,n,noun,saltiness.,0.0
@@ -78,8 +78,8 @@ alát,n,noun,native basket made of woven bamboo strips.,0.0
 aláy’ay,v,verb,"to cradle, to support, to hold arms under some person or thing so as to support.",0.687
 alkálde,n,noun,mayor.,0.0
 alkánse,n,noun,loss in terms of money.,-0.318
-alkánse,v,verb,"to lose some amount due to mismanagement in selling, to fail to gain.",-0.318
-alkánse,na,noun formative,’alkánse akú sa pagbalígya’.,-0.318
+alkánse,v,verb,"to lose some amount due to mismanagement in selling, to fail to gain.",-0.421
+alkánse,na,noun formative,’alkánse akú sa pagbalígya’.,0.0
 alkansíya,n,noun,"coin bank, empty coconut shell used as a coin bank.",-0.202
 alkítran,n,noun,"tar, asphalt.",0.0
 alibángbang,n,noun,butterfly.,0.0
@@ -99,13 +99,13 @@ alúng’ung,n,noun,"opinion, idea, thought, knowledge.",0.0
 áman,v,verb,to prepare.,0.0
 amargóso,n,noun,bitter melon.,-0.421
 amát’amát,adv,adverb,"gradually, little by little.",0.0
-amát’amát,v,verb,"to start slowly, to gain speed, to leave one by one.",0.0
+amát’amát,v,verb,"to start slowly, to gain speed, to leave one by one.",0.494
 amáy,n,noun,father.,0.0
 ámba,n,noun,"prayer, chant, song.",0.0
-ámba,v,verb,"to sing, to pray, to adore.",0.0
+ámba,v,verb,"to sing, to pray, to adore.",0.71
 ámbit,v,verb,"to participate, to share in.",0.296
 ámbung,n,noun,"radiance, beauty.",0.735
-ámbung,adj,adjective,"radiant, effulgent, beautiful.",0.735
+ámbung,adj,adjective,"radiant, effulgent, beautiful.",0.791
 ámbut,id,idiom,i don’t know.,0.0
 amérika,n,noun,america.,0.0
 amerikána,n,noun,"formal coat for men, female american citizen.",0.0
@@ -116,7 +116,7 @@ amimíluk,n,noun,eyelash.,0.0
 amínhan,n,noun,north.,0.0
 ámlig,v,verb,"to handle with care, to be, careful.",0.586
 ámpu’,n,noun,"prayer, pleading.",0.0
-ámpu’,v,verb,"to pray, to beseech, to beg, to plead.",0.0
+ámpu’,v,verb,"to pray, to beseech, to beg, to plead.",0.318
 ámu,n,noun,"boss, employer, master.",0.0
 amú,pr,pronoun,"it, that.",0.0
 amú,adv,adverb,similarly.,0.0
@@ -124,7 +124,7 @@ amú’,n,noun,monkey.,0.0
 amúma,v,verb,"to be hospitable, to entertain.",0.318
 ámun,pr,pronoun,"our, ours (first person exclusive plural pre-possessive pronoun).",0.128
 ámut,n,noun,"subscription, donation, contribution.",0.0
-ámut,v,verb,"to contribute, to help by giving something.",0.0
+ámut,v,verb,"to contribute, to help by giving something.",0.625
 ámyun,adj,adjective,fragrant.,0.0
 1-an,va,verbal affix,"infinitive, benefactive-locative focus affix.",0.0
 2-an,va,verbal affix,designating reciprocity of action.,0.0
@@ -134,9 +134,9 @@ anák,v,verb,"to bear a child, to give birth, to be godparent to a child during 
 1-anan,na,noun formative,noun formative affix denoting reciprocal action.,0.0
 2-anan,va,verbal affix,designating reciprocity of action.,0.0
 anád,adj,adjective,"usual, sophisticated, accustomed to.",0.557
-anád,v,verb,"to be accustomed to, to make familiar through experience.",0.557
+anád,v,verb,"to be accustomed to, to make familiar through experience.",0.0
 ánay,pt,particle,"please, wait a minute.",0.318
-ánay,n,noun,termite.,0.318
+ánay,n,noun,termite.,0.0
 -ánay,na,noun formative,variant of -ánan.,0.0
 ánaw,n,noun,"deluge, great flood.",0.625
 ándam,v,verb,"to be cautious, to be careful, to beware, to be prepared.",0.273
@@ -165,12 +165,12 @@ anúnsyo,v,verb,"to announce, to broadcast, to make public.",0.0
 ányo,n,noun,year.,0.0
 áng,pt,particle,definite noun marker.,0.273
 ángay,adj,adjective,"appropriate, becoming.",0.0
-ángay,v,verb,"to be well matched, to be equal, to look becoming, to fit.",0.0
+ángay,v,verb,"to be well matched, to be equal, to look becoming, to fit.",0.557
 ángkab,v,verb,"of animals, to snap, to bite, to seize with teeth so as to grip or bite.",0.0
 ángkla,n,noun,anchor.,0.0
 ángkun,v,verb,"to acquire, to attain, to possess.",0.0
 ángga’,n,noun,"nickname, pet name.",0.0
-ángga’,v,verb,"to fondle, to caress, to pet, to care for very much.",0.0
+ángga’,v,verb,"to fondle, to caress, to pet, to care for very much.",0.494
 ánggid,adj,adjective,"alike, similar.",0.0
 ánggid,v,verb,"to be alike, to compare.",0.0
 angút,v,verb,"to join together, to tie together, to fasten together.",0.296
@@ -200,7 +200,7 @@ aritmétika,n,noun,arithmetic.,0.0
 arítus,n,noun,earring.,0.0
 ármas,n,noun,"weapon, arms.",-0.296
 árte,n,noun,"art, design, decoration;  actor, actress.",0.0
-árte,adj,adjective,"creative, artistic, vain.",0.0
+árte,adj,adjective,"creative, artistic, vain.",0.026
 artíkulo,n,noun,article.,0.0
 arúy,intj,interjection,ouch.,0.0
 -aryo,na,noun formative,noun formative affix designating state of being.,0.0
@@ -238,16 +238,16 @@ atráso,adj,adjective,"late, delayed.",-0.226
 atsára,n,noun,pickled green papaya.,0.0
 atú,d,deictic,"that (short form to mean yonder, far from both the speaker and the listener).",0.0
 atúbang,v,verb,"to face, to confront, to stand before.",-0.178
-atúbang,adv,adverb,in front of.,-0.178
+atúbang,adv,adverb,in front of.,0.0
 átun,pr,pronoun,"our, ours (first person inclusive pre-possessive pronoun).",0.0
 atúp,n,noun,roof.,0.0
 atutúli,n,noun,earwax.,0.0
 áwa’,n,noun,"mercy, compassion, pity.",0.511
-áwa’,v,verb,to have compassion for.,0.511
+áwa’,v,verb,to have compassion for.,0.459
 áwas,v,verb,to overflow.,0.0
 awát,v,verb,"to annoy, to waste another person’s time, to delay.",-0.791
 áway,n,noun,"combat, fight, assault.;  opponent.",-0.832
-áway,v,verb,"to fight, to go to war.",-0.832
+áway,v,verb,"to fight, to go to war.",-0.758
 áwto,n,noun,"car, automobile.",0.0
 áy,intj,interjection,"oh, ouch, oh no.",0.0
 -ay,va,verbal affix,variant of -an.,0.0
@@ -258,7 +258,7 @@ ayáw,v,verb,"to have more than enough, to be satiated, to be abundantly fed.",0
 ayáw,na,noun formative,’ayáwan si pédro sang pagká’un.,0.0
 áyhan,con,conjunction,"perhaps, therefore.",0.0
 áyu,v,verb,"to become well, to fix something to make it work, to become good.",0.612
-áyu,adj,adjective,"fine, good, well.",0.612
+áyu,adj,adjective,"fine, good, well.",0.7
 áyu’,n,noun,"bargain, discount.",0.202
 áyu’,v,verb,"to bargain, to ask for a discount.",0.202
 bá’bá,n,noun,mouth.,0.0
@@ -266,7 +266,7 @@ babáyi,n,noun,"female, woman.",0.0
 bábuy,n,noun,"pig, pork.",0.0
 báka,n,noun,"cow, beef.",0.0
 baká’,adj,adjective,"bow-legged, walking as if under a strain.",-0.052
-baká’,v,verb,to walk under weight.,-0.052
+baká’,v,verb,to walk under weight.,0.0
 bakág,v,verb,"to get annoyed, to lose one’s patience.",-0.649
 bakál,v,verb,"to buy, to purchase.",0.0
 bakasyón,n,noun,"vacation, leisure trip.",0.0
@@ -292,16 +292,16 @@ bagásu,n,noun,bagasse.,0.0
 bagátnan,n,noun,south.,0.0
 bágay,n,noun,"thing, idea, notion, effects.",0.0
 bágid,v,verb,"to rub together, to strike together.",-0.128
-bágid,adj,adjective,"of fruits, unripe, nearly ripe.",-0.128
+bágid,adj,adjective,"of fruits, unripe, nearly ripe.",0.0
 bágrung,n,noun,"roaring sound, thunderous sound.",0.0
-bágrung,v,verb,"to roar, to thunder, to make a deafening sound.",0.0
+bágrung,v,verb,"to roar, to thunder, to make a deafening sound.",-0.296
 bágrut,v,verb,to gnash or grind one’s teeth.,0.0
 bágsak,n,noun,bedbug.,0.0
 bágting,v,verb,"to ring a bell, to toll.",0.0
 bágtung,v,verb,to wrap in a bundle especially with a woven cloth.,0.0
 bágu,adv,adverb,before.,0.0
 bág’u,adj,adjective,"new, recent, unfamiliar, novel.",0.318
-bág’u,v,verb,"to make new, to change, to renew.",0.318
+bág’u,v,verb,"to make new, to change, to renew.",0.0
 bagúl,n,noun,hard shell of the coconut.,-0.103
 bágyu,n,noun,"rainstorm, typhoon, hurricane.",0.0
 bágyu,v,verb,"to be stormy, to be forceful.",0.0
@@ -309,11 +309,11 @@ bahá’,n,noun,flood.,0.0
 bahá’,v,verb,to cover with a flood.,0.0
 bahála’,v,verb,to be responsible for.,0.318
 báhin,n,noun,"part, chapter, share.",0.296
-báhin,v,verb,"to divide, to deal with‚ to make small parts of.",0.296
+báhin,v,verb,"to divide, to deal with‚ to make small parts of.",0.0
 báhit,v,verb,to take something out from the fire.,-0.34
 báhu,n,noun,"of music, bass.",0.0
 báhu’,n,noun,"smell, odor, stink.",-0.402
-báhu’,adj,adjective,"odorous, pungent, acrid smelling, stinking.",-0.402
+báhu’,adj,adjective,"odorous, pungent, acrid smelling, stinking.",-0.527
 bahúg,n,noun,food for pigs.,0.0
 bahúg,v,verb,"of animals, to feed swine, or any animal; of people, to eat mixed foods simultaneously.",0.0
 bahúl,adj,adjective,"coarse, loose or rough texture.",-0.318
@@ -336,15 +336,15 @@ balás,n,noun,sand.,0.0
 balása,v,verb,"to shuffle, to mix up as of cards.",0.0
 balasúbas,adj,adjective,"rowdy, rude, good-for-nothing, inconsiderate.",-0.71
 balatí’an,n,noun,"disease, illness, feeling, physical condition.",-0.296
-balatí’an,v,verb,"to suffer from a disease, to be sick.",-0.296
+balatí’an,v,verb,"to suffer from a disease, to be sick.",-0.778
 baláy,n,noun,"house, home, dwelling, building.",0.026
-baláy,v,verb,"to build a house, to put up a house or building.",0.026
+baláy,v,verb,"to build a house, to put up a house or building.",0.0
 bálaybálay,n,noun,playhouse.,0.0
 bálaybálay,v,verb,to go from one house to another.,0.0
 baláybay,n,noun,"verse, recitation, rhyme, poetry.",0.0
 balbolá,n,noun,valve.,0.0
 bálda,n,noun,"pain, sickness, ache, soreness.",-0.71
-bálda,adj,adjective,"paralytic, sickly, low resistance against illness.",-0.71
+bálda,adj,adjective,"paralytic, sickly, low resistance against illness.",-0.586
 báldi,n,noun,"bucket, pail.",0.0
 baldúsa,n,noun,"concrete pavement, cemented floor.",0.0
 bále,v,verb,"to be about, to amount to, to equal to.",0.0
@@ -352,10 +352,10 @@ bálhas,n,noun,"perspiration, sweat, condensation.",0.0
 bálhas,v,verb,"to perspire, to sweat.",0.0
 bálhin,v,verb,"to change, to exchange.",0.0
 balí’,n,noun,"fracture, break.",0.0
-balí’,adj,adjective,"broken, fractured.",0.0
-balí’,v,verb,"to break, to fracture, to rapture.",0.0
+balí’,adj,adjective,"broken, fractured.",-0.477
+balí’,v,verb,"to break, to fracture, to rapture.",0.153
 balíbad,n,noun,"excuse, reason, refusal.",0.077
-balíbad,v,verb,"to find an excuse, to give a reason, to refuse.",0.077
+balíbad,v,verb,"to find an excuse, to give a reason, to refuse.",-0.226
 balík,v,verb,"to come back, to return, to retrace one’s steps.",0.0
 balikawáng,n,noun,hip.,0.0
 balikíd,v,verb,"to turn one’s head to look back, to turn over to the other side in a lying position.",-0.527
@@ -375,7 +375,7 @@ bálun,v,verb,"to take provisions along, to bring money or food on a trip.",0.0
 balúta,n,noun,ballot.,0.0
 bálsa,n,noun,"raft, ferry, a native raft made of tied bamboo trunks.",0.0
 bálus,n,noun,"answer, reply, revenge, reprisal, reward, vendetta.",0.077
-bálus,v,verb,"to answer, to reply, to strike back, to take revenge on.",0.077
+bálus,v,verb,"to answer, to reply, to strike back, to take revenge on.",-0.599
 balúskay,v,verb,"to rummage, to make a thorough search.",0.0
 balút,n,noun,"unhatched embryo of duck or chicken, boiled and eaten as a delicacy.",0.0
 balyéna,n,noun,whale.,0.0
@@ -429,7 +429,7 @@ bárbas,v,verb,to shave the beard off.,0.0
 barbéro,n,noun,barber.,0.0
 barílis,n,noun,barrel.,0.0
 barína,n,noun,awl.,0.0
-barína,v,verb,"to drill, to bore a hole with an awl.",0.0
+barína,v,verb,"to drill, to bore a hole with an awl.",-0.25
 barukán,n,noun,urinary bladder.,0.0
 barútu,n,noun,"canoe, a native canoe made from carved trunks of trees.",0.0
 báryu,n,noun,a unit of local government and area division having the status of a village.,0.0
@@ -443,7 +443,7 @@ báskug,adj,adjective,"of sound, loud; of force, strong.",0.511
 bási’,v,verb,"may, may be, might.",0.0
 báso,n,noun,drinking glass.,0.0
 básta,con,conjunction,"because, provided, as long as, if, just, i said so.",0.0
-básta,pt,particle,"i said so, it has been agreed upon.",0.0
+básta,pt,particle,"i said so, it has been agreed upon.",0.273
 bástun,n,noun,"walking stick, cane.",0.0
 bástus,adj,adjective,"rude, uncouth, offensive in manner or action, lacking in social refinement.",-0.718
 básul,v,verb,"to scold, to chide, to blame, to regret, to repent, to reproach.",-0.784
@@ -456,7 +456,7 @@ báta’,v,verb,"to deliver a child, to bear a child.",0.0
 batá’batá’,adj,adjective,"younger, childish.",-0.296
 bátak,v,verb,"to pull upward, to raise.",0.0
 batás,v,verb,"to bear, to suffer, to endure.",-0.542
-batás,n,noun,endurance.,-0.542
+batás,n,noun,endurance.,0.0
 batásan,n,noun,"manner, character, custom, behavior.",0.0
 batí,v,verb,"of liquid and powder, to beat together, to mix together.",0.0
 batí’,v,verb,"to hear, to be able to hear.",0.0
@@ -476,7 +476,7 @@ bátun,v,verb,"to receive, to accept, to take.",0.382
 batúta,n,noun,"police club, wooden club.",0.0
 bátya’,n,noun,native wide wooden tub or basin.,0.0
 bátyag,n,noun,"feeling, sense.",0.128
-bátyag,v,verb,"to feel, to have a sensation.",0.128
+bátyag,v,verb,"to feel, to have a sensation.",0.0
 ba’ú,n,noun,land turtle.,0.0
 ba’úg,adj,adjective,"of egg, rotten, sterile.",-0.511
 báw’as,adj,adjective,"of people, sterile, barren, childless.",0.0
@@ -485,7 +485,7 @@ bawtisár,v,verb,"to baptize, to pour water on the head as in baptism.",0.0
 báya’,v,verb,"to leave, to quit, to abandon.",-0.477
 bayábas,n,noun,guava.,0.0
 báyad,n,noun,payment.,0.0
-báyad,v,verb,"to pay, to settle an account, to spend.",0.0
+báyad,v,verb,"to pay, to settle an account, to spend.",-0.103
 bayáw,n,noun,"sister-in-law, brother-in-law.",0.0
 báyaw,v,verb,"to elevate, to lift, to raise as a host during roman catholic mass service.",0.0
 báybay,n,noun,"beach, coast, shore.",0.0
@@ -506,17 +506,17 @@ bikoláno,n,noun,"language spoken principally in albay, camarines sur, catanduan
 biktíma,n,noun,victim.,-0.273
 bigúti,n,noun,moustache.,0.0
 bíhag,n,noun,"captive, hostage.",0.0
-bíhag,adj,adjective,"captivating, attractive.",0.0
-bíhag,v,verb,"to capture, to abduct, to kidnap, to attract, to bait.",0.0
+bíhag,adj,adjective,"captivating, attractive.",0.44
+bíhag,v,verb,"to capture, to abduct, to kidnap, to attract, to bait.",0.361
 bílang,v,verb,"to consider, to esteem as.",0.0
 bilánggu,n,noun,prisoner.,-0.542
-bilánggu,v,verb,"to capture, to imprison.",-0.542
+bilánggu,v,verb,"to capture, to imprison.",0.0
 bilás,n,noun,the affinal relation of husbands or wives of siblings.,0.0
 bilí,n,noun,"cost, amount, price.",0.0
-bilí,v,verb,"to be worth, to cost, to be the price of.",0.0
+bilí,v,verb,"to be worth, to cost, to be the price of.",0.226
 bilíd,v,verb,"to hold with the hands so as to inspect closely, especially clothes.",0.0
 bílin,n,noun,"request, last words.",0.0
-bílin,v,verb,"to enjoin, to leave behind.",0.0
+bílin,v,verb,"to enjoin, to leave behind.",-0.052
 bilín,n,noun,"balance account, remainder, left over.",0.0
 bílug,n,noun,"piece, part.",0.0
 bilúg,adj,adjective,"round, circle.",0.0
@@ -528,7 +528,7 @@ bínhi’,n,noun,"seedling, plant grown from seed.",0.0
 bíno,n,noun,wine.,0.0
 bintána’,n,noun,window.,0.0
 bingáw,adj,adjective,"of teeth, missing, jagged.",-0.296
-bingáw,v,verb,"of teeth, to lose a tooth, to knock out a tooth, to jag or notch accidentally.",-0.296
+bingáw,v,verb,"of teeth, to lose a tooth, to knock out a tooth, to jag or notch accidentally.",-0.625
 bíngkal,v,verb,"to break in a door, to force an entrance.",0.0
 bírhen,n,noun,"virgin, mary, the mother of jesus christ.",0.0
 bís’ak,v,verb,"of wood, to cleave, to split.",0.0
@@ -539,10 +539,10 @@ bisikléta,n,noun,bicycle.,0.0
 bisikléta,v,verb,to ride a bicycle.,0.0
 bísi,n,noun,vice-president.,0.0
 bisíta,n,noun,"visitor, guest.",0.0
-bisíta,v,verb,"to visit, to call upon, to pay a visit.",0.0
+bisíta,v,verb,"to visit, to call upon, to pay a visit.",-0.103
 bísta,n,noun,"view, panorama, scene.",0.0
 bísyu,n,noun,"vice, fault.",-0.402
-bísyu,v,verb,"to be naughty, to be wicked, to disobey, to fuss.",-0.402
+bísyu,v,verb,"to be naughty, to be wicked, to disobey, to fuss.",-0.527
 bítad,v,verb,"to open, to unfold, to spread out so as to see closely.",0.0
 bitamína,n,noun,"vitamin, nutrient.",0.296
 bítay,v,verb,"to hang, to string up, to suspend.",-0.318
@@ -569,14 +569,14 @@ botíka,n,noun,"medicine store, drug store.",0.0
 bóto,n,noun,vote.,0.0
 bóto,v,verb,"to vote, to cast a vote.",0.0
 bú’ang,adj,adjective,"fool, stupid, crazy.",-0.827
-bú’ang,n,noun,"fool, simpleton, idiot.",-0.827
+bú’ang,n,noun,"fool, simpleton, idiot.",-0.735
 bu’áya,n,noun,"alligator, crocodile.",0.0
 búbu,v,verb,"to baptize, to pour water into a container.",0.0
 bubún,n,noun,well.,0.273
 bubungán,n,noun,roof.,0.0
 buká’,n,noun,"opening, crack.",0.0
-buká’,adj,adjective,"open, cut, split, cracked.",0.0
-buká’,v,verb,"to cut open, to crack.",0.0
+buká’,adj,adjective,"open, cut, split, cracked.",-0.273
+buká’,v,verb,"to cut open, to crack.",-0.273
 búkad,v,verb,"to open, to unfold, to bloom, to undo a package.",0.0
 bukál,n,noun,"bubble, froth.",0.0
 bukál,v,verb,"to boil, to bubble.",0.0
@@ -584,7 +584,7 @@ bukás,adj,adjective,"opened, candid.",0.0
 bukás,v,verb,"to open, to unfold, to begin.",0.0
 búkaw,n,noun,owl.,0.0
 búkbuk,n,noun,weevil.,0.0
-búkbuk,v,verb,"to crash, to grind, to make into powder.",0.0
+búkbuk,v,verb,"to crash, to grind, to make into powder.",-0.402
 búkid,n,noun,"hill, mountain.",0.0
 bukú,n,noun,"node, joint.",0.0
 búku’,n,noun,"plan, proposal, intention, proposition.",0.0
@@ -595,29 +595,29 @@ búkud,adj,adjective,"secure, strong.",0.691
 bukúl,n,noun,"lump, swelling, protuberance; of plants, bud.",0.0
 búkut,v,verb,"to confine, to isolate, to pen or coop up.",-0.202
 búdhi’,n,noun,"conscience, inner self.",0.0
-búdhi’,v,verb,"to betray, to be faithless, to be disloyal.",0.0
+búdhi’,v,verb,"to betray, to be faithless, to be disloyal.",-0.735
 búdlay,adj,adjective,"difficult, hard.",-0.44
-búdlay,v,verb,"to feel the difficulty, to tire.",-0.44
+búdlay,v,verb,"to feel the difficulty, to tire.",-0.34
 bugá,v,verb,"to belch forth, to spit out as a volcano.",0.0
 bugál,n,noun,"pride, haughtiness.",0.34
-bugál,v,verb,"to be proud, to show off.",0.34
-bugál,adj,adjective,"plentiful, abundant.",0.34
-bugál,v,verb,"to be plentiful, to progress.",0.34
+bugál,v,verb,"to be proud, to show off.",0.477
+bugál,adj,adjective,"plentiful, abundant.",0.0
+bugál,v,verb,"to be plentiful, to progress.",0.421
 bugás,n,noun,unhusked rice grains.,0.0
 búg’at,adj,adjective,"heavy, burdensome, cumbersome.",-0.421
 bugáy,n,noun,"grace, bounty, blessing.",0.718
-bugáy,v,verb,"to shower with blessings, to give grace.",0.718
+bugáy,v,verb,"to shower with blessings, to give grace.",0.743
 búgkus,n,noun,"bundle, string used to tie a package.",0.0
 búgkus,v,verb,"to bundle together, to tie with a string.",0.0
 búgnu’,v,verb,"to greet, to speak to, to interact with.",0.318
 búgras,v,verb,"of string, to break off, to snap off.",0.0
 búgsay,n,noun,oar.,0.0
-búgsay,v,verb,"to row, to strike the water with an oar.",0.0
+búgsay,v,verb,"to row, to strike the water with an oar.",-0.128
 búgsuk,v,verb,"to erect by driving into the soil, to thrust through with force to make it stand.",0.0
 búgtaw,v,verb,"to waken, to awake.",0.0
 búgtu’,v,verb,"to snap, to break off.",0.0
 búgtung,adj,adjective,"alone, one and only.",-0.25
-búgtung,n,noun,only-child.,-0.25
+búgtung,n,noun,only-child.,0.0
 búg’us,adj,adjective,"entire, complete, whole-hearted.",0.0
 buhahá’,adj,adjective,"lavish, extravagant, spend-thrift.",0.0
 búhat,v,verb,"to do, to make, to perform.",0.0
@@ -628,7 +628,7 @@ búhin,v,verb,"to subtract, to deduct, to decrease, to lessen.",0.0
 buhís,n,noun,"tax, levy.",0.0
 buhís,v,verb,to levy tax.,0.0
 búhu’,n,noun,"hole, crevice, aperture.",0.0
-búhu’,v,verb,to bore or drill a hole.,0.0
+búhu’,v,verb,to bore or drill a hole.,-0.25
 buhúk,n,noun,hair on the head.,0.0
 bulá’,n,noun,"bubble, froth, foam.",0.0
 bulá’,v,verb,"to bubble, to foam, to spume at the mouth.",0.0
@@ -660,7 +660,7 @@ búnak,v,verb,"to wet, to dampen.",0.0
 búnak,adj,adjective,wet.,0.0
 bún’ag,v,verb,to dry in the sun.,0.0
 bunál,n,noun,"whip, lash.",0.0
-bunál,v,verb,"to trash, to strike with a whip.",0.0
+bunál,v,verb,"to trash, to strike with a whip.",-0.128
 bunáyag,adj,adjective,"cordial, gracious.",0.557
 búndul,adj,adjective,"slow, tardy.",0.0
 bunít,n,noun,"fish hook, angle.",0.0
@@ -705,30 +705,30 @@ búswang,v,verb,to break or burst and discharge pus.,0.0
 butáng,n,noun,"thing, object.",0.0
 butáng,v,verb,"to put down, to lay on a place.",0.0
 butángbútang,n,noun,"rumor, false accusation.",-0.25
-butángbútang,v,verb,"to slander, to backbite, to spread false rumors.",-0.25
+butángbútang,v,verb,"to slander, to backbite, to spread false rumors.",0.0
 bútkun,n,noun,arm.,0.0
 búthu’,v,verb,"to go to school, to study, to learn.",0.0
 butí,n,noun,small pox.,0.0
 butí’,v,verb,to pop like a corn or rice.,0.361
 butíg,n,noun,"lie, falsehood.",0.0
-butíg,adj,adjective,"liar, sly.",0.0
+butíg,adj,adjective,"liar, sly.",-0.511
 butíg,v,verb,"to tell a lie, to make a false statement.",0.0
 bútlak,v,verb,"of the sun, to rise.",0.0
 butónes,n,noun,button.,0.0
 butúd,adj,adjective,"bloated, distended.",0.0
-butúd,v,verb,"to become bloated, to suffer from the wind.",0.0
+butúd,v,verb,"to become bloated, to suffer from the wind.",-0.542
 bútung,v,verb,"to pull, to drag.",-0.226
 bútyag,v,verb,"to tell others, to disclose, to let out a secret.",0.0
 bu’úl,n,noun,heel.,0.0
 bú’ung,v,verb,"to break into small pieces, to scatter into fragments.",0.0
 bú’ut,adj,adjective,"kind, amiable, considerate.",0.743
 bu’út,n,noun,"will, wants, desire, wish.",0.66
-bu’út,v,verb,"to will, to desire, to wish, to do as one pleases.",0.66
+bu’út,v,verb,"to will, to desire, to wish, to do as one pleases.",0.796
 búya,n,noun,"bribe, fix.",-0.202
-búya,v,verb,"to bribe, to buy like a person in marriage, to offer a dowry.",-0.202
+búya,v,verb,"to bribe, to buy like a person in marriage, to offer a dowry.",0.178
 buyáyag,v,verb,"to show up, to expose, to disclose a confidential matter.",-0.128
 buyánbuyań,adj,adjective,"ne’er do well, neglectful.",-0.226
-buyánbuyań,v,verb,"to neglect, to be nonchalant, to be unconcerned.",-0.226
+buyánbuyań,v,verb,"to neglect, to be nonchalant, to be unconcerned.",-0.599
 buyáyaw,v,verb,"to abuse in strong language, to curse, to scold, to use swear words.",-0.807
 búylug,v,verb,"to accompany, to join, to group together.",0.296
 búyuk,v,verb,"to bend, to curve, to incline, to persuade.",0.0
@@ -752,13 +752,13 @@ kabalyéro,n,noun,"knight, gentleman.",0.0
 kabán,n,noun,"chest, a native basket holding a quantity of approximately one cavan or 25 liters.",0.0
 kabatá’an,n,noun,children.,0.0
 kabáy,pt,particle,"hope so, in all probability, god willing.",0.612
-kabáy,v,verb,"to wish for, to desire, to request.",0.612
+kabáy,v,verb,"to wish for, to desire, to request.",0.66
 kabáyu’,n,noun,horse.,0.0
 kabáyu’,v,verb,to ride on horseback.,0.0
 kabeséra,n,noun,"head of the table, chairman, leader.",0.0
 kábig,v,verb,"to consider, to hold or take for, to look upon as.",0.0
 kabít,id,idiom,mistress.,0.0
-kabít,v,verb,to hand up.,0.0
+kabít,v,verb,to hand up.,0.494
 kábu,n,noun,"foreman, overseer.",0.0
 kabú’,n,noun,can or container used for pouring water over the body when taking a bath.,0.0
 kabúg,n,noun,bat.,0.0
@@ -770,7 +770,7 @@ káda,adj,adjective,"every, each.",0.0
 kádaw,v,verb,to wade in the water.,0.0
 kádena,n,noun,chain.,0.0
 kádlaw,n,noun,laughter.,0.494
-kádlaw,v,verb,to laugh.,0.494
+kádlaw,v,verb,to laugh.,0.557
 kádtu,v,verb,"to go to, to depart.",0.0
 kafé,n,noun,coffee.,0.0
 kág,con,conjunction,"and, furthermore.",0.0
@@ -779,13 +779,13 @@ kagát,v,verb,"to bite, to snap, to catch between the teeth.",0.0
 kágaw,n,noun,"germ, microbe.",0.0
 kag’ína,adv,adverb,variant of ka’ína.,0.0
 kagúla’,n,noun,"noise, excitement.",0.494
-kagúla’,v,verb,"to be noisy, to be excited.",0.494
+kagúla’,v,verb,"to be noisy, to be excited.",0.178
 kagulángan,n,noun,"forest, uncleared land.",0.0
 kagús,v,verb,to scrape off.,0.0
 káha,n,noun,"jewel box, safe.",0.66
 kahápun,adv,adverb,yesterday.,0.0
 káhas,adj,adjective,"violent, daring.",-0.34
-káhas,v,verb,"to dare, to make a challenge, to be violent.",-0.34
+káhas,v,verb,"to dare, to make a challenge, to be violent.",-0.557
 kahéro,n,noun,cashier.,0.0
 káhig,v,verb,"to rake, to shovel.",0.0
 kahigayúnan,n,noun,chance.,0.25
@@ -796,15 +796,15 @@ kahún,n,noun,box.,0.0
 káhuy,n,noun,"tree, wood, timber.",0.0
 ka’ína,adv,adverb,"earlier, a while ago.",0.0
 ka’íngin,n,noun,"uphill land, land cleared by burning.",0.103
-ka’íngin,v,verb,to clear a piece of land by burning.,0.103
+ka’íngin,v,verb,to clear a piece of land by burning.,0.382
 kalabánan,adv,adverb,"mostly, for the greater part.",0.361
-kalabánan,n,noun,majority.,0.361
+kalabánan,n,noun,majority.,0.0
 kalabása,n,noun,yellow squash.,0.0
 kalabéra,n,noun,"skeleton, framework.",0.0
 kalág,n,noun,"ghost, soul, spirit.",-0.153
 kaláha’,n,noun,frying pan.,0.0
 kalám,adj,adjective,"sensitive to tickling, uncomfortable.",-0.382
-kalám,v,verb,to become ticklish.,-0.382
+kalám,v,verb,to become ticklish.,0.0
 kalamánsi’,n,noun,"lime, lemon.",0.0
 kalámay,n,noun,refined sugar.,0.0
 kalámbre,v,verb,"to chill, to tremble, to shiver.",-0.273
@@ -852,7 +852,7 @@ kampyón,n,noun,champion.,0.599
 kamú,pr,pronoun,you (plural second person nominal pronoun).,0.0
 kamumú’u,n,noun,claw.,0.0
 kamústa,id,idiom,how are you.,0.0
-kamústa,v,verb,"to greet, to shake hands with, to inquire of one’s health.",0.0
+kamústa,v,verb,"to greet, to shake hands with, to inquire of one’s health.",0.153
 kamút,n,noun,hand.,0.494
 kamúti,n,noun,sweet potato.,0.459
 kamútingkáhuy,n,noun,cassava.,0.0
@@ -893,7 +893,7 @@ kapuslánan,n,noun,"usefulness, advantage.",0.494
 kapút,v,verb,"to hold onto, to grasp, to clutch.",0.0
 kapúti,n,noun,raincoat.,0.0
 kápuy,n,noun,"tiredness, exhaustion.",-0.361
-kápuy,v,verb,"to be tired, to be exhausted.",-0.361
+kápuy,v,verb,"to be tired, to be exhausted.",-0.66
 kápyut,v,verb,"to hang onto for support, to grasp for support.",0.66
 karábkab,v,verb,"to inflame, to ignite, to burst into flame.",0.0
 kárbaw,n,noun,"carabao, water buffalo.",0.0
@@ -920,7 +920,7 @@ kasál,v,verb,"to perform a marriage, to officiate a wedding.",0.0
 kasán’u,adv,adverb,"a while ago, a little time passed.",0.0
 kasangkápan,n,noun,"furniture, devices, materials.",0.0
 kaséra,n,noun,"boarder, person who pays room and board.",0.0
-kaséra,v,verb,to pay room and board.,0.0
+kaséra,v,verb,to pay room and board.,-0.103
 kaseróla,n,noun,cooking pot.,0.0
 kasilíngan,n,noun,neighbor.,0.0
 kasílyas,n,noun,toilet.,0.0
@@ -951,7 +951,7 @@ ka’ún,v,verb,"to eat, to devour.",0.0
 ka-…-un,na,noun formative,"noun formative affix designating state, quality, degree.",0.0
 káwat,n,noun,"burglar, thief, robber.",-0.791
 káwat,adj,adjective,"thief, robber.",-0.791
-káwat,v,verb,"to steal, to rob.",-0.791
+káwat,v,verb,"to steal, to rob.",-0.778
 káway,v,verb,"to dangle, to wave a hand, to wave in the wind.",0.494
 kawáyan,n,noun,bamboo.,0.0
 káw’it,n,noun,hook.,0.0
@@ -1022,7 +1022,7 @@ konsehál,n,noun,"municipal councilman, councilman.",0.0
 konsého,n,noun,"municipal council, body of elected councilmen.",0.0
 konsyérto,n,noun,orchestra concert.,0.0
 kóntra,n,noun,"opponent, enemy.",-0.542
-kóntra,v,verb,"to oppose, to resist, to counteract.",-0.542
+kóntra,v,verb,"to oppose, to resist, to counteract.",0.0
 kontráto,n,noun,"agreement, legal contract.",0.572
 kongkréta,n,noun,"concrete, cement.",0.0
 kongresísta,n,noun,"congressman, representative to congress.",0.0
@@ -1059,7 +1059,7 @@ kúdlit,n,noun,"line, mark.",0.0
 kúdlit,v,verb,"to line, to mark, to draw with a pencil.",0.0
 kugá’,v,verb,"to throttle, to strangle, to choke.",-0.542
 kúgmat,n,noun,"terror, dread.",-0.751
-kúgmat,v,verb,"to be terrified, to be frightened, to be scared.",-0.751
+kúgmat,v,verb,"to be terrified, to be frightened, to be scared.",-0.869
 kúgus,v,verb,"to bear, to hug, to cradle like a baby, to carry a baby in the arms.",0.681
 kúha’,v,verb,"to take, to get, to take away, to procure.",0.0
 kúhit,v,verb,"to touch slightly to draw attention, to nudge.",0.0
@@ -1069,12 +1069,12 @@ kulámug,n,noun,dried mucus in the nose.,0.0
 kúlang,adj,adjective,"lacking, incomplete, inadequate, short of.",-0.402
 kúlang,v,verb,"to fall short of, to be inadequate.",-0.402
 kúlba’,n,noun,"anxiety, nervousness.",-0.44
-kúlba’,v,verb,"to be nervous, to be afraid.",-0.44
+kúlba’,v,verb,"to be nervous, to be afraid.",-0.273
 kúli’,adj,adjective,"slow, weak.",-0.44
 kulíhut,adv,adverb,"last, hindmost.",0.0
 kulú,n,noun,breadfruit.,0.0
 kulúb,adj,adjective,"inverted, upset, turned over.",-0.382
-kulúb,v,verb,"to invert, to turn over a deep container so that the bottom is up.",-0.382
+kulúb,v,verb,"to invert, to turn over a deep container so that the bottom is up.",0.0
 kúlun,n,noun,clay cooking pot.,0.0
 kulúng,v,verb,"to cage, to imprison.",0.0
 kulyápis,adj,adjective,emaciated.,0.0
@@ -1084,7 +1084,7 @@ kumbuyahán,n,noun,"company, partnership.",0.0
 kumpaníya,n,noun,"company, business enterprise.",0.0
 kumpáre,n,noun,"comrade, relationship between the godfather and parents of the godchild.",0.0
 kumpisár,n,noun,confession.,0.0
-kumpisár,v,verb,"to confess, to tell the truth.",0.0
+kumpisár,v,verb,"to confess, to tell the truth.",0.318
 kúmud,v,verb,"to grumble, to murmur, to sulk.",0.0
 kún,con,conjunction,"if, possibly if, provided that.",0.0
 kúndi’,con,conjunction,"although, but, well, therefore, might as well.",0.649
@@ -1092,12 +1092,12 @@ kundíman,n,noun,"filipino song which depicts mood changes of the people, usuall
 kuntáni’,pt,particle,"maybe, if possible, i hope.",0.44
 kunú,pt,particle,"according to, he or she said.",0.0
 kunúl,adj,adjective,"interrupted, shrank, dry (like a river).",0.077
-kunúl,v,verb,"to cease, to stop flowing, to run dry as a river.",0.077
+kunúl,v,verb,"to cease, to stop flowing, to run dry as a river.",-0.296
 kunúp,n,noun,"cloak, coat, overcoat.",0.0
 kunút,adj,adjective,wrinkled.,0.0
 kunút,v,verb,"to wrinkle, to crumple.",0.0
 kúnyag,n,noun,"chill, cold chill.",0.0
-kúnyag,v,verb,"to shake with chills, to shiver.",0.0
+kúnyag,v,verb,"to shake with chills, to shiver.",-0.178
 kúpkup,n,noun,"embrace, hug.",0.66
 kúpkup,v,verb,"to embrace, to hug.",0.66
 kupú’,v,verb,"to hang onto tightly, to embrace tightly, to cling to, to stick to like a lizard.",0.586
@@ -1107,7 +1107,7 @@ kúrba,v,verb,"to twist, to bend, to turn, to curve.",0.0
 kurbáda,n,noun,"street corner, street curve.",0.0
 kurbáta,n,noun,necktie.,0.0
 kúri’,adj,adjective,"slow, weak.",-0.44
-kúri’,v,verb,"to be slow, to have difficulty.",-0.44
+kúri’,v,verb,"to be slow, to have difficulty.",-0.34
 kuribúng,v,verb,to isolate in a quiet room.,-0.202
 kurinút,adj,adjective,"creased, wrinkled.",0.0
 kurinút,n,noun,"crease, fold, wrinkle.",0.0
@@ -1126,12 +1126,12 @@ kusína,n,noun,kitchen.,0.0
 kusinéro,n,noun,cook.,0.0
 kusípad,v,verb,"to thumb through, to pick with the fingers like corn from the cob.",0.361
 kusúg,adj,adjective,"strong, energetic, healthy.",0.836
-kusúg,n,noun,"energy, strength.",0.836
-kusúg,v,verb,"to become strong, to be energetic.",0.836
+kusúg,n,noun,"energy, strength.",0.649
+kusúg,v,verb,"to become strong, to be energetic.",0.735
 kúta’,n,noun,"prison, fort.",-0.511
 kutáwkutáw,v,verb,"to dilute, to mix with water.",0.0
 kútkut,n,noun,hole in the ground.,0.0
-kútkut,v,verb,"to excavate, to dig, to scoop out dirt from the ground so as to make a hole.",0.0
+kútkut,v,verb,"to excavate, to dig, to scoop out dirt from the ground so as to make a hole.",-0.202
 kutíng,n,noun,kitten.,0.0
 kutíngkúting,v,verb,"to pluck or strum a guitar, to pluck a string instrument.",0.0
 kútis,n,noun,"skin complexion, facial complexion.",0.0
@@ -1140,7 +1140,7 @@ kutsaríta,n,noun,teaspoon.,0.052
 kutséro,n,noun,"coachman, rig driver, man who drives a kalésa.",-0.128
 kutsílyo,n,noun,knife.,0.0
 kútsukútsu,n,noun,"rumor, hearsay.",0.0
-kútsukútsu,v,verb,"to chitchat, to gossip, to be rumored.",0.0
+kútsukútsu,v,verb,"to chitchat, to gossip, to be rumored.",-0.178
 kutsún,n,noun,"cushion, bed mattress.",0.0
 kútub,adv,adverb,until.,0.0
 kutúl,v,verb,"to pick, to pluck from a plant, to gather flowers.",0.0
@@ -1162,21 +1162,21 @@ kwátro,num,numeral,four.,0.0
 kwéba,n,noun,cave.,0.0
 kwélyo,n,noun,"collar, back of the neck.",0.0
 kwénta,n,noun,"account, balance account.",0.0
-kwénta,v,verb,"to account, to solve, to balance.",0.0
+kwénta,v,verb,"to account, to solve, to balance.",0.202
 kwérdas,n,noun,string for a string instrument.,0.0
 kwítis,n,noun,fireworks.,0.0
 dá’an,adj,adjective,"old, used, worn out.",-0.296
-dá’an,pt,particle,"beforehand, first of all, right away.",-0.296
+dá’an,pt,particle,"beforehand, first of all, right away.",0.0
 pagkúha’,na,noun formative,dá’an sang pápel.,0.0
 dabádabá,n,noun,"blaze, flame.",0.0
-dabádabá,v,verb,"to flare up, to blaze, to be on fire.",0.0
+dabádabá,v,verb,"to flare up, to blaze, to be on fire.",-0.34
 dábdab,n,noun,"flare, flame, blaze.",0.0
-dábdab,v,verb,"to flare up, to blaze, to be on fire.",0.0
+dábdab,v,verb,"to flare up, to blaze, to be on fire.",-0.34
 dábuk,v,verb,"to kindle a fire, to build a fire, to ignite.",-0.586
 dabúdabú,n,noun,"shower, drizzle.",0.0
 dakbánwa,n,noun,city.,0.0
 dakú’,adj,adjective,"big, bulky, huge, great.",0.751
-dakú’,v,verb,"to become big, to make big.",0.751
+dakú’,v,verb,"to become big, to make big.",0.0
 dakúp,v,verb,"to catch, to trap, to snare, to capture, to arrest.",-0.572
 dagámi,n,noun,"hay, straw.",0.0
 dágat,n,noun,"sea, ocean.",0.0
@@ -1184,7 +1184,7 @@ dagát,n,noun,"seasickness, nausea.",0.0
 dagát,v,verb,"to be seasick, to be nauseated.",0.0
 dagáya’,adj,adjective,"many, plentiful, teeming, swarming.",0.0
 dágdag,n,noun,"addition, native term for extra pieces given of items purchased.",0.0
-dágdag,v,verb,"to let fall, to drop, to add something extra to a purchase.",0.0
+dágdag,v,verb,"to let fall, to drop, to add something extra to a purchase.",-0.273
 dagpi’,n,noun,"rap, tap, pat.",0.0
 dagpi’,v,verb,"to rap, to tap, to pat.",0.0
 dagsa’,v,verb,"to transfer, to be washed ashore, to flow with the current.",0.0
@@ -1197,7 +1197,7 @@ dagu’ub,v,verb,to thunder.,0.0
 dágway,n,noun,"facial expression, shape, posture.",0.0
 dahú’,v,verb,"to receive, to accept, to take form.",0.382
 dahúm,n,noun,"expectations, anticipation.",0.103
-dahúm,v,verb,walá’ akú nagdahúm nga ma’abút ka.,0.103
+dahúm,v,verb,walá’ akú nagdahúm nga ma’abút ka.,0.0
 dáhun,n,noun,leaf.,0.0
 da’ígun,n,noun,christmas carol.,0.0
 da’ígun,v,verb,to sing christmas carols.,0.0
@@ -1227,11 +1227,11 @@ damán,n,noun,nightmare.,0.0
 damán,v,verb,to have a nightmare.,0.0
 damáng,n,noun,spider.,0.0
 dámgu,n,noun,dream.,0.25
-dámgu,v,verb,"to dream, to have a dream.",0.25
+dámgu,v,verb,"to dream, to have a dream.",0.459
 dámhag,v,verb,"to fall headlong, to fall on one’s face.",0.0
 dámpig,v,verb,"to help, to aid, to side with.",0.402
 dámu’,adj,adjective,"many, plenty.",0.0
-dámu’,v,verb,"to be many, to augment in number, to increase.",0.0
+dámu’,v,verb,"to be many, to augment in number, to increase.",0.382
 damúg,n,noun,"of pigs, food.",0.0
 damuhál,adj,adjective,"rude, unrefined in social manners.",-0.459
 dámul,adj,adjective,"thick, dense, bulky.",0.0
@@ -1247,7 +1247,7 @@ dáplus,v,verb,"to slide off, to stray.",0.0
 dápu’,v,verb,"to alight, to attack, to gather around as of birds.",-0.477
 dapúg,n,noun,"stove, fireplace, fire pit.",-0.34
 dáp’ung,n,noun,bonfire.,0.0
-dáp’ung,v,verb,"to build a bonfire, to put on fire.",0.0
+dáp’ung,v,verb,"to build a bonfire, to put on fire.",-0.34
 dápyus,v,verb,"to slide, to stray.",0.0
 dásig,adv,adverb,"quickly, faster.",0.0
 dásig,adj,adjective,"fast, quick.",0.0
@@ -1255,15 +1255,15 @@ dásig,v,verb,"to do something with speed and promptness, to hasten.",0.0
 dás’il,v,verb,"to injure, to lacerate, to throw against.",0.0
 dasúk,v,verb,"to fill, to crowd.",0.0
 dasú’dasú’,adj,adjective,"impulsive, temperamental, risky.",-0.202
-dasú’dasú’,v,verb,"to risk, to rush into without thought of consequences.",-0.202
+dasú’dasú’,v,verb,"to risk, to rush into without thought of consequences.",-0.273
 dasún,adv,adverb,next.,0.0
 dasún,adj,adjective,"later, next, to come after.",0.0
 da’úg,n,noun,"gain, winnings.",0.784
-da’úg,v,verb,"to win, to be superior, to overcome, to overthrow.",0.784
+da’úg,v,verb,"to win, to be superior, to overcome, to overthrow.",0.807
 dá’ut,v,verb,"to injure, to hurt, to harm, to damage.",-0.878
 dáya’,n,noun,"deceit, trick, dishonesty.",-0.494
-dáya’,adj,adjective,"cheat, dishonest.",-0.494
-dáya’,v,verb,"to trick, to cheat, to deceive.",-0.494
+dáya’,adj,adjective,"cheat, dishonest.",-0.772
+dáya’,v,verb,"to trick, to cheat, to deceive.",-0.71
 dayán,v,verb,"to walk or stroll about, to promenade.",0.0
 dáyaw,v,verb,"to praise, to commend, to appreciate, to extol.",0.848
 dayáw,adj,adjective,"capricious, vain.",-0.421
@@ -1278,7 +1278,7 @@ demokrásya,n,noun,democracy.,0.0
 demónyo,n,noun,"devil, satan.",-0.66
 dentísta,n,noun,dentist.,0.0
 desgrásya,n,noun,"disaster, accident, disgrace.",-0.886
-desgrásya,v,verb,"to have an accident, to have an unfortunate experience.",-0.886
+desgrásya,v,verb,"to have an accident, to have an unfortunate experience.",-0.727
 desisyón,n,noun,decision.,0.0
 desisyón,v,verb,"to make a decision, to decide.",0.0
 destíno,n,noun,"destination, assignment for place of work.",0.0
@@ -1308,7 +1308,7 @@ disiplína,n,noun,discipline.,0.0
 disprás,n,noun,masquerade.,0.0
 dís’ug,v,verb,"to push, to jostle, to shove.",0.0
 diwál,adj,adjective,lapping tongue.,0.0
-diwál,v,verb,"to let the tongue hang out like a dog, to stick the tongue out.",0.0
+diwál,v,verb,"to let the tongue hang out like a dog, to stick the tongue out.",0.361
 diwáta’,n,noun,"idol, fairy.",0.0
 díyas,n,noun,birthday.,0.0
 dóble,adj,adjective,"double, twin.",0.0
@@ -1328,10 +1328,10 @@ dukú’,v,verb,"to bow, to stoop down.",0.0
 dukuménto,n,noun,document.,0.0
 dukút,v,verb,"to stick to, to paste on.",0.0
 dúda,n,noun,"doubt, suspicion.",-0.625
-dúda,v,verb,"to doubt, to distrust, to suspect.",-0.625
+dúda,v,verb,"to doubt, to distrust, to suspect.",-0.758
 dúga’,n,noun,"sap, juice.",0.0
 dúgang,n,noun,addition.,0.0
-dúgang,v,verb,"to increase, to add, to augment.",0.0
+dúgang,v,verb,"to increase, to add, to augment.",0.318
 dúgay,adv,adverb,"of time, long.",0.0
 dúgay,v,verb,"to tarry, to take a long time.",0.0
 dugáydugáy,adv,adverb,"in a little while, frequently.",0.0
@@ -1352,7 +1352,7 @@ dúlhug,v,verb,"to descend down a slope, to slide down an inclined plane or a sl
 dúlingdúling,v,verb,"to walk unsteadily, to stagger, to take irregular steps.",0.0
 dúlug,v,verb,"to halt, to stop, to stand.",-0.296
 dulúm,adj,adjective,"dark, dim.",0.0
-dulúm,v,verb,"to darken, to get dusky, to become gloomy.",0.0
+dulúm,v,verb,"to darken, to get dusky, to become gloomy.",-0.153
 dulúnan,n,noun,"boundary, border, confine, demarcation.",0.0
 dúlung,v,verb,"to approach, to come near, to draw near, to go in the direction of.",0.0
 dúl’ung,v,verb,"to transport, to bring, to deliver, to conduct.",0.0
@@ -1367,7 +1367,7 @@ dúmug,v,verb,"to scuffle, to wrestle, to struggle.",-0.318
 dumulú’ung,n,noun,"alien, stranger, foreigner.",0.0
 dumút,v,verb,"to abominate, to detest, to begrudge.",0.0
 dunút,adj,adjective,"rotten, spoiled.",-0.511
-dunút,v,verb,"to be rotten, to crush.",-0.511
+dunút,v,verb,"to be rotten, to crush.",-0.599
 dúngan,adv,adverb,"together, simultaneously.",0.0
 dúngan,v,verb,"to be or do together, to be simultaneous.",0.0
 dúngka’,v,verb,"to land, to arrive as a boat, to dock in port.",0.0
@@ -1414,8 +1414,8 @@ epektíbo,adj,adjective,effective.,0.477
 -ero,na,noun formative,noun formative affix designating type of work done.,0.0
 eropláno,n,noun,airplane.,0.0
 eskándalo,n,noun,scandal.,-0.44
-eskándalo,adj,adjective,"rude, scandalous, lack in social refinement.",-0.44
-eskándalo,v,verb,to create a scandal.,-0.44
+eskándalo,adj,adjective,"rude, scandalous, lack in social refinement.",-0.827
+eskándalo,v,verb,to create a scandal.,-0.202
 eskiníta,n,noun,"aisle, alleyway.",0.0
 eskóba,n,noun,"of shoes, brush.",0.0
 eskultór,n,noun,sculptor.,0.0
@@ -1446,12 +1446,12 @@ gábi,n,noun,taro.,0.0
 gáb’i,n,noun,"night, evening.",0.0
 gabinéte,n,noun,"cabinet, an advisory body to the president of the country.",0.0
 gabúk,adj,adjective,"rotten, decayed.",-0.71
-gabúk,v,verb,"to be rotten, to decay.",-0.71
+gabúk,v,verb,"to be rotten, to decay.",-0.718
 gábut,v,verb,"to pull out, to weed, to extract, to uproot.",0.0
 gáhit,v,verb,to clear the way by cutting off grass.,0.273
 gáhud,adj,adjective,"noisy, bothersome.",-0.459
-gáhud,n,noun,"noise, clatter.",-0.459
-gáhud,v,verb,"to be noisy, to make noise.",-0.459
+gáhud,n,noun,"noise, clatter.",0.0
+gáhud,v,verb,"to be noisy, to make noise.",-0.178
 gahúm,n,noun,"power, authority, precedence.",0.077
 gá’id,v,verb,"to bind, to secure, to tie to, to hitch on to.",0.34
 gálab,v,verb,"to cut with a sickle, to gather rice grains with a sickle.",-0.273
@@ -1472,7 +1472,7 @@ gámhun,adj,adjective,foggy.,0.0
 gámit,v,verb,"to use, to devise.",0.0
 gamósa,adj,adjective,velvety.,0.0
 gamú,n,noun,"disturbance, conflict, confusion.",-0.727
-gamú,v,verb,"to cause a disturbance, to throw into confusion, to take away peace.",-0.727
+gamú,v,verb,"to cause a disturbance, to throw into confusion, to take away peace.",-0.077
 gamút,n,noun,root.,0.0
 gána,n,noun,appetite.,0.0
 gána,v,verb,to have appetite for.,0.0
@@ -1483,8 +1483,8 @@ gántang,n,noun,ganta.,0.0
 gantángan,n,noun,wooden measuring box with a volume content of approximately one ganta or three liters.,0.0
 gánsa,n,noun,goose.,0.0
 gansál,adj,adjective,"loud, deafening.",-0.296
-gansál,n,noun,"noise, racket.",-0.296
-gansál,v,verb,"to be noisy, to set up a racket.",-0.296
+gansál,n,noun,"noise, racket.",0.0
+gansál,v,verb,"to be noisy, to set up a racket.",-0.178
 gánuy,v,verb,"to drag behind, to draw.",-0.226
 ganghá’an,n,noun,"gate, entrance, door.",0.0
 gápas,v,verb,"to cut down, to fell.",-0.273
@@ -1528,13 +1528,13 @@ ginháwa,v,verb,"to breathe, to take in air.",0.0
 ginikánan,n,noun,parent.,0.0
 gín’ut,adj,adjective,"of climate, warm, hot.",0.226
 ginú’u,n,noun,"sir, mister.",0.0
-ginú’u,n,noun,god.,0.0
+ginú’u,n,noun,god.,0.273
 gisá,v,verb,"to fry with fat, to saute.",0.0
 gisántes,n,noun,pea.,0.0
 gísi’,v,verb,"to tear, to slit with a sharp instrument, to split, to break asunder.",0.0
 gíray,v,verb,to tear or cut in strips.,-0.273
 gitára,n,noun,guitar.,0.0
-gitára,v,verb,to play a guitar.,0.0
+gitára,v,verb,to play a guitar.,0.34
 governadór,n,noun,governor.,0.0
 grábe,adj,adjective,"grave, serious.",-0.44
 grádo,n,noun,grade.,0.0
@@ -1549,11 +1549,11 @@ grúpu,n,noun,group.,0.0
 gubá’,v,verb,"to demolish, to destroy, to undo.",-0.542
 gubán,n,noun,"group, brigade, caravan.",0.0
 gúbat,n,noun,war.,-0.599
-gúbat,v,verb,"to wage a war, to declare war.",-0.599
+gúbat,v,verb,"to wage a war, to declare war.",-0.832
 gúgma,n,noun,"love, adoration, affection.",0.91
 gúhab,v,verb,to break in or through.,0.0
 gúlang,n,noun,"age, maturity.",0.0
-gúlang,v,verb,"to be old, to become mature, to ripen.",0.0
+gúlang,v,verb,"to be old, to become mature, to ripen.",0.421
 naggúlang,na,noun formative,ang mangá prútas.,0.0
 gúlgul,v,verb,"to saw off, to cut off.",-0.273
 gúlub,v,verb,"to cut, to trim, to crop closely.",-0.273
@@ -1563,13 +1563,13 @@ gúmuk,v,verb,to squeeze or compress so as to crush.,-0.218
 gumulúwa’,n,noun,"cast, mold.",0.0
 gúmun,v,verb,"to muddle, to disorganize, to entangle, especially string or yarn, or thread.",0.0
 gúnting,n,noun,"scissors, haircut.",0.0
-gúnting,v,verb,to cut with a scissors.,0.0
+gúnting,v,verb,to cut with a scissors.,-0.273
 gúra,n,noun,"cap, hat.",0.0
 guráb,v,verb,"to grasp and to pull out grass, to weed.",0.0
 guráyguráy,adj,adjective,"lined, striped.",0.0
 gurípat,v,verb,"to twist the ears, to box the ears.",0.0
 gústo,n,noun,"wants, desire, likes.",0.67
-gústo,v,verb,"to care for, to want, to desire, to like.",0.67
+gústo,v,verb,"to care for, to want, to desire, to like.",0.827
 gúsuk,n,noun,rib.,0.0
 gúlpi,v,verb,"to shock, to jolt.",-0.382
 gúlu’,v,verb,"to thrust, to put a stick or finger through a hole, to insert something through a crack.",0.0
@@ -1588,7 +1588,7 @@ hábuk,v,verb,"to inflate, to blow up, to swell.",0.0
 hábug,v,verb,"to swing, to rock back and forth.",0.0
 hábul,n,noun,thick blanket.,0.0
 habúl,adj,adjective,"of edged or pointed tools, dull, blunt.",-0.402
-habúl,v,verb,to weave.,-0.402
+habúl,v,verb,to weave.,0.0
 habón,n,noun,washing soap.,0.0
 habúy,v,verb,"to throw out, to cast, to shoot, to toss, to pitch.",-0.34
 hábyug,v,verb,"to swing, hurl, to rock, especially to a far distance.",0.0
@@ -1597,14 +1597,14 @@ háklu’,v,verb,"to breathe in, to draw in, to inhale.",0.0
 hákruy,v,verb,"to complain, to moan, to sigh.",-0.459
 hakú’hakú’,adv,adverb,"hastily, hurriedly.",0.0
 hákup,n,noun,"handful, fistful.",0.0
-hákup,v,verb,"to take one handful, to scoop out using the hands.",0.0
+hákup,v,verb,"to take one handful, to scoop out using the hands.",0.153
 hakús,n,noun,"embrace, hug.",0.66
 hakús,v,verb,"to hug, to embrace, to clasp in one’s arms.",0.66
 hákut,v,verb,"to carry to another place, to bring in successive loads, to transport.",0.273
 hákwat,v,verb,"to lift, to carry light load.",0.0
 hádluk,n,noun,"fear, apprehension.",-0.743
-hádluk,adj,adjective,"fearful, diabolic, dreadful.",-0.743
-hádluk,v,verb,"to be afraid, to fear, to be apprehensive.",-0.743
+hádluk,adj,adjective,"fearful, diabolic, dreadful.",-0.727
+hádluk,v,verb,"to be afraid, to fear, to be apprehensive.",-0.494
 hágad,v,verb,"to persuade, to induce, to invite, to ask to come.",0.153
 hágbas,v,verb,"to cut, to mow down grass, to cut down grass or weeds with a sickle or a reaper.",-0.494
 haǵdan,n,noun,"stairs, ladder.",0.0
@@ -1616,9 +1616,9 @@ háguphágup,v,verb,"to caress, to pet, to rub down.",0.0
 halá,pt,particle,"watch out, see there, whoops.",0.0
 hálab,v,verb,"to feed like animals on grass, to pasture, to graze.",0.361
 halákhak,n,noun,"laughter, boisterous laugh.",0.778
-halákhak,v,verb,to laugh loudly.,0.778
+halákhak,v,verb,to laugh loudly.,0.557
 hálad,n,noun,"offer, dedication, gift.",0.44
-hálad,v,verb,"to offer, to sacrifice, to bestow, to donate.",0.44
+hálad,v,verb,"to offer, to sacrifice, to bestow, to donate.",0.0
 haláy,v,verb,"to drape, to hang to dry.",0.0
 hál’id,v,verb,"to litter, to throw in an inconspicuous way, to put away in disorder.",-0.402
 halígi,n,noun,"post, pillar.",0.0
@@ -1660,7 +1660,7 @@ hámyang,v,verb,"to lie on one’s back, to lie in state as of a corpse.",-0.572
 hánas,v,verb,"to drill, to train, to practice, to rehearse.",0.0
 hánda’,v,verb,"to prepare, to make ready.",0.361
 hándum,n,noun,"wish, desire, ambition.;  souvenir, memory.",0.66
-hándum,v,verb,"to long for, to wish for, to crave for.",0.66
+hándum,v,verb,"to long for, to wish for, to crave for.",0.402
 hándung,n,noun,"shade, unlighted area.",0.0
 handuráwan,n,noun,daydream.,0.0
 hándus,v,verb,"to spear, to split, to bore or thrust through.",-0.25
@@ -1669,7 +1669,7 @@ haníp,adv,adverb,"even, uniform, of equal distance.",0.0
 hantál,v,verb,"to stack, to pile.",0.0
 hántup,v,verb,"to understand, to comprehend, to know, to conceive.",0.0
 hánut,n,noun,"whip, lash.",0.0
-hánut,v,verb,"to strike with a whip or cane, to flog, to beat.",0.0
+hánut,v,verb,"to strike with a whip or cane, to flog, to beat.",-0.128
 hanú’ut,adj,adjective,"sincere, wholehearted.",0.402
 hangád,v,verb,"to look up to, to honor, to admire, to raise one’s eyes to.",0.743
 hangánhangán,adv,adverb,"easily, lazily, taking it easy.",0.649
@@ -1684,7 +1684,7 @@ hapá’,v,verb,to prostrate oneself with arms outstretched.,0.0
 hápaw,v,verb,"to skim, to make a sweeping motion over the top of a container to make even the contents.",0.202
 hápay,v,verb,"to bend low, to lean onto for support.",0.153
 hápdi’,adj,adjective,"painful, smart pain.",-0.542
-hápdi’,n,noun,"pain, sting.",-0.542
+hápdi’,n,noun,"pain, sting.",-0.511
 hápdi’,v,verb,"to smart, to cause a sharp pain, to be painful.",-0.542
 hapi’n,n,noun,"diaper, lining, cover.",0.0
 hápit,v,verb,"to drop in, to pass by, to visit, to call upon.",-0.273
@@ -1701,7 +1701,7 @@ hápun,v,verb,"to alight, to perch, to turn dark in the late afternoon.",0.0
 hapús,adj,adjective,"easy, manageable.",0.44
 hára,n,noun,"queen, empress.",0.0
 harákhak,n,noun,"guffaw, laughter.",0.494
-harákhak,v,verb,"to guffaw, to laugh loudly.",0.494
+harákhak,v,verb,"to guffaw, to laugh loudly.",0.557
 harána,n,noun,serenade.,0.0
 harána,v,verb,"to serenade, to sing to a lady with intentions of courtship.",0.0
 haranísta,n,noun,serenaders.,0.0
@@ -1714,7 +1714,7 @@ harúput,n,noun,breeze.,0.0
 harúthut,v,verb,"to sew in big stitches, to patch.",0.0
 hásta,adv,adverb,until.,0.0
 hátag,n,noun,"gift, donation.",0.44
-hátag,v,verb,"to give, to make a gift, to bestow, to assign, to award.",0.44
+hátag,v,verb,"to give, to make a gift, to bestow, to assign, to award.",0.751
 hatúkhatúk,v,verb,"to prick, to hurt, to chop, to make several cuts with a sharp instrument.",-0.791
 hatúd,v,verb,"to deliver personally, to carry a message.",0.0
 háwa’,v,verb,"to make way, to leave an open space, to open a passage.",-0.052
@@ -1743,26 +1743,26 @@ hibí’,v,verb,"to cry, to weep, to whimper.",-0.778
 hibubún’ut,v,verb,"to sob, sigh convulsively.",-0.226
 híkap,v,verb,"to touch with the hand, to feel, to handle.",0.494
 híkaw,n,noun,"envy, jealousy.",-0.527
-híkaw,v,verb,"to envy, to be jealous of.",-0.527
+híkaw,v,verb,"to envy, to be jealous of.",-0.625
 híkay,v,verb,"to find fault, to ridicule, to despise.",-0.796
 híkut,n,noun,cooked food.,0.0
-híkut,v,verb,"to get ready, to bring on, to cook, to prepare in the kitchen.",0.0
+híkut,v,verb,"to get ready, to bring on, to cook, to prepare in the kitchen.",0.361
 hidá’it,n,noun,"peace, tranquility.",0.743
-hidá’it,adj,adjective,"peaceful, tranquil.",0.743
+hidá’it,adj,adjective,"peaceful, tranquil.",0.527
 hídlaw,n,noun,"longing, homesickness.",-0.44
-hídlaw,v,verb,"to long for, to yearn for, to be homesick, to wish to see personally.",-0.44
+hídlaw,v,verb,"to long for, to yearn for, to be homesick, to wish to see personally.",0.25
 higád,adv,adverb,"alongside, beside, on the edge.",0.0
 higánte,n,noun,giant.,0.0
 higayún,pt,particle,"in the event that, in the circumstance that.",0.0
 hígku’,n,noun,"rubbish, dirt, dust, blemish, blot.",-0.34
-hígku’,adj,adjective,"dirty, dusty.",-0.34
-hígku’,v,verb,"to be dirty, to soil, to defile, to litter.",-0.34
+hígku’,adj,adjective,"dirty, dusty.",-0.44
+hígku’,v,verb,"to be dirty, to soil, to defile, to litter.",-0.44
 hígda’,v,verb,to lie down.,0.0
 higúgma,n,noun,"love, affection.",0.823
-higúgma,v,verb,"to love, to have affection for, to adore.",0.823
+higúgma,v,verb,"to love, to have affection for, to adore.",0.904
 hígup,v,verb,"to sip, to suck up, to slurp, as a soup.",-0.44
 higút,n,noun,"rope, string.",0.0
-higút,v,verb,"to bind, to tie, to secure, to fasten with a string or a rope.",0.0
+higút,v,verb,"to bind, to tie, to secure, to fasten with a string or a rope.",0.34
 hilabút,v,verb,"to interfere, to meddle.",0.0
 hílak,v,verb,"to cherish, to hesitate to spend or give away because of sentimental or monetary value, to have high regard for.",0.637
 hilamún,n,noun,"grass, weed.",0.0
@@ -1776,19 +1776,19 @@ hiláy,v,verb,"to lean, to incline, to slant.",0.0
 hilayú’,adv,adverb,"far away, remote.",0.0
 hílu,n,noun,thread.,0.0
 hilú’,n,noun,poison.,-0.542
-hilú’,v,verb,"to poison, to give poison to.",-0.542
+hilú’,v,verb,"to poison, to give poison to.",-0.791
 híl’ub,v,verb,"to complete, to finish, to terminate planting or tilling the soil.",0.0
 híl’um,v,verb,"to guess, to sense, to suspect.",-0.296
 hílut,n,noun,midwife.,0.0
 hílut,v,verb,"to massage, to rub.",0.0
 hílway,adj,adjective,"free, independent, safe.",0.735
-hílway,n,noun,"freedom, independence.",0.735
+hílway,n,noun,"freedom, independence.",0.637
 himáya’,n,noun,"happiness, glory, bliss.",0.896
 hímbis,n,noun,fish scales.,0.0
 hímpit,adj,adjective,"perfect, faultless.",0.772
 hímu,v,verb,"to make, to do, to perform.",0.0
 himúd’us,n,noun,effort.,0.0
-himúd’us,v,verb,"to exert oneself, to make great effort.",0.0
+himúd’us,v,verb,"to exert oneself, to make great effort.",0.625
 himúlat,v,verb,"to strive to obtain, to be earnest.",0.511
 himúlbul,v,verb,to pluck clean of feathers or fur.,0.402
 himulús,v,verb,"to be of use, to make serviceable, to take advantage of.",0.25
@@ -1805,14 +1805,14 @@ hinámbit,v,verb,"to mention, to refer to, to allude.",0.0
 hinámput,v,verb,"to draw near, to approach, to move in the direction of the speaker.",0.0
 hináw,v,verb,to wash hands or face.,0.0
 hínay,adv,adverb,"slowly, gently.",0.459
-hínay,adj,adjective,"slow, weak, tender.",0.459
-hínay,v,verb,"to do slowly, to be weak or gentle.",0.459
+hínay,adj,adjective,"slow, weak, tender.",-0.44
+hínay,v,verb,"to do slowly, to be weak or gentle.",0.0
 hínhin,adj,adjective,"graceful, demure, dainty.",0.459
 híning,adj,adjective,"shiny, polished.",0.0
 hínis,v,verb,"to rub, to polish, to clean.",0.402
 hínlu’,adj,adjective,"smooth, elegant, dainty.",0.477
 hinúlsul,n,noun,"repentance, regret, remorse.",-0.599
-hinúlsul,v,verb,"to be sorry for, to repent, to regret.",-0.599
+hinúlsul,v,verb,"to be sorry for, to repent, to regret.",-0.477
 hinun’ánun,v,verb,"to exchange views on a subject, to apeak about, to discuss.",0.0
 hingabút,v,verb,"to draw, to try to reach, to persecute, to molest, to seek to obtain.",-0.727
 hingagáw,v,verb,"to reach the goal, to complete, to finish.",0.026
@@ -1823,7 +1823,7 @@ hingapús,v,verb,"to end, to finish, to complete, to terminate.",0.0
 hingí’ki’,v,verb,to clean the teeth of tartar.,0.402
 hingukú,v,verb,"to cut the nails, to trim and clean the fingernails.",0.153
 hingúyang,n,noun,food preparation.,0.0
-hingúyang,v,verb,"to hesitate to spend, to waste, to spend unwisely.",0.0
+hingúyang,v,verb,"to hesitate to spend, to waste, to spend unwisely.",-0.599
 híngyu’,v,verb,"to think, to plan, to have the intention, to deliberate.",0.0
 hípag,n,noun,"sister-in-law, brother-in-law.",0.0
 hípid,adj,adjective,"neat, orderly, dressy.",0.459
@@ -1831,14 +1831,14 @@ hípus,adj,adjective,"quiet, silent, still.",0.0
 hípus,n,noun,"stillness, silence, quietness.",0.0
 hípus,v,verb,"to be silent, to keep quiet, to keep still.",0.0
 hírup,adj,adjective,"intimate, tender.",0.0
-hírup,n,noun,"comrade, friend, close friend.",0.0
+hírup,n,noun,"comrade, friend, close friend.",0.751
 hísa,n,noun,"envy, jealousy.",-0.527
-hísa,adj,adjective,"envious, jealous, selfish.",-0.527
+hísa,adj,adjective,"envious, jealous, selfish.",-0.802
 hisáyud,v,verb,"to ask for an explanation, to request information.",0.0
 híta’,n,noun,"thigh, crotch.",0.0
 hítad,v,verb,"to stretch, to open and smooth out as of cloth or paper.",0.0
 híwa’,n,noun,"chunck, sliced piece, one slice.",0.0
-híwa’,v,verb,"to slice, to carve, to cut to pieces.",0.0
+híwa’,v,verb,"to slice, to carve, to cut to pieces.",-0.273
 híwat,v,verb,"to celebrate, to hold a feast.",0.572
 hiyás,n,noun,"precious stone, gem.",0.572
 híyud,v,verb,to stretch out.,0.0
@@ -1866,22 +1866,22 @@ hukúm,n,noun,judge.,0.0
 hukúm,v,verb,"to pass judgement, to try a court case.",0.0
 hudéyu,n,noun,jew.,0.0
 hugák,adj,adjective,loose.,-0.318
-hugák,v,verb,"to untie, to loosen.",-0.318
+hugák,v,verb,"to untie, to loosen.",0.0
 hugakúm,v,verb,"to clasp in the fist, to grab, to grasp, to usurp.",0.0
 húgas,v,verb,to wash hands and other objects except clothes.,0.0
 húgpa’,v,verb,"to land, to perch, to come to rest especially of flying objects.",0.0
 húgpung,n,noun,"bundle, bouquet.",0.0
-húgpung,v,verb,"to make a bundle, to join together as a group.",0.0
+húgpung,v,verb,"to make a bundle, to join together as a group.",0.296
 hugút,adj,adjective,tight.,0.0
 húgyaw,n,noun,"noisy laughter, enjoyment.",0.727
-húgyaw,v,verb,"to be joyful, to cheer.",0.727
+húgyaw,v,verb,"to be joyful, to cheer.",0.802
 húlag,n,noun,"movement, action.",0.0
 húlag,v,verb,"to move, to stir, to get busy.",0.0
 hulám,v,verb,to borrow.,0.0
 húlas,n,noun,"perspiration, moisture.",0.0
 húlas,v,verb,to perspire.,0.0
 hulát,n,noun,"waiting, expectations.",0.0
-hulát,v,verb,"to wait, to expect, to be ready for.",0.0
+hulát,v,verb,"to wait, to expect, to be ready for.",0.361
 hulík,v,verb,to snap at or to swallow the bait.,0.0
 húlid,v,verb,"to lie alongside, to lie together.",0.0
 húlip,v,verb,"to fill in strips, to patch a hole in a mat.",0.0
@@ -1890,20 +1890,20 @@ hulúnan,n,noun,"roost, place for resting.",0.0
 hulúnan,v,verb,"to roost, to settle down for rest or sleep as with fowls.",0.0
 húlyo,n,noun,july.,0.0
 humán,adj,adjective,"finished, completed, terminated.",0.0
-humán,v,verb,"to terminate, to accomplish, to finish.",0.0
+humán,v,verb,"to terminate, to accomplish, to finish.",0.421
 humáy,n,noun,rice plant.,0.0
 húmlad,v,verb,"to spread out, to open, to unfold.",0.0
 húmuk,adj,adjective,"soft, feathery.",0.0
 húmuk,v,verb,"to become soft, to become tender.",0.0
 humút,n,noun,"smell, odor.;  cologne, perfume, essence.",0.0
-humút,adj,adjective,"fragrant, sweet smelling, odorous.",0.0
+humút,adj,adjective,"fragrant, sweet smelling, odorous.",0.459
 huná’,adj,adjective,"fragile, frail.",0.0
 huná’huná’,n,noun,"thoughts, ideas, opinion.",0.0
 huná’huná’,v,verb,"to think, to have the idea, to consider.",0.0
 hunás,n,noun,low tide.;  beach.,-0.273
 hunás,v,verb,to have low tide.,-0.273
 huní,n,noun,"sound, chirp, whine.",-0.361
-huní,v,verb,"of birds and insects, to hum, to chirp, to whistle.",-0.361
+huní,v,verb,"of birds and insects, to hum, to chirp, to whistle.",0.0
 húnit,adj,adjective,"durable, lasting.",0.0
 hún’ug,n,noun,"dew, moisture on the ground.",0.0
 húnung,v,verb,"to stop, to cease, to detain.",-0.612
@@ -1921,14 +1921,14 @@ huramúl,adj,adjective,damp.,0.0
 hurínghúring,n,noun,"rumor, news.",0.0
 hurínghúring,v,verb,"to be rumored, to be spread as news.",0.0
 húrma,n,noun,"mold, cast.",0.0
-húrma,v,verb,"to mold, to fit into a cast.",0.0
+húrma,v,verb,"to mold, to fit into a cast.",0.361
 húrno,n,noun,oven.,0.0
 húrno,v,verb,to bake in an oven.,0.0
 hurubatún,n,noun,"maxim, saying.",0.0
 hurúng,n,noun,"bad guy, goon.",-0.542
 huruśhurus,adj,adjective,"cad, rude, without gentlemanly instincts.",-0.459
 húsay,n,noun,"comb, settlement, solution.",0.318
-húsay,v,verb,"to comb one’s hair, to settle, to arrange, to set in order.",0.318
+húsay,v,verb,"to comb one’s hair, to settle, to arrange, to set in order.",0.0
 húslu’,v,verb,"to unsheathe, to draw out by accident, to drop off its container.",-0.637
 hústu,adv,adverb,"enough, adequate, correct, fit, just right.",0.527
 hutík,n,noun,whisper.,0.0
@@ -1941,27 +1941,27 @@ huwád,v,verb,"to copy, to duplicate.",0.0
 huwés,n,noun,judge.,0.0
 húy,intj,interjection,"hey, oh.",0.0
 huyá’,n,noun,"shame, disgrace.",-0.743
-huyá’,adj,adjective,"disgraceful, shameful.",-0.743
-huyá’,v,verb,"to be ashamed, to feel reproach.",-0.743
+huyá’,adj,adjective,"disgraceful, shameful.",-0.494
+huyá’,v,verb,"to be ashamed, to feel reproach.",-0.477
 húyab,v,verb,to run away suddenly with great speed.,0.625
 húy’ab,n,noun,yawn.,0.0
 húy’ab,v,verb,to yawn.,0.0
 huyá’huyá’,n,noun,sensitive plant.,0.0
 húyang,adj,adjective,"rickety, shaky.",-0.226
-húyang,v,verb,"to shake, to be rickety.",-0.226
+húyang,v,verb,"to shake, to be rickety.",-0.178
 huyúp,n,noun,"blast, blow, breath.",0.0
-huyúp,v,verb,"to blow, to breathe upon, to expel breath.",0.0
+huyúp,v,verb,"to blow, to breathe upon, to expel breath.",-0.44
 hwébes,n,noun,thursday.,0.0
 1-i-,va,verbal affix,general proposed action instrumental affix.,0.0
 2-i-,va,verbal affix,goal focus affix.,0.0
 -i,va,verbal affix,benefactive-locative focus affix.,0.0
 ibábaw,adv,adverb,"on top of, on the surface.",0.202
-ibábaw,v,verb,"to be on top of, to put on top.",0.202
+ibábaw,v,verb,"to be on top of, to put on top.",0.382
 ibán,n,noun,"other, some other.",0.0
 íbid’íbid,v,verb,"to chaperon, to tag along, to tail along.",0.0
 íbug,v,verb,"to have a passion for, to crave for.",0.459
-íbug,na,noun formative,’íbug akú sang páhu’.,0.459
-íbug,na,noun formative,si gabriel.,0.459
+íbug,na,noun formative,’íbug akú sang páhu’.,0.0
+íbug,na,noun formative,si gabriel.,0.0
 2-ika-,va,verbal affix,designating possibility of an action to happen.,0.0
 ikáw,pr,pronoun,you (singular second person nominal pronoun).,0.0
 íkit,adj,adjective,"close together, dense, least possible space between the elements.",0.0
@@ -2001,7 +2001,7 @@ ilímnun,n,noun,"drink, beverage, liquor.",0.0
 ilúng,n,noun,nose.,0.0
 ilúy,n,noun,mother.,0.0
 imbénto,n,noun,"invention, creation.",0.273
-imbénto,v,verb,"to invent, to devise.",0.273
+imbénto,v,verb,"to invent, to devise.",0.0
 imbestigár,v,verb,"to investigate, to censure.",0.0
 imbitasyón,n,noun,invitation.,0.0
 imprénta,n,noun,printing press.,0.0
@@ -2010,9 +2010,9 @@ imprénta,v,verb,"to print, to put in paper through a printing press.",0.0
 impúntu,adv,adverb,"of time, sharp, on the dot.",0.0
 ímu,pr,pronoun,"your, yours (second person singular pre-position source pronoun).",0.0
 ímul,adj,adjective,"poor, impoverized.",-0.477
-ímul,v,verb,"to become poor, to lose money or wealth.",-0.477
+ímul,v,verb,"to become poor, to lose money or wealth.",-0.382
 ímun,n,noun,"jealousy, envy.",-0.527
-ímun,v,verb,to feel jealous.,-0.527
+ímun,v,verb,to feel jealous.,-0.459
 impyérno,n,noun,"hell, nether world.",-0.681
 1-in-,na,noun formative,noun formative affix.,0.0
 2-in-,aa,adjective formative,formative affix to designate manner or state of being.,0.0
@@ -2026,20 +2026,20 @@ inánu,n,noun,"dwarfish man, man of dwarfish proportions.",0.0
 índis’índis,n,noun,"contest, competition.",0.0
 índis’índis,v,verb,"to hold a contest, to compete.",0.0
 ineksyón,n,noun,"injection, syringe.",0.0
-ineksyón,v,verb,"to inject, to prick with a needle.",0.0
+ineksyón,v,verb,"to inject, to prick with a needle.",-0.34
 iní,d,deictic,this (near the speaker).,0.0
 ínit,n,noun,"heat, temperature, heat of the sun, anger.",-0.572
-ínit,adj,adjective,"warm, hot, in rage, passionate.",-0.572
-ínit,v,verb,"to heat, to boil, to make angry, to enrage, to boil with passion or rage.",-0.572
+ínit,adj,adjective,"warm, hot, in rage, passionate.",0.178
+ínit,v,verb,"to heat, to boil, to make angry, to enrage, to boil with passion or rage.",-0.818
 inítan,n,noun,sunshine.,0.494
 inosénte,adj,adjective,innocent.,0.34
 insúltu,n,noun,"insult, ridicule.",-0.743
 insúltu,v,verb,"to insult, to ridicule, to affront.",-0.743
 interés,n,noun,"interest, raise.",0.459
-interés,v,verb,"to be interested in, to covet.",0.459
+interés,v,verb,"to be interested in, to covet.",0.402
 intsík,n,noun,chinese.,0.0
 íntu’,n,noun,flattery.,0.103
-íntu’,v,verb,"to convince with good graces, to play ball with emotions, to flatter.",0.103
+íntu’,v,verb,"to convince with good graces, to play ball with emotions, to flatter.",0.852
 inúg-,na,noun formative,instrumental noun formative affix.,0.0
 inúm,n,noun,"drink, beverage, liquor;  beverage, liquor.",0.0
 inúm,v,verb,"to drink, to take in.",0.0
@@ -2049,24 +2049,24 @@ inútil,adj,adjective,"useless, decrepit, disabled.",-0.421
 ínyu,pr,pronoun,"your, yours (second person plural pre-position source pronoun).",0.0
 ingkáhi,n,noun,"lace, trimming for a dress.",0.0
 ingkántu,n,noun,"fairy, evil spirit.",-0.572
-ingkántu,adj,adjective,enchanted.,-0.572
+ingkántu,adj,adjective,enchanted.,0.382
 inínglis,n,noun,english language.,0.0
 ingít,adj,adjective,"irritable, angry, in bad temper.",-0.914
-ingít,v,verb,"to be in a bad mood, to be irritated.",-0.914
+ingít,v,verb,"to be in a bad mood, to be irritated.",-0.758
 íngud,v,verb,"to be close by, to move closer, to be intimate with, be beside of.",0.0
 íngus,v,verb,"to sniffle, to draw air audibly.",0.0
 ípa-,va,verbal affix,designating causation of action by the actor.,0.0
 íping,v,verb,"to seat next to, to be at the side of, to adjoin.",0.0
 ípit,v,verb,"to compress, to squeeze, to press between.",0.0
 íput,n,noun,"feces, animal waste matter;  anus.",-0.402
-íput,v,verb,to move the bowel.,-0.402
+íput,v,verb,to move the bowel.,0.0
 irás,v,verb,"to feel uncomfortable with, to have a low regard for.",-0.572
 isá,num,numeral,one;  first.,0.0
 ísda’,n,noun,fish.,0.0
 ísda’,v,verb,"to catch fish, to go out to the sea to catch fish.",0.0
 ísi’ísi,v,verb,"to walk unsteadily, to stagger, to be unsteady in walking.",0.0
 ísip,n,noun,"number, count.",0.077
-ísip,v,verb,"to count, to reckon, to enumerate.",0.077
+ísip,v,verb,"to count, to reckon, to enumerate.",0.0
 ispíya,n,noun,"spy, fifth column.",0.0
 ispíya,v,verb,"to spy, to watch closely.",0.0
 -ista,na,noun formative,noun formative affix denoting profession or type of job.,0.0
@@ -2074,8 +2074,8 @@ istórya,n,noun,"conversation, story.",0.0
 istórya,v,verb,"to tell a story, to converse.",0.0
 ísu,n,noun,chalk.,0.0
 ísug,n,noun,"courage, boldness, bravery.",0.836
-ísug,adj,adjective,"bold, brave, courageous.",0.836
-ísug,v,verb,"to become courageous, to make one’s self brave to face adversities.",0.836
+ísug,adj,adjective,"bold, brave, courageous.",0.856
+ísug,v,verb,"to become courageous, to make one’s self brave to face adversities.",0.649
 ísul,v,verb,"to retreat, to move back, to step back so as to make way.",0.202
 íswag,v,verb,"to move over, to extend, to move away, to make room.",0.178
 ítik,n,noun,duckling.,0.0
@@ -2117,9 +2117,9 @@ lábut,n,noun,"business, concern.",0.0
 lábyug,v,verb,"to hurl, to fling, to throw to a far distance.",0.0
 laká’,adj,adjective,"scarce, rare, sometimes.",0.0
 lák’ang,n,noun,"big step, step which is as far as the legs can extend.",0.178
-lák’ang,v,verb,"to step over, to make a big step.",0.178
+lák’ang,v,verb,"to step over, to make a big step.",0.0
 lakát,n,noun,"trip, walk, business trip.",0.0
-lakát,v,verb,"to walk, to go, to leave.",0.0
+lakát,v,verb,"to walk, to go, to leave.",-0.052
 lákbang,v,verb,"to stride, to make a big step.",0.0
 lakíp,v,verb,"to include, to enclose, to insert.",0.0
 láklak,v,verb,to lap with the tongue.,0.0
@@ -2129,7 +2129,7 @@ ládlad,v,verb,"to open, to spread, to unfold.",0.0
 lá’ga’,v,verb,"to boil, to cook in water.",0.0
 lagabúng,v,verb,"to fall to the ground with a flop, to rumble.",-0.34
 lagári’,n,noun,"saw, carpenter’s tool.",0.0
-lagári’,v,verb,to cut with a saw.,0.0
+lagári’,v,verb,to cut with a saw.,-0.273
 lagás,v,verb,"to pursue, to run after, to chase.",0.0
 lagátik,n,noun,"snap, clicking sound.",0.0
 lagatúk,n,noun,"snap, dull thud, dull sound.",-0.66
@@ -2145,7 +2145,7 @@ lágyu’,adv,adverb,"far, at a distance.",0.0
 lágyu’,v,verb,"to run away, to flee, to go to a far off place.",0.0
 lahúg,n,noun,"joke, teasing.",0.226
 lahúgláhug,n,noun,"joke, teasing.",0.226
-lahúgláhug,v,verb,"to joke, to make fun, to quip.",0.226
+lahúgláhug,v,verb,"to joke, to make fun, to quip.",0.67
 lá’in,adj,adjective,"bad, immodest, unfavorable, unjurous.",-0.542
 la’ín,adj,adjective,"different, changed, dissimilar, various.",0.0
 la’ín,v,verb,"to change, to be different.",0.0
@@ -2162,7 +2162,7 @@ lámbut,v,verb,"to reach, to arrive, to attain.",0.026
 lamésa,n,noun,table.,0.0
 laḿgud,adj,adjective,barren.,0.0
 lamíg,n,noun,coldness.,0.0
-lamíg,adj,adjective,"cold, cool, low in temperature for weather and liquids.",0.0
+lamíg,adj,adjective,"cold, cool, low in temperature for weather and liquids.",0.052
 lamígas,n,noun,"grain, cereal.",0.0
 lámluk,n,noun,moth.,0.0
 lampás,v,verb,"to surpass, to overtake.",0.0
@@ -2184,7 +2184,7 @@ lansítas,n,noun,pocket knife.,0.0
 lánta,adj,adjective,"withered, faded as of plants and flowers.",0.0
 lántaw,v,verb,"to watch, to see, to look out of the window.",0.0
 lántun,n,noun,"tune, song, music, music sheet.",0.0
-lántun,v,verb,to play a musical instrument.,0.0
+lántun,v,verb,to play a musical instrument.,0.34
 lanúg,n,noun,"echo, black and blue mark, rotten portion.",-0.511
 lányatlányat,n,noun,membrane.,0.0
 láng,pt,particle,"only, also, just.",0.0
@@ -2256,7 +2256,7 @@ layú’,v,verb,"to go far, to go away, to be far.",0.0
 layúng,v,verb,"to dry up, to wither.",0.0
 leksyón,n,noun,lesson.,0.0
 létse,n,noun,volume measure amounting to one eight-ounce tin can.,0.0
-létse,intj,interjection,"damn, damn you.",0.0
+létse,intj,interjection,"damn, damn you.",-0.66
 -li-,va,verbal affix,variant of -la-.,0.0
 libák,v,verb,"to backbite, to deride.",-0.273
 libańg,v,verb,"to amuse, to entertain, to comfort.",0.758
@@ -2270,7 +2270,7 @@ líbu,num,numeral,thousand.,0.0
 líbud,v,verb,"to peddle door to door, to go around.",0.0
 líbug,n,noun,bumblebee.,0.0
 libúg,n,noun,"trouble, problem, worry.",-0.807
-libúg,v,verb,"to be confused, to be worried, to have a problem.",-0.807
+libúg,v,verb,"to be confused, to be worried, to have a problem.",-0.735
 libún,n,noun,"enclosure, fence.",0.0
 libún,v,verb,"to enclose, to surround.",0.0
 líbut,v,verb,"to walk about, to roam around, to encircle.",0.0
@@ -2293,13 +2293,13 @@ lígu’,v,verb,"to take a bath, to bathe, to swim in the river or the ocean.",0
 líg’un,adj,adjective,"steady, stable, strong.",0.67
 ligúnlígun,v,verb,"to let melt, to swallow or dissolve in the mouth.",0.0
 ligúy,adj,adjective,"negligent, truant.",0.0
-ligúy,v,verb,"to play truant, to be lazy.",0.0
+ligúy,v,verb,"to play truant, to be lazy.",-0.026
 liháy,v,verb,"to fall against for support, to lean on.",0.402
 lihí’,v,verb,"to forbid, to disapprove.",-0.318
 líla,adj,adjective,"violet, lavender.",0.0
 limá,num,numeral,five;  fifth.,0.0
 límbung,n,noun,"lie, deceit.",-0.459
-límbung,v,verb,"to cheat, to deceive, to double-cross.",-0.459
+límbung,v,verb,"to cheat, to deceive, to double-cross.",-0.691
 limitádo,adj,adjective,limited.,-0.226
 limpyabúta,n,noun,bootblack.,0.0
 límyo,adj,adjective,"clean, spotless, in order.",0.402
@@ -2315,11 +2315,11 @@ línaw,n,noun,"brook, stream.",0.0
 líntak,v,verb,to emit a clicking sound.,0.0
 líntuk,n,noun,bran.,0.0
 línug,n,noun,earthquake.,0.0
-línug,v,verb,"to have an earthquake, to shake like an earthquake.",0.0
+línug,v,verb,"to have an earthquake, to shake like an earthquake.",0.202
 linúng,adj,adjective,"calm, silent, peaceful.",0.67
 língas,v,verb,"to distract, to confuse, to upset, to make noise.",-0.691
 lingáw,v,verb,"to distract, to bother, to amuse, to relax.",0.25
-lingáw,adj,adjective,"noisy, bothersome, distracting.",0.25
+lingáw,adj,adjective,"noisy, bothersome, distracting.",-0.637
 língkud,v,verb,to sit down.,0.0
 linggánay,n,noun,bell.,0.0
 línghud,adj,adjective,"of plants, young, new.",0.0
@@ -2330,7 +2330,7 @@ lipák,n,noun,"stick, small twig.",0.0
 lípas,v,verb,to pass by as of time.,0.0
 lipát,v,verb,"to forget, to lose the memory.",-0.557
 lípay,n,noun,"happiness, joy, delight.",0.906
-lípay,v,verb,"to be delighted, to feel happy.",0.906
+lípay,v,verb,"to be delighted, to feel happy.",0.791
 lípun,v,verb,"to screen, to conceal, to hide.",-0.178
 lípung,v,verb,"to faint, to fall unconscious.",0.0
 líp’ut,n,noun,"shortness, brevity.",0.0
@@ -2347,7 +2347,7 @@ lístun,n,noun,"ribbon trimming, shoe string.",0.0
 lísu,n,noun,seed.,0.0
 lísu’,v,verb,"to turn about, to be awry.",0.0
 lisúd,adj,adjective,"hard, difficult.",-0.44
-lisúd,n,noun,"distress, hardship, difficulty.",-0.44
+lisúd,n,noun,"distress, hardship, difficulty.",-0.796
 litík,v,verb,"to crack, to split, to have a flaw.",0.0
 lítra,n,noun,letter of the alphabet.,0.0
 lítro,n,noun,liter measure.,0.0
@@ -2370,7 +2370,7 @@ lubád,v,verb,"to solve, to translate, to interpret.",0.202
 lúbag,v,verb,"to twist, to wring, to twist and pull.",0.0
 lúbha’,v,verb,"to cheat, to betray.",-0.802
 lubhá’,adj,adjective,"serious, grave.",-0.44
-lubhá’,v,verb,"to be seriously ill, to get worse.",-0.44
+lubhá’,v,verb,"to be seriously ill, to get worse.",-0.765
 lubí,n,noun,coconut.,0.0
 lúbid,n,noun,"rope, string.",0.0
 lúbid,v,verb,"to entwine, to make into a rope or string.",0.0
@@ -2395,7 +2395,7 @@ lúhu,adj,adjective,"dressed up, elegant.",0.477
 luhúd,v,verb,to kneel down.,0.0
 lulú’,adj,adjective,"gentle, kind, meek, tender.",0.743
 lumáy,n,noun,"love potion, charm.",0.784
-lumáy,v,verb,"to entice, to attract strongly, to give a love potion.",0.784
+lumáy,v,verb,"to entice, to attract strongly, to give a love potion.",0.832
 lúmba’,n,noun,"race, contest.",0.0
 lúmba’,v,verb,"to have a race, to hold a contest.",0.0
 lúming,adj,adjective,"flabby, feeble, limp.",-0.296
@@ -2429,19 +2429,19 @@ lusút,v,verb,"to emerge, to pass, to go through, to pierce.",0.0
 luták,n,noun,clay.,0.0
 lutás,v,verb,"to wean, to detach affection for something longed for.",0.527
 lutáw,adj,adjective,"famous, big, afloat, popular.",0.421
-lutáw,v,verb,"to float, to be famous, to be well-known.",0.421
+lutáw,v,verb,"to float, to be famous, to be well-known.",0.0
 lúthang,v,verb,"to shoot to death, to fire a gun.",-0.878
 lútu,v,verb,"to mourn, to wear the black mourning attire.",-0.691
 lútu’,n,noun,"cooked food, prepared food.",0.226
-lútu’,adj,adjective,"cooked, ripe.",0.226
-lútu’,v,verb,"to cook, to mature, to ripen.",0.226
+lútu’,adj,adjective,"cooked, ripe.",0.0
+lútu’,v,verb,"to cook, to mature, to ripen.",0.421
 lútus,v,verb,"to surpass, to outdo, to run after, to defeat.",-0.459
 lú’uy,v,verb,"to have mercy, to have compassion for.",0.67
 luwág,n,noun,"ladle, a native deep-bowled spoon used in cooking made from hard skin of the coconut and long bamboo handle.",-0.103
 luwás,con,conjunction,"aside from, except, outside of.",0.0
-luwás,v,verb,"to free, to redeem, to save.",0.0
+luwás,v,verb,"to free, to redeem, to save.",0.758
 lúya,adj,adjective,"decrepit, weak, frail.",-0.44
-lúya,v,verb,"to become weak, to lose strength.",-0.44
+lúya,v,verb,"to become weak, to lose strength.",-0.34
 lúy’a,n,noun,ginger.,0.0
 lúyag,v,verb,"to want, to desire, to like.",0.67
 lúyluy,v,verb,"to hand down, to droop.",0.494
@@ -2503,7 +2503,7 @@ manyíka’,n,noun,doll.,0.0
 mangá,pt,particle,marker.,0.0
 mángga,n,noun,mango.,0.0
 mánggad,n,noun,"wealth, property.",0.494
-mánggad,adj,adjective,"rich, landed, wealthy.",0.494
+mánggad,adj,adjective,"rich, landed, wealthy.",0.727
 mánghud,n,noun,"younger sibling, term used for people younger in age than the speaker.",0.0
 mangín,va,verbal affix,"to become, to be like.",0.361
 mangingísda’,n,noun,fisherman.,0.0
@@ -2537,7 +2537,7 @@ may-,na,noun formative,si ramóna.,0.0
 may,v,verb,"to have, the existence of something, to be in existence.",0.0
 máya,n,noun,wren.,0.0
 mayád,adj,adjective,"good, fine, well.",0.7
-mayád,v,verb,"to become well, to recover from being sick, to get well, to improve.",0.7
+mayád,v,verb,"to become well, to recover from being sick, to get well, to improve.",0.421
 nagmáyad,na,noun formative,si carméla.,0.0
 máyo,n,noun,may.,0.0
 mayór,n,noun,mayor of a town or city.,0.0
@@ -2565,8 +2565,8 @@ mínus,adv,adverb,"before, less, of time.",0.0
 mínus,v,verb,"to take out, to decrease, to make smaller.",0.0
 minútu,n,noun,"of time, minute.",0.0
 míngaw,n,noun,"loneliness, anguish.",-0.772
-míngaw,adj,adjective,"lonely, cheerless.",-0.772
-míngaw,v,verb,"to feel lonely, to feel distressed, ginmingáw akú kahápun.",-0.772
+míngaw,adj,adjective,"lonely, cheerless.",-0.637
+míngaw,v,verb,"to feel lonely, to feel distressed, ginmingáw akú kahápun.",-0.649
 mísa,n,noun,roman catholic mass.,0.0
 mísa,v,verb,to say mass.,0.0
 misyonéro,n,noun,missionary.,0.0
@@ -2585,9 +2585,9 @@ mugún,v,verb,"to work for a daily wage, to earn.",0.0
 múg’ut,v,verb,"to do something with violence, to have a grudge for.",-0.625
 mulálung,v,verb,to see or perceive clearly.,0.402
 muléstya,n,noun,"bother, trouble.",-0.625
-muléstya,v,verb,"to bother, to molest, to cause trouble, to request.",-0.625
+muléstya,v,verb,"to bother, to molest, to cause trouble, to request.",-0.802
 múlta,n,noun,"fine, penalty.",-0.296
-múlta,v,verb,"to impose a fine, to be fined.",-0.296
+múlta,v,verb,"to impose a fine, to be fined.",-0.103
 munisípyo,n,noun,"municipal town hall, municipal office building.",0.0
 múnu,con,conjunction,"said, according to, quoting particle.",0.0
 múnu,v,verb,"to mention, to murmur, to say.",0.0
@@ -2636,8 +2636,8 @@ negósyo,n,noun,"small business, business.;  merchant.",0.0
 negósyo,v,verb,"to do business, to be in business.",0.0
 néne’,n,noun,endearment term for young girls or the eldest girl in the family.,0.0
 nérbyos,n,noun,"nervousness, anxiety.",-0.44
-nérbyos,adj,adjective,"nervous, edgy, anxious.",-0.44
-nérbyos,v,verb,"to be anxious, to be nervous.",-0.44
+nérbyos,adj,adjective,"nervous, edgy, anxious.",-0.477
+nérbyos,v,verb,"to be anxious, to be nervous.",-0.477
 ni,d,deictic,"this, from iní.",0.0
 ni,pt,particle,personal name post-position marker.,0.0
 nígru,n,noun,"negro, black-complexioned person.",0.0
@@ -2669,7 +2669,7 @@ ngá’a,adv,adverb,why.,0.0
 ngálan,n,noun,name.,0.0
 ngásal,v,verb,"to chatter, to talk boisterously.",0.0
 ngáwa,n,noun,"surprise, apprehension.",-0.25
-ngáwa,v,verb,"to be surprised, to shrink from, to be afraid of.",-0.25
+ngáwa,v,verb,"to be surprised, to shrink from, to be afraid of.",0.226
 ngídlis,v,verb,"to be horrified, to feel uncomfortable with, to be unpleasant or disagreeable.",-0.898
 ngíl’ad,v,verb,"to loathe, to be sickened, to disgust.",-0.891
 ngípun,n,noun,tooth.,0.0
@@ -2681,7 +2681,7 @@ ngúrub,n,noun,"frown, roar, growl.",0.0
 ngúrub,v,verb,"to snarl, to growl, to frown.",0.0
 ngútngut,v,verb,"to be painful, to feel a sharp pain, to ache.",-0.832
 o,con,conjunction,or.,0.0
-o,pt,particle,"okay, oh.",0.0
+o,pt,particle,"okay, oh.",0.226
 obíspo,n,noun,bishop.,0.0
 okupádo,adj,adjective,"busy, occupied.",0.0
 ónse,num,numeral,eleven.,0.0
@@ -2752,12 +2752,12 @@ páhu’,n,noun,mango.,0.0
 páhug,v,verb,"to frighten, to tease.",-0.572
 pahulám,v,verb,"to lend, to let.",0.0
 pahúway,n,noun,"rest, relaxation.",0.527
-pahúway,v,verb,"to rest, to relax.",0.527
+pahúway,v,verb,"to rest, to relax.",0.44
 pa’ílub,v,verb,"to bear patiently or humbly, to give way, to give the chance to others.",0.25
 pa’ínu’ínu,n,noun,"thought, idea.",0.0
 pa’ínu’ínu,v,verb,"to think, to have the idea of.",0.0
 pa’ít,n,noun,bitterness.,-0.402
-pa’ít,adj,adjective,bitter.,-0.402
+pa’ít,adj,adjective,bitter.,-0.421
 pa’íway,v,verb,"to repel, to avoid, to be careful of.",-0.153
 pála,n,noun,"shovel, spade.",0.0
 pála’,v,verb,"to erase with an eraser, to wipe out.",0.0
@@ -2769,7 +2769,7 @@ pálad,n,noun,"fate, palm.",0.0
 palamanúg,v,verb,"to swell, to have black and blue marks.",0.0
 palangána,n,noun,basin.,0.0
 palángga’,n,noun,"beloved, sweetheart, favorite.",0.891
-palángga’,v,verb,"to love, to care for.",0.891
+palángga’,v,verb,"to love, to care for.",0.813
 pálapála,n,noun,trellis.,0.0
 palasárun,n,noun,"project, plan.",0.0
 palásyu,n,noun,palace.,0.0
@@ -2839,15 +2839,15 @@ pányu’,n,noun,handkerchief.,0.0
 pang-…-un,va,verbal affix,ginpangumústa akú ni presidénte márcos.,0.0
 pangabáy,v,verb,"to request, to ask a favor.",0.402
 pangabúdlay,n,noun,"effort, hard work.",-0.103
-pangabúdlay,v,verb,"to work hard, to try to accomplish, to put effort into.",-0.103
+pangabúdlay,v,verb,"to work hard, to try to accomplish, to put effort into.",0.34
 pangabúhi’,n,noun,"life, way of life.",0.0
 pangáku’,n,noun,"promise, oath, sworn statement.",0.318
-pangáku’,v,verb,"to swear, to promise, to commit.",0.318
-pangáku’,na,noun formative,magliwát.,0.318
+pangáku’,v,verb,"to swear, to promise, to commit.",0.511
+pangáku’,na,noun formative,magliwát.,0.0
 pangádyi’,n,noun,"prayer, meditation.",0.0
-pangádyi’,v,verb,"to pray, to meditate, to contemplate.",0.0
+pangádyi’,v,verb,"to pray, to meditate, to contemplate.",0.318
 pangamúyu’,n,noun,"prayer, supplication.",0.0
-pangamúyu’,v,verb,"to pray, to supplicate, to entreat god.",0.0
+pangamúyu’,v,verb,"to pray, to supplicate, to entreat god.",0.527
 pangánud,n,noun,cloud.,0.0
 pangáyaw,v,verb,"to migrate, to transfer to a place temporarily, to move to a new place.",0.0
 pangáyu’,n,noun,"request, demand, thing asked for.",-0.128
@@ -2922,9 +2922,9 @@ patarásak,adj,adjective,eccentric.,0.0
 pátas,adv,adverb,"equally, evenly.",0.0
 pátas,v,verb,"to come out equal, to result in a tie.",0.0
 patáwad,n,noun,"excuse, clemency, pardon.",0.382
-patáwad,v,verb,"to give clemency, to pardon, to forgive, to excuse.",0.382
+patáwad,v,verb,"to give clemency, to pardon, to forgive, to excuse.",0.572
 patáy,n,noun,"dead person, dead plant or animal, corpse.;  death.",-0.953
-patáy,v,verb,"to kill, to put to death.",-0.953
+patáy,v,verb,"to kill, to put to death.",-0.863
 páti,v,verb,"to believe, to obey, to be convinced.",0.402
 patí’,adv,adverb,"including, also, with, together with.",0.0
 pát’in,v,verb,"to sign, to mark, to enter in the list.",0.0
@@ -2955,7 +2955,7 @@ páyung,n,noun,"umbrella, parasol.",0.0
 páyung,v,verb,to wear an umbrella.,0.0
 pelígro,n,noun,"risk, danger.",-0.67
 pensyón,n,noun,pension.,0.0
-pensyón,v,verb,"to give a pension, to support through a pension.",0.0
+pensyón,v,verb,"to give a pension, to support through a pension.",0.402
 péras,n,noun,pear.,0.0
 peregríno,n,noun,pilgrim.,0.0
 pérlas,n,noun,pearl.,0.0
@@ -2975,7 +2975,7 @@ pígaw,adj,adjective,"frail, weak.",-0.44
 pígaw,v,verb,"to become weak, to become frail.",-0.44
 pígus,v,verb,"to oppress, to exploit.",-0.103
 pihák,n,noun,"other side, reverse, pair, half.",0.0
-pihák,v,verb,"to cut in two parts, to divide in half.",0.0
+pihák,v,verb,"to cut in two parts, to divide in half.",-0.273
 pilá,adv,adverb,"how much, how many.",0.0
 píla,n,noun,"line, queue.",0.0
 píla,v,verb,to stand in line.,0.0
@@ -3031,7 +3031,7 @@ pisík,v,verb,"to fly off or jump off, of shrimps and fish, to make a quick and 
 pisíl,v,verb,"to compress, to grip, to press, to press with the fingers.",0.0
 písngi,n,noun,cheek.,0.0
 písngu’,n,noun,"sob, sobbing sound.",-0.557
-písngu’,v,verb,to sob after weeping.,-0.557
+písngu’,v,verb,to sob after weeping.,-0.599
 písos,n,noun,peso bill.,0.0
 píspis,n,noun,bird.,0.0
 písta,n,noun,"fiesta, religious feast day of a saint, variant of pyésta.",0.477
@@ -3042,7 +3042,7 @@ pisúk,v,verb,to bat an eye.,0.0
 pitáka,n,noun,"purse, handbag.",0.0
 pitála’,n,noun,bolt.,0.0
 pitík,n,noun,"beating, throbbing, flick.",-0.459
-pitík,v,verb,to flick another person with a finger.,-0.459
+pitík,v,verb,to flick another person with a finger.,0.0
 pítla’,adj,adjective,gibberish.,0.0
 pítsil,n,noun,pitcher.,0.0
 pitú,num,numeral,seven.;  seventh; /napulug-/ seventeen; /ka-…-an/ seventy.,0.0
@@ -3050,7 +3050,7 @@ pítu,n,noun,whistle.,0.0
 pítu,v,verb,"to blow a whistle, to whistle.",0.0
 pí’ud,v,verb,to fold.,0.0
 pí’ut,adj,adjective,"tight, crowded.",0.0
-pí’ut,v,verb,"to become tight, to breathe with difficulty.",0.0
+pí’ut,v,verb,"to become tight, to breathe with difficulty.",-0.34
 píyung,v,verb,"to shut, to close the eye.",0.0
 pláka,n,noun,phonograph record.,0.0
 planéta,n,noun,planet.,0.0
@@ -3067,7 +3067,7 @@ pléte,n,noun,"fare, ticket for a plane or boat or bus ride.",0.0
 plúma,n,noun,fountain pen.,0.0
 pluméru,n,noun,feather duster.,0.0
 póbre,adj,adjective,"poor, humble, unpretentious.",-0.477
-póbre,n,noun,poverty.,-0.477
+póbre,n,noun,poverty.,-0.511
 pomáda,n,noun,"pomade, men’s hair dressing.",0.0
 porsyénto,n,noun,"percentage, interest.",0.459
 póste,n,noun,"post, column.",0.0
@@ -3086,7 +3086,7 @@ primabéra,n,noun,spring.,0.0
 prímo,n,noun,cousin.,0.0
 prinsipál,n,noun,school principal.,0.0
 príso,n,noun,prisoner.;  prison.,-0.778
-príso,v,verb,"to put in prison, to imprison.",-0.778
+príso,v,verb,"to put in prison, to imprison.",-0.511
 príto,adj,adjective,fried.,0.0
 príto,v,verb,"to fry, to cook in oil.",0.0
 probár,v,verb,"to prove, to give proofs.",0.0
@@ -3139,7 +3139,7 @@ pulús,n,noun,"usefulness, profit, advantage, benefit.",0.844
 púlut,v,verb,to pick up from the ground.,0.0
 pumpyáng,n,noun,cymbal.,0.0
 púna’,n,noun,net.,0.0
-púna’,v,verb,"to trap in a net, to weave a net.",0.0
+púna’,v,verb,"to trap in a net, to weave a net.",-0.318
 púnaw,v,verb,"to faint, to feel dizzy.",-0.226
 púnda,n,noun,pillow case.,0.0
 puní,n,noun,decoration.,0.0
@@ -3178,7 +3178,7 @@ pús’un,n,noun,abdomen.,0.0
 púswit,v,verb,"to burst through a small opening with force, especially of liquids.",0.0
 putí’,adj,adjective,"white, fair in complexion.;  white.",0.318
 pútul,v,verb,"to sever, to cut off.",-0.273
-pútul,adj,adjective,"severed, cut, broken off.",-0.273
+pútul,adj,adjective,"severed, cut, broken off.",-0.772
 putús,n,noun,"wrapper, cover.",0.0
 putús,v,verb,"to wrap, to tie into a package, to pack.",0.0
 putút,adj,adjective,"of people, short.",0.0
@@ -3209,9 +3209,9 @@ rásras,v,verb,"to slash, of clothing, to slit or to take out the stitching.",-0
 ráyna,n,noun,"queen, empress.",0.0
 rebólber,n,noun,"gun, revolver.",-0.34
 reklámo,n,noun,"complaint, discontent.",-0.296
-reklámo,v,verb,to complain.,-0.296
+reklámo,v,verb,to complain.,-0.361
 regálo,n,noun,"gift, present.",0.44
-regálo,v,verb,to give a present.,0.44
+regálo,v,verb,to give a present.,0.0
 reló,n,noun,"time piece, wrist watch.",0.0
 relyéno,n,noun,stuffed chicken or fish.,0.0
 rénda,n,noun,bridle.,0.0
@@ -3264,8 +3264,8 @@ sakadéro,n,noun,sugarcane field laborer.,0.0
 sakáy,v,verb,"to ride, to board.",0.0
 sákdag,v,verb,"to help, to sustain, to support, to aid.",0.66
 sakít,n,noun,"illness, pain, grief, sorrow.",-0.912
-sakít,v,verb,"to be painful, to be hurt, to feel bad about.",-0.912
-sakít,adj,adjective,"painful, sorrowful.",-0.912
+sakít,v,verb,"to be painful, to be hurt, to feel bad about.",-0.869
+sakít,adj,adjective,"painful, sorrowful.",-0.727
 sáklaw,v,verb,to feel slighted.,0.0
 sáksak,v,verb,"to chop, to stab repeatedly, to cut into pieces.",-0.71
 sáksi,n,noun,witness.,0.0
@@ -3280,7 +3280,7 @@ sákut,v,verb,"to mix, to blend, to put together.",0.0
 sádtu,d,deictic,those (far from both the speaker and the listener).,0.0
 sádtu,adv,adverb,"before, in the past.",0.0
 sádya,n,noun,"happiness, joy, cheer.",0.893
-sádya,adj,adjective,"happy, cheerful, joyful.",0.893
+sádya,adj,adjective,"happy, cheerful, joyful.",0.902
 ság’a,v,verb,"to throw out water, to drain.",0.0
 sagáhay,v,verb,"to overflow, to pour out abundantly.",0.0
 sagáng,v,verb,"to prevent, to protect oneself, to defend.",0.402
@@ -3302,9 +3302,9 @@ sahú’,v,verb,"to be accustomed to, to get along well.",0.273
 sahúg,v,verb,"to disturb, to interrupt.",-0.625
 sála,n,noun,"livingroom, hall, lounge area.",0.0
 sála’,n,noun,strainer.,-0.202
-sála’,v,verb,"to strain, to sift.",-0.202
+sála’,v,verb,"to strain, to sift.",-0.052
 salá’,n,noun,"mistake, crime, sin, error.",-0.904
-salá’,v,verb,"to make a mistake, to commit an error.",-0.904
+salá’,v,verb,"to make a mistake, to commit an error.",-0.44
 salákay,v,verb,"to overthrow, to attack.",-0.477
 salamángka,n,noun,magic;  magician.,0.0
 salámat,id,idiom,thank you.,0.361
@@ -3321,12 +3321,12 @@ salbáhe,adj,adjective,"haughty, unfaithful, rogue.",0.0
 saliká’,v,verb,"to straddle, to sit astride.",0.0
 salída,n,noun,"show, movie show.",0.0
 sálig,n,noun,"trust, confidence.",0.765
-sálig,v,verb,"to trust, to confide in, to depend on.",0.765
+sálig,v,verb,"to trust, to confide in, to depend on.",0.511
 salimpapáw,adj,adjective,"superficial, hypocrite.",0.0
 salimú’ang,adj,adjective,delirious.,0.0
 salimú’ang,v,verb,"to be delirious, to rave.",0.0
 salín,n,noun,"remnant, left-over, scrap.",0.0
-salín,v,verb,"to leave something behind, to keep, to store for some other time.",0.0
+salín,v,verb,"to leave something behind, to keep, to store for some other time.",-0.052
 salipádpad,v,verb,"to fling, to throw away.",0.0
 sálmon,n,noun,"sardines, salmon.",0.0
 sálmon,adj,adjective,orange.,0.0
@@ -3337,7 +3337,7 @@ sálu,v,verb,"to eat together, to partake of a meal together.",0.0
 salúk,v,verb,to dip or scoop out with the hand or a dipper or ladle.,0.586
 sálud,v,verb,to catch drops of water so as to gather in a container.,0.0
 salúdu,n,noun,"salute, bow.",0.0
-salúdu,v,verb,"to salute, to bow, to show respect.",0.0
+salúdu,v,verb,"to salute, to bow, to show respect.",0.477
 salúg,n,noun,floor.,0.0
 sálug,v,verb,"to mix, to mingle.",0.0
 sálum,v,verb,"to dive for, to sink in.",0.0
@@ -3345,7 +3345,7 @@ sálup,v,verb,"to go down, to disappear, to penetrate.",-0.226
 salusálu,v,verb,"to have a feast, to hold a banquet.",0.0
 sál’ut,v,verb,"to insert, to get between.",0.0
 samád,n,noun,"wound, injured part.",-0.402
-samád,v,verb,"to wound, to injure, to destroy.",-0.402
+samád,v,verb,"to wound, to injure, to destroy.",-0.542
 sámay,adj,adjective,"striped, lined.",0.0
 sámay,v,verb,to line with stripes.,0.0
 sámbag,n,noun,tamarind.,0.0
@@ -3363,14 +3363,14 @@ sámu’,v,verb,"to dilute, to mix together.",0.0
 sámuk,n,noun,"noise, trouble, bother.",-0.625
 sámuk,v,verb,"to bother, to cause trouble, to make noise.",-0.625
 sánag,adj,adjective,"bright, shiny.",0.44
-sánag,v,verb,"to be clear, to shine.",0.44
+sánag,v,verb,"to be clear, to shine.",0.382
 sándad,v,verb,"to knock over and fall, to stumble.",0.0
 sánday,pt,particle,personal names nominal marker.,0.0
 sandí’ay,v,verb,to lean on.,0.0
 sándig,v,verb,to lean on for support.,0.402
 sandíya,n,noun,"watermelon, watermelon seeds.",0.0
 sánduk,n,noun,"ladle, big spoon.",0.0
-sánduk,v,verb,to dig or scoop out.,0.0
+sánduk,v,verb,to dig or scoop out.,0.153
 sánlag,v,verb,"to fry, to cook in oil.",0.0
 sánting,adj,adjective,"of string or ropes, tight.",0.0
 sántu,n,noun,variant of sántus.,0.0
@@ -3412,7 +3412,7 @@ sá’ut,n,noun,dance.,0.0
 sá’ut,v,verb,to dance.,0.0
 sáw’a,adj,adjective,"immoral, indecent.",-0.459
 sawáy,n,noun,"brass metal, criticism.",-0.44
-sawáy,v,verb,"to criticize, to correct, to mention so as to correct.",-0.44
+sawáy,v,verb,"to criticize, to correct, to mention so as to correct.",-0.382
 sáwsaw,v,verb,"to soak, to put into, to dip.",0.0
 sáya,n,noun,long skirt of old women.,0.0
 sayásat,v,verb,"to investigate, to check, to diagnose.",0.0
@@ -3446,9 +3446,9 @@ sibát,n,noun,"spear, lance.",0.0
 sibín,n,noun,wash cloth.,0.0
 sibín,v,verb,to wipe with a towel or wash cloth.,0.0
 sibít,n,noun,straight pin.,0.226
-sibít,v,verb,"to use a pin, to tuck together with a pin, to prick with a pin.",0.226
+sibít,v,verb,"to use a pin, to tuck together with a pin, to prick with a pin.",-0.34
 síbu,n,noun,grease.,0.0
-síbu,v,verb,"to fit, to be enough.",0.0
+síbu,v,verb,"to fit, to be enough.",0.361
 síbu’,n,noun,"zero, nothing.",0.0
 sibúyas,n,noun,onion.,0.0
 síkad,v,verb,to kick with the foot.,0.0
@@ -3464,16 +3464,16 @@ síga,v,verb,"to shine, to give a glow.",0.0
 sigahúm,v,verb,"to desire, to hanker after.",0.402
 sigarílyo,n,noun,cigarette.,0.0
 sígi,adv,adverb,"okay, alright, go ahead.",0.44
-sígi,v,verb,"to go ahead, to go on, to continue.",0.44
+sígi,v,verb,"to go ahead, to go on, to continue.",0.0
 sígput,v,verb,"to take up small particles, to collect the leavings.",0.0
 sígu,v,verb,"to fit, to join perfectly.",0.836
 sigúro,adv,adverb,"maybe, perhaps.",0.0
-sigúro,adj,adjective,"certain, for sure.",0.0
+sigúro,adj,adjective,"certain, for sure.",0.527
 siháy,v,verb,"to be different, to be in contrast, to separate from.",0.0
 sihigún,n,noun,rod.,0.0
 silá,pr,pronoun,they (third person plural nominal pronoun).,0.0
 sílak,n,noun,"rays of the sun, heat of the sun.",0.0
-sílak,v,verb,to shine brightly.,0.0
+sílak,v,verb,to shine brightly.,0.361
 sílaw,adj,adjective,"glaring, extremely shiny, blinding.",0.0
 sílhig,n,noun,broom.,0.0
 sílhig,v,verb,to sweep.,0.0
@@ -3486,7 +3486,7 @@ sílung,n,noun,"basement, shelter.",0.0
 sílung,v,verb,to take shelter.,0.0
 sílut,v,verb,"to punish, to condemn.",-0.718
 símba,v,verb,"to worship, to go to church, to pay homage to.",0.202
-símba,n,noun,church.,0.202
+símba,n,noun,church.,0.0
 simbóryo,n,noun,"dome, belfry.",0.0
 símbug,v,verb,"to mix, to dilute liquids.",0.0
 símpli,adj,adjective,"simple, ordinary.",0.0
@@ -3555,15 +3555,15 @@ sopá,n,noun,"couch, sofa.",0.0
 sorbéte,n,noun,ice cream.,0.0
 soríso,n,noun,sausage.,0.0
 sú’ay,v,verb,"to debate, to dispute, to disobey.",-0.402
-sú’ay,adj,adjective,"disobedient, hostile.",-0.402
+sú’ay,adj,adjective,"disobedient, hostile.",-0.382
 subá’,n,noun,river.,0.0
 subáng,n,noun,oldest child.,0.0
 subáy,n,noun,"ant, red ant.",0.0
 súbli’,v,verb,"to inherit, to be heir to.",0.0
 súbli’,n,noun,"legacy, heritage; /mang-/ heir.",0.0
 subú’,n,noun,"sadness, sorrow, loneliness.",-0.844
-subú’,adj,adjective,"sad, lonely, sorrowful.",-0.844
-subú’,v,verb,"to become sad, to feel lonely.",-0.844
+subú’,adj,adjective,"sad, lonely, sorrowful.",-0.832
+subú’,v,verb,"to become sad, to feel lonely.",-0.681
 súbul,v,verb,"to cast out, to drive away, to renounce.",0.0
 subúng,adv,adverb,"now, like, similarly.",0.361
 súka,n,noun,"spew, vomit.",0.0
@@ -3601,12 +3601,12 @@ súgu’,v,verb,"to request, to command, to decree.",0.0
 súgud,n,noun,"start, beginning.",0.0
 súgud,v,verb,"to start, to begin, to commence.",0.0
 sugút,n,noun,"agreement, contract.",0.494
-sugút,v,verb,"to consent, to agree, to allow, to permit.",0.494
+sugút,v,verb,"to consent, to agree, to allow, to permit.",0.649
 súgyut,v,verb,"to urge on, to induce, to provoke.",-0.402
 súhul,n,noun,"salary, pay.",-0.103
 súhul,v,verb,"to pay wages, to give salary to.",-0.103
 súhut,v,verb,"to creep through, to go under, to crawl through a narrow passage.",0.0
-súhut,n,noun,bribe.,0.0
+súhut,n,noun,bribe.,-0.202
 súlab,n,noun,blade.,0.0
 sulábi,v,verb,"to pet, to discriminate, to prefer, to distinguish.",0.0
 sulát,n,noun,"handwriting, letter.",0.0
@@ -3614,8 +3614,8 @@ sulát,v,verb,to write.,0.0
 suláy,v,verb,"to tempt, to induce, to do otherwise.",0.0
 súlda,v,verb,to weld together.,0.0
 súlhay,adj,adjective,"comfortable, at ease.",0.7
-súlhay,n,noun,"comfort, ease.",0.7
-súlhay,v,verb,"to become easy, to live in comfort.",0.7
+súlhay,n,noun,"comfort, ease.",0.612
+súlhay,v,verb,"to become easy, to live in comfort.",0.66
 sulí’,v,verb,to turn upside down.,0.0
 súlip,v,verb,"to pass under the house, to dive.",0.0
 súlit,v,verb,"to test, to repeat, to do again.",0.0
@@ -3635,11 +3635,11 @@ súmbag,v,verb,"to box, to hit with the fist.",0.0
 súmbung,v,verb,"to denounce, to accuse, to report.",-0.494
 súm’ud,v,verb,"to loathe, to have more than enough so as to feel boredom, to cloy.",-0.67
 súmpa’,n,noun,"oath, sworn statement, vow.",0.0
-súmpa’,v,verb,"to take an oath, to swear, to make a big promise.",0.0
+súmpa’,v,verb,"to take an oath, to swear, to make a big promise.",0.273
 súmpung,v,verb,"to oppose, to resist, to fight, to have an argument with.",-0.625
 sundáyag,v,verb,"to publish, to display, to explain.",0.0
 súnlug,n,noun,"teasing, joke.",0.226
-súnlug,v,verb,to tease.,0.226
+súnlug,v,verb,to tease.,-0.318
 súnsun,adj,adjective,"frequent, often.",0.0
 súntuk,v,verb,"to pierce, to thrust, to go through.",0.0
 sunú’,con,conjunction,according to.,0.0
@@ -3682,7 +3682,7 @@ swélas,n,noun,"of shoes, sole.",0.0
 swéldo,n,noun,"salary, pay, wage.",-0.103
 swéldo,v,verb,"to pay wages, to receive a salary.",-0.103
 swérte,n,noun,"luck, fate.",0.459
-swérte,adj,adjective,lucky.,0.459
+swérte,adj,adjective,lucky.,0.421
 syá,pr,pronoun,"he, she, it (third person singular nominal pronoun).",0.0
 syápa,n,noun,badge.,0.0
 syémpre,id,idiom,"of course, certainly, yes.",0.625
@@ -3693,7 +3693,7 @@ syéte,num,numeral,seven.,0.0
 syudád,n,noun,"city, metropolis.",0.0
 ta,pr,pronoun,short form of nátun.,0.0
 tá’as,adj,adjective,tall.,0.0
-tá’as,v,verb,"to grow tall, to raise, to increase.",0.0
+tá’as,v,verb,"to grow tall, to raise, to increase.",0.318
 tába’,v,verb,to buy land or fields.,0.0
 tabáku’,n,noun,"tobacco, cigar.",0.0
 tabáku’,v,verb,"to smake a cigar, to chew tobacco.",0.0
@@ -3707,7 +3707,7 @@ tabínas,n,noun,embarrassment.,-0.44
 tabís,n,noun,"penalty, fine.",-0.296
 tablétas,n,noun,"medicine tablet, pill.",0.0
 tabú’,n,noun,"dipper, can used to scoop out water;  case, event, happening.",0.153
-tabú’,v,verb,"to happen, to occur, to come to pass.",0.153
+tabú’,v,verb,"to happen, to occur, to come to pass.",0.0
 tábu’,v,verb,"to come together, to meet purposely, to fetch from an airport or pier.",0.0
 tabúk,v,verb,"to go across, to cross over.",0.0
 tábug,v,verb,"to drive away, using arm gestures.",0.0
@@ -3731,22 +3731,22 @@ takúp,n,noun,"cover, stopper.",0.0
 takúp,v,verb,"to cover, to put a cover on.",0.0
 takús,n,noun,"fit, measure, dimension.",0.361
 tádlung,adj,adjective,straight.,0.226
-tádlung,v,verb,to straighten.,0.226
+tádlung,v,verb,to straighten.,0.0
 tádtad,v,verb,"to chop, to mutilate.",0.0
 tádyaw,n,noun,native clay jar designed to hold water.,0.0
 tag,na,noun formative,noun formative affix designating type of work done by a person.,0.0
-tag,pt,particle,adverbial formative affix designating quantity or value.,0.0
+tag,pt,particle,adverbial formative affix designating quantity or value.,0.34
 tagá,v,verb,"to be from, to come from, to originate from.",0.0
 tagálog,n,noun,"language spoken principally in the greater manila area, and in bata’an, bulacan, occidental mindoro, oriental mindoro, quezon and rizal provinces.",0.361
 tagám,v,verb,"to beware, to be careful of, to take the risk.",-0.128
-tagám,n,noun,"danger, risk.",-0.128
+tagám,n,noun,"danger, risk.",-0.67
 tagasák,v,verb,"to make a slapping sound, to resound, to make a dripping sound like the rain.",0.361
 tágay,v,verb,"to put out, to offer.",0.0
 tagbaláy,n,noun,"owner of the house, host, or hostess.",0.0
 tagbaláy,id,idiom,hello (anybody home).,0.0
 tágbang,v,verb,to cast overboard.,0.0
 tághul,n,noun,"howl, dog bark.",0.0
-tághul,v,verb,"to howl, to bark like a dog.",0.0
+tághul,v,verb,"to howl, to bark like a dog.",0.361
 tághuy,v,verb,"to wail, to sigh.",0.026
 tagíptip,n,noun,mildew.,0.0
 tag’íya,n,noun,"owner, possessor.",0.0
@@ -3768,9 +3768,9 @@ táhaw,v,verb,"to become mild, to lose alcohol content, to be flat.",-0.402
 tahí’,n,noun,"sewing, stitch.",0.0
 tahí’,v,verb,to sew.,0.0
 táhud,n,noun,"respect, honor, courtesy.",0.832
-táhud,v,verb,to show respect or courtesy.,0.832
+táhud,v,verb,to show respect or courtesy.,0.681
 tahúm,adj,adjective,"beautiful, pretty.",0.796
-tahúm,n,noun,"beauty, effulgence.",0.796
+tahúm,n,noun,"beauty, effulgence.",0.586
 talágsa,adv,adverb,"rarely, scarcely, seldom.",0.0
 talá’id,adv,adverb,"evenly distributed, evenly done.",0.0
 talámnan,n,noun,"field, garden.",0.0
@@ -3792,7 +3792,7 @@ talúng,n,noun,eggplant.,0.0
 tál’us,v,verb,"to take another’s place, to substitute for someone.",0.0
 talyér,n,noun,repair shop for cars.,0.0
 táma’,adv,adverb,"correct, well, extremely, excessively.",0.273
-táma’,v,verb,"to be correct, to fit into, to adjust well.",0.273
+táma’,v,verb,"to be correct, to fit into, to adjust well.",0.557
 tamád,adj,adjective,"idle, lazy, indolent.",-0.361
 tamáwu,n,noun,"dwarf, elf.",0.0
 tamáy,v,verb,"to despise, to contempt.",-0.735
@@ -3802,18 +3802,18 @@ tambalihán,n,noun,chameleon.,0.0
 támbi,v,verb,"of sewing, to sew a small piece to a bigger piece of cloth, to have enough material.",0.0
 támbu’,n,noun,bamboo shoot.,-0.34
 támbuk,n,noun,"fatness, stoutness.",0.0
-támbuk,adj,adjective,"fat, stout, obese.",0.0
+támbuk,adj,adjective,"fat, stout, obese.",0.178
 támbung,v,verb,"to attend, to be present.",0.0
 támbur,n,noun,drum.,0.0
 tamíng,n,noun,"armor, shield.",0.0
 tám’is,n,noun,sweetness.,0.494
-tám’is,adj,adjective,sweet.,0.494
+tám’is,adj,adjective,sweet.,0.459
 támpa’,n,noun,slap on the face.,0.153
 támpa’,v,verb,to slap on the face.,0.153
 támpad,adj,adjective,"frank, candid.",0.0
-támpad,v,verb,"to confront, to be frank, to divulge.",0.0
+támpad,v,verb,"to confront, to be frank, to divulge.",-0.178
 tampálas,v,verb,to insult.,-0.511
-tampálas,adj,adjective,cruel.,-0.511
+tampálas,adj,adjective,cruel.,-0.586
 támpi,v,verb,"to put on an apron, to put something over the dress so as to cover it.",0.0
 támpis,n,noun,"apron, piece of cloth worn over the skirt for decoration.",-0.296
 támpuk,v,verb,"to fill up a hole, to cover a hole.",0.0
@@ -3830,9 +3830,9 @@ táni’,adv,adverb,"if possible, perhaps, possibly.",0.0
 tánsya,n,noun,"estimate, prediction.",0.0
 tánsya,v,verb,"to estimate, to predict the quantity.",0.0
 tanúm,n,noun,plant.,0.0
-tanúm,v,verb,"to plant, to allow to grow.",0.0
+tanúm,v,verb,"to plant, to allow to grow.",0.226
 tányag,n,noun,offer.,0.0
-tányag,v,verb,"to offer as a bonus, to offer.",0.0
+tányag,v,verb,"to offer as a bonus, to offer.",0.542
 tangá,n,noun,cockroach.,0.0
 tangá’,v,verb,"to look up, to look stupid, to have a blank stare.",-0.527
 tángki,n,noun,tank container.,0.0
@@ -3854,7 +3854,7 @@ táplik,v,verb,"to flick, to jerk, to flick on the sides.",-0.34
 tápna’,v,verb,to stop.,-0.296
 tápnay,v,verb,"to carry or hold in the arms, to cradle in the arms like a baby.",0.361
 tápu’,n,noun,"association, group, club.",0.0
-tápu’,v,verb,"to join together as a group, to associate, to group together.",0.0
+tápu’,v,verb,"to join together as a group, to associate, to group together.",0.296
 tapúk,adj,adjective,"brittle, delicate, non-durable.",0.052
 tápuk,v,verb,"to throw away, to cast away to a far off place, to deport.",0.0
 tapús,adj,adjective,"finished, completed.",0.0
@@ -3863,7 +3863,7 @@ tapútapú,n,noun,dust.,0.0
 tarhéta,n,noun,"card, identification.",0.0
 társo,n,noun,"clown, joker.",0.128
 tárung,n,noun,"reason, excuse.",0.077
-tárung,v,verb,"to behave well, to straighten up.",0.077
+tárung,v,verb,"to behave well, to straighten up.",0.273
 tása,n,noun,drinking cup.,0.0
 tásak,v,verb,"to put on one’s foot, to step into.",0.0
 táslaw,adj,adjective,coward.,-0.459
@@ -3927,16 +3927,16 @@ tig,pt,particle,variant of tag.,0.0
 tig-…-la-,na,noun formative,noun formative affix designating season of abundance or plurality.,0.0
 tig…-li-,na,noun formative,variant of .,0.0
 tíg’a,adj,adjective,"hard, solid.",0.052
-tíg’a,v,verb,"to become hard, to solidify.",0.052
+tíg’a,v,verb,"to become hard, to solidify.",-0.103
 tigána,n,noun,left-overs.,0.0
-tigána,v,verb,"to leave for later, to store away, to stock for later use.",0.0
+tigána,v,verb,"to leave for later, to store away, to stock for later use.",-0.052
 tíg’ang,v,verb,"to set over the fire to cook, to cook steamed rice.",-0.34
 tigayún,v,verb,"to become a reality, to make possible, to bring about.",0.0
 tígbas,v,verb,to cut off with considerable force so as to make only one stroke.,-0.273
 tígdas,adj,adjective,"severe, rigid, strict.",-0.477
 tigíb,n,noun,chisel.,0.0
 tig’ik,n,noun,"shriek, choking sound.",-0.459
-tig’ik,v,verb,to shriek.,-0.459
+tig’ik,v,verb,to shriek.,0.0
 tiglawás,n,noun,"representative, congressman, spokesman.",0.0
 tigre,n,noun,tiger.,0.0
 tigúlang,adj,adjective,"of people, old.",0.0
@@ -3957,7 +3957,7 @@ timbú’uk,v,verb,"to whirl upward with speed, to soar.",0.0
 tín’ad,v,verb,to become prosperous.,0.477
 tinápay,n,noun,"bread, cookie.",0.0
 tín’aw,n,noun,"of water, clearness.",0.0
-tín’aw,adj,adjective,"of water, clear.",0.0
+tín’aw,adj,adjective,"of water, clear.",0.382
 tíndak,n,noun,kick.,0.0
 tíndak,v,verb,to kick.,0.0
 tínday,n,noun,calf.,0.0
@@ -3967,7 +3967,7 @@ tíndug,v,verb,"to stand, to arise.",0.0
 tinedór,n,noun,fork.,0.0
 tiniklíng,n,noun,filipino dance using bamboo poles.,0.0
 tínlu’,n,noun,"cleanness, purity, virginity.",0.0
-tínlu’,adj,adjective,"clean, pure.",0.0
+tínlu’,adj,adjective,"clean, pure.",0.402
 tínta’,n,noun,ink.,0.0
 tíntin,v,verb,"to canter, to walk carefully.",0.128
 tinúla,n,noun,vegetable soup.,0.0
@@ -3976,14 +3976,14 @@ tingá’,v,verb,to breathe one’s last.,0.0
 tingádlaw,n,noun,summer.,0.0
 tíngal,v,verb,to force another’s mouth to open.,0.0
 tingála,n,noun,"wonder, surprise, amazement.",0.681
-tingála,v,verb,"to wonder, to be astonished, to be surprised.",0.681
+tingála,v,verb,"to wonder, to be astonished, to be surprised.",0.542
 tingkáya’,v,verb,"to fall flat on one’s back, to slide down and fall on one’s back.",0.0
 tínggas,adj,adjective,"fleshy, plump, full.",0.0
 tingúb,v,verb,"to come together, to combine, to put together.",0.0
 tíngug,n,noun,voice.,0.0
 tíngug,v,verb,"to make a sound, to speak after a stretch of silence.",0.0
 tingúha’,n,noun,"to attempt, trial.",0.0
-tingúha’,v,verb,"to try, to make great efforts to attain, to attempt.",0.0
+tingúha’,v,verb,"to try, to make great efforts to attain, to attempt.",0.625
 típdas,n,noun,measles.,0.0
 típhag,n,noun,landslide.,0.0
 tipík,n,noun,"bit, small piece, chip.",0.0
@@ -4000,7 +4000,7 @@ tísluk,v,verb,to prick with a sharp or pointed end.,-0.34
 tisúk,v,verb,to stick into.,0.0
 tístis,v,verb,"to spite another out of envy, to backbite.",-0.67
 títi’,n,noun,"nipple, feeding bottle.",0.0
-títi’,v,verb,"to suck the breast, to feed from a bottle.",0.0
+títi’,v,verb,"to suck the breast, to feed from a bottle.",-0.44
 título,n,noun,"legal title, contract, title of ownership.",0.128
 ti’ún,n,noun,"moment, a little while.",0.0
 tíya,n,noun,"aunt, respect term for older females.",0.477
@@ -4015,7 +4015,7 @@ toneláda,n,noun,ton.,0.0
 tóre,n,noun,"tower, steeple.",0.0
 tóro,n,noun,"ox, bull.",0.0
 tórpe,adj,adjective,"sheepish, dense, unthinking.",0.0
-tórpe,intj,interjection,"brat, stupid, dumb.",0.0
+tórpe,intj,interjection,"brat, stupid, dumb.",-0.772
 totál,n,noun,"total, sum.",0.0
 totál,con,conjunction,"anyhow, anyway.",0.0
 tóto’,n,noun,endearment term for the eldest or the youngest boy in the family.,0.0
@@ -4024,7 +4024,7 @@ trabáho,v,verb,"to work, to do something.",0.0
 trák,n,noun,truck.,0.0
 trámbya,n,noun,trolley.,0.0
 trángka,n,noun,"lock, bar.",0.0
-trángka,v,verb,"to lock, to fasten securely.",0.0
+trángka,v,verb,"to lock, to fasten securely.",0.34
 trangkáso,n,noun,"flu, influenza.",-0.382
 trapál,n,noun,"canvas, tent.",0.0
 trápo,n,noun,"rag, wiper.",0.0
@@ -4048,7 +4048,7 @@ tú’ad,v,verb,to accept one’s fault or error.,-0.421
 tu’álya,n,noun,towel.,0.0
 tú’aw,v,verb,"to cry out, to exclaim.",-0.477
 tubá’,n,noun,fermented coconut drink.,0.0
-tubá’,v,verb,"to cut down a banana plant, to gather mature fruits.",0.0
+tubá’,v,verb,"to cut down a banana plant, to gather mature fruits.",0.178
 tubás,v,verb,"to harvest, to gather mature produce.",0.421
 túbi’,n,noun,variant of túb ig.,0.0
 túbig,n,noun,"water, liquid.",0.0
@@ -4057,17 +4057,17 @@ túbtub,adv,adverb,until.,0.0
 tubú,n,noun,sugarcane.,0.0
 túbu,n,noun,"pipe, tube.",0.0
 túbu’,n,noun,growth.,0.382
-túbu’,v,verb,"to grow, to germinate, to sprout.",0.382
+túbu’,v,verb,"to grow, to germinate, to sprout.",0.0
 túb’uk,v,verb,"to shoot up, to flare.",-0.34
 tubúd,n,noun,"leak, drop, flow.",-0.542
-tubúd,v,verb,"to leak, to flow in small drops.",-0.542
+tubúd,v,verb,"to leak, to flow in small drops.",-0.34
 tubúg,v,verb,to wallow in a mud hole as a carabao.,0.0
 tubús,v,verb,"to save, to redeem, to redeem a pawned item.",0.494
 túka,v,verb,to turn.,0.0
 tukád,v,verb,"to ascend, to go up.",0.0
 tukáp,v,verb,to patch a hole.,0.0
 tukár,n,noun,sound of a musical instrument.,0.0
-tukár,v,verb,to play a musical instrument.,0.0
+tukár,v,verb,to play a musical instrument.,0.34
 tukíb,v,verb,to open a little in order to peep.,0.0
 túksu’,v,verb,to ask to recite in class.,0.0
 túktuk,n,noun,"beak, bill, rust.",0.0
@@ -4110,7 +4110,7 @@ túlis,v,verb,"to hold up, to steal.",-0.494
 túltug,v,verb,"to strike, to beat, to pound with considerable force so as to make into powder.",-0.128
 túltul,v,verb,"to know one’s way, to find one’s way.",0.0
 túlu’,n,noun,"one drop, one drip.",-0.273
-túlu’,v,verb,"to drip, to leak, to fall in drops.",-0.273
+túlu’,v,verb,"to drip, to leak, to fall in drops.",-0.34
 túluk,n,noun,"glance, look, glimpse.",0.0
 túluk,v,verb,"to gaze at, to glimpse.",0.0
 tulúd,v,verb,to push.,0.0
@@ -4123,7 +4123,7 @@ túmba,v,verb,"to fall, to stumble.",0.0
 túmbaktúmbak,n,noun,dragonfly.,0.0
 túmban,v,verb,"to kick, to stamp on.",0.0
 túmbas,adj,adjective,"equal to, the same amount.",0.0
-túmbas,v,verb,"to pay off, to put up an amount equal to what is at stake.",0.0
+túmbas,v,verb,"to pay off, to put up an amount equal to what is at stake.",-0.103
 tumbayá’,v,verb,"to neglect, to shake off responsibility.",-0.572
 túmbu’,v,verb,"to bound, to hop, to play with coins or bottle covers for head-or-tail game.",0.34
 túmbuk,n,noun,"dot, period.",0.0
@@ -4142,7 +4142,7 @@ túntu,intj,interjection,"you idiot, stupid.",-0.772
 túntun,v,verb,"to lower down, to dangle.",-0.296
 túnu,n,noun,musical tune.,0.0
 tunúk,n,noun,"thorn, splinter.",0.0
-tunúk,v,verb,to be pricked with a thorn or splinter.,0.0
+tunúk,v,verb,to be pricked with a thorn or splinter.,-0.153
 túnud,v,verb,"to disappear, to sink.",-0.226
 tunúg,n,noun,"sound, tone.",0.0
 tunúg,v,verb,"to make a sound, to sound.",0.0
@@ -4173,13 +4173,13 @@ tútud,v,verb,to set fire to.,-0.34
 tútum,v,verb,to become reliable.,0.0
 tutúnlan,n,noun,throat.,0.0
 tú’u,n,noun,"belief, devotion.",0.459
-tú’u,v,verb,"to believe, to have the conviction.",0.459
+tú’u,v,verb,"to believe, to have the conviction.",0.0
 tu’ú,n,noun,right side.,0.0
 tú’ud,adj,adjective,"true, certain.",0.599
 tu’ún,n,noun,"studies, learning, school work.",0.0
 tu’ún,v,verb,"to study, to learn.",0.0
 túwang,v,verb,"to help each other, to carry the load by sharing it with some others.",0.67
-túwang,n,noun,"shareholder, partner.",0.67
+túwang,n,noun,"shareholder, partner.",0.0
 tuwáy,n,noun,clam.,0.0
 túytuy,v,verb,"to guide, to lead.",0.0
 túyu’,n,noun,soy sauce.,0.0
@@ -4215,10 +4215,10 @@ ugát,n,noun,vein.,0.0
 ugayúng,n,noun,"drawl, groan, moan.",-0.153
 úgbus,n,noun,"of plants, bud.",0.0
 ugís,adj,adjective,"faded, worn out in appearance.",-0.296
-ugís,v,verb,"to fade in color, to look over used.",-0.296
+ugís,v,verb,"to fade in color, to look over used.",0.0
 úgtu,n,noun,variant of údtu.,0.0
 ugút,n,noun,"irritation, chagrin, madness.",-0.844
-ugút,v,verb,"to feel chagrined, to be irritated.",-0.844
+ugút,v,verb,"to feel chagrined, to be irritated.",-0.66
 úguy’úguy,n,noun,humming sound.,0.0
 úhaw,n,noun,thirst.,0.0
 úhaw,v,verb,to feel thirsty.,0.0
@@ -4268,7 +4268,7 @@ upá,n,noun,"bran, chaff.",0.0
 upúd,n,noun,"companion, associate.",0.0
 upúd,v,verb,"to go along with, to tag along.",0.0
 úrung,v,verb,"to stop in surprise, or admiration.",0.527
-úrung,na,noun formative,’urungán si mário pagkakíta’ niya kay mára.,0.527
+úrung,na,noun formative,’urungán si mário pagkakíta’ niya kay mára.,0.0
 usá,n,noun,deer.,0.0
 úsang,v,verb,"to snarl, to fight like dogs, to chew like a dog.",0.34
 usár,v,verb,to use.,0.0
@@ -4280,7 +4280,7 @@ usísa’,v,verb,"to inquire, to investigate, to check.",0.0
 ústya,n,noun,communion host used in roman catholic masses.,0.0
 úsu,n,noun,"fashion, fad, vogue.",0.226
 úswag,n,noun,"prosperity, success, progress.",0.758
-úswag,v,verb,"to be successful, to progress, to develop.",0.758
+úswag,v,verb,"to be successful, to progress, to develop.",0.765
 útan,n,noun,vegetable.,0.0
 útang,n,noun,"debt, credit.",0.026
 útuk,n,noun,brain.,0.0
@@ -4291,7 +4291,7 @@ uwák,n,noun,"crow, raven.",0.0
 uwáy,n,noun,rattan.,0.0
 úy,intj,interjection,"hey, oh.",0.0
 uyáng,n,noun,food which fell off from the plate during meal time; wasted item.,-0.494
-uyáng,v,verb,"to waste away, to be clumsy so as to drop food from a service plate.",-0.494
+uyáng,v,verb,"to waste away, to be clumsy so as to drop food from a service plate.",-0.633
 uyapús,n,noun,"boil, swollen area in the skin.",0.0
 úyat,v,verb,"to hold, to grasp.",0.0
 uyayá’,adj,adjective,"careless, neglectful of personal appearance.",-0.67
@@ -4309,7 +4309,7 @@ walú,num,numeral,eight.,0.0
 waráwag,n,noun,"announcement, broadcast.",0.0
 waráwag,v,verb,"to announce over the radio, to publish, to broadcast.",0.0
 wasák,adj,adjective,"destroyed, demolished.",-0.494
-wasák,v,verb,"to destroy, to demolish, to take apart.",-0.494
+wasák,v,verb,"to destroy, to demolish, to take apart.",-0.542
 wás’ag,v,verb,"to scatter, to spread after being broken.",-0.477
 wásay,n,noun,"ax, hatchet.",0.0
 wásdak,v,verb,"to crumble to pieces, to fall into pieces, to fall by accident.",-0.477
@@ -4528,7 +4528,7 @@ dimatarung,adj,adjective,dishonest,-0.572
 dimatungkad,adj,adjective,"bottomless, inscrutable, unfathomable",0.0
 dingot,adj,adjective,nominative plural of dingo,0.0
 diosnon,adj,adjective,devout,0.0
-diosnon,adj,adjective,"divine, godly, godlike, pious",0.0
+diosnon,adj,adjective,"divine, godly, godlike, pious",0.557
 dipaha,adj,adjective,made of straw,0.0
 diyotay,adj,adjective,"little, small
 synonym: gamay",0.0
@@ -6031,7 +6031,7 @@ mangga,n,noun,mango,0.0
 mango,n,noun,"a tropical asian fruit tree, mangifera indica.
 1980, bruce chatwin, the viceroy of ouidah, page 146:on the hot days, he would lie in the shade of a mango and let little eugenia clamber over his belly and tug at his beard.",0.0
 maragomo,n,noun,short with someone,0.0
-mata,n,noun,"a respectful title for a female spiritual leader or for a wife, mother, or grandmother of a male spiritual leader.",0.0
+mata,n,noun,"a respectful title for a female spiritual leader or for a wife, mother, or grandmother of a male spiritual leader.",0.459
 matápan,n,noun,"flat, level, plain",0.0
 milok,n,noun,eyelash,0.0
 monyeka,n,noun,alternative spelling of munyeka,0.0

@@ -2,14 +2,14 @@ import pandas as pd
 from pathlib import Path
 
 # Input/output paths
-csv_input = Path(r"/output/preprocessed-output\Lexicon_merged.csv")
-txt_input = Path(r"/output/vader-output/vader_hiligaynon_cleaned.txt")
+csv_input = Path(r"C:\Users\CODE CLASSES\nlp\Hiligaynon-Lexicon\output\preprocessed-output\Lexicon_merged.csv")
+txt_input = Path(r"C:\Users\CODE CLASSES\nlp\Hiligaynon-Lexicon\output\vader-output\vader_hiligaynon_cleaned.txt")
 output_path = Path(r"C:\Users\CODE CLASSES\nlp\Hiligaynon-Lexicon\output\Lexicon_merged_scores.csv")
 
 # Load CSV
 lexicon = pd.read_csv(csv_input)
 
-# Load TXT (word + score only)
+# Load TXT (row order matters here)
 scores = pd.read_csv(
     txt_input,
     sep="\t",
@@ -17,16 +17,14 @@ scores = pd.read_csv(
     names=["word", "score", "col3", "col4"]
 )[["word", "score"]]
 
-# Drop duplicate words
-scores = scores.drop_duplicates(subset=["word"], keep="first")
+# Reset indexes to align rows properly
+lexicon = lexicon.reset_index(drop=True)
+scores = scores.reset_index(drop=True)
 
-# Merge
-lexicon_with_scores = (
-    lexicon.drop(columns=["score"], errors="ignore")
-           .merge(scores, on="word", how="left")
-)
+# Merge row by row (ignore word matching)
+lexicon_with_scores = pd.concat([lexicon, scores["score"]], axis=1)
 
-# Save 
+# Save
 lexicon_with_scores.to_csv(output_path, index=False)
 
-print(f"✅ Merged with single 'score' column: {output_path}")
+print(f"✅ Merged row-by-row with 'score' column added: {output_path}")
