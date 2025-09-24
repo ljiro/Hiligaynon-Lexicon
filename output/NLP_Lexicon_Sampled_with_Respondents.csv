@@ -1,0 +1,364 @@
+word,pos_symbol,pos_word,meaning,sentiment score,sentiment,RESPONDENT BASIS,Respondent 1,Respondent 2,Respondent 3,Respondent 4,Respondent 5,Respondent 6,Respondent 7,Respondent 8,Respondent 9,Respondent 10,Respondent 11,Respondent 12,Respondent 13,Respondent 14,Respondent 15,Respondent 16,Respondent 17,Respondent 18,Respondent 19,Respondent 20
+-ay,VB,verbal affix,variant of -an.,0.0,Neutral,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+-ista,NN,noun formative,noun formative affix denoting profession or type of job.,0.0,Neutral,0,0,0,0,0,0,1,0,0,-1,0,0,0,0,0,0,0,0,0,0,0
+1-ka,PRP,pronoun,you (short form of ikáw).,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,1,0,0,0,1,0
+1-mang-,VB,verbal affix,active action affix usually designating plural or repeated action.,0.402,Positive,1,0,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+2-in-…-an,VB,verbal affix,completed action transitive verb affix.,0.0,Neutral,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,-1,0,0,-1,0,0
+abat-abat,VB,verb,living from hand to mouth,0.494,Positive,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+abian,VB,verb,alternative form of abyan,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+abono,NN,noun,payment for another in advance,0.0,Neutral,0,1,0,0,0,0,0,0,-1,0,0,0,0,1,0,0,0,-1,0,0,0
+aboy,JJ,adjective,bent ; curved ; warped,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,-1,1,1,0,0,0,0,0,0
+abrigo,NN,noun,shawl,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,-1
+abusar,VB,verb,"to misuse or abuse , to take advantage of",-0.494,Negative,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+abút,JJ,adjective,"cranky, irritable, moody.",-0.681,Negative,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,0,-1
+abut-abut,VB,verb,frequentative of abút,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+ad-adan,NN,noun,"slicer , a frame knife",0.0,Neutral,0,0,0,0,0,0,0,-1,-1,0,0,0,0,-1,0,0,0,0,0,0,0
+ádlaw,NN,noun,"day, birthday, anniversary.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,0,0,0,0
+administrasyon,NN,noun,"administration , management",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,-1,0
+agalon,NN,noun,"boss , employer , lord , master",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0
+ági,VB,verb,"to pass by for something, to pass through.",0.0,Neutral,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+agwatato,NN,noun,procurer ( someone who arranges for prostitution ),0.0,Neutral,0,1,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0
+akal-akal,VB,verb,to bubble or seethe,0.0,Neutral,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0
+áku’,VB,verb,"to own, to claim, to promise, to swear, to admit.",0.44,Positive,1,1,1,1,1,1,-1,1,1,1,0,1,-1,1,1,1,0,1,1,-1,1
+aláhas,NN,noun,jewelry.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+álam,JJ,adjective,"bright, smart, brilliant.",0.856,Positive,1,1,1,1,1,1,1,1,1,1,1,-1,1,1,1,1,1,1,1,0,1
+álam,VB,verb,"to become smart, to become brilliant.",0.758,Positive,1,1,1,1,1,1,1,1,-1,1,-1,0,1,1,1,1,1,0,1,1,1
+almasín,NN,noun,"store, small market.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+almon,NN,noun,tree,0.0,Neutral,0,0,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+alpabéto,NN,noun,alphabet.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0
+alúm,NN,noun,mole.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,1,-1,0,0,0,0
+amidol,NN,noun,starch,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+amo,NN,noun,monkey,0.0,Neutral,0,0,0,0,0,0,0,0,0,-1,0,0,0,-1,-1,0,0,0,0,0,0
+amorokpok,NN,noun,bird of prey,0.0,Neutral,0,0,0,0,0,0,1,0,0,0,0,0,0,0,-1,0,0,0,0,0,0
+ananay,JJ,adjective,"gentle , mild , soft , slow , noiseless , quiet , tranquil , quietly",0.477,Positive,1,1,1,1,1,1,1,-1,1,1,1,1,1,1,1,1,1,1,1,1,0
+ángkab,VB,verb,"of animals, to snap, to bite, to seize with teeth so as to grip or bite.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+ánud,VB,verb,"to drift, to flow with the current.",0.0,Neutral,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,-1,1,-1,0,0
+apinas,JJ,adjective,"difficult , scarce , trying",-0.361,Negative,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,0
+aplá’ag,VB,verb,"to spread, to break and scatter.",0.0,Neutral,0,0,0,0,0,0,0,0,0,-1,0,1,1,0,0,0,1,0,0,0,0
+apú,NN,noun,grandchild.,0.0,Neutral,0,0,0,0,0,0,-1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+arítus,NN,noun,earring.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0
+arí’arí,JJ,adjective,stunted in growth.,0.382,Positive,1,-1,1,1,-1,1,1,1,-1,1,1,1,1,1,1,1,1,1,1,1,1
+ármas,NN,noun,"weapon, arms.",-0.296,Negative,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+asoy,JJ,adjective,useful,0.44,Positive,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,-1,1,1,0,1
+atsára,NN,noun,pickled green papaya.,0.0,Neutral,0,0,0,0,0,0,0,-1,0,0,0,0,0,-1,0,-1,0,0,1,0,0
+atubang,VB,verb,to confront ; to face,-0.178,Negative,-1,0,-1,-1,0,0,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,1
+awa,NN,noun,"compassion , mercy , pity",0.511,Positive,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1,1,1,1
+awtopsiya,NN,noun,autopsy,0.0,Neutral,0,0,0,0,0,0,-1,0,-1,0,0,-1,-1,0,0,0,1,0,0,0,1
+ba-og,JJ,adjective,"gray , grey",0.052,Positive,1,0,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,0,-1,-1,1
+babana,NN,noun,soursop,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+bagting,NN,noun,"chime , ring , toll",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+bágyu,NN,noun,"rainstorm, typhoon, hurricane.",0.0,Neutral,0,-1,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0
+bahaw,JJ,adjective,( of food ) cold,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1,0,0
+bahúg,VB,verb,"of animals, to feed swine, or any animal; of people, to eat mixed foods simultaneously.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,1,1,-1,0,0,0,0,0,0,0,0
+baláybay,NN,noun,"verse, recitation, rhyme, poetry.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0
+balíbad,VB,verb,"to find an excuse, to give a reason, to refuse.",-0.226,Negative,-1,0,-1,-1,0,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,1,-1,-1,-1,-1
+balihawog,NN,noun,"bolt , latch",0.0,Neutral,0,0,0,0,0,0,0,0,0,-1,0,-1,0,-1,0,-1,0,1,0,0,0
+balunggay,NN,noun,"a type of tree , the malunggay or horseradish tree , moringa oleifera",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0
+bánda,NN,noun,"cord or strip of material serving chiefly for decoration, a music band or group of musicians organized for playing together.",0.202,Positive,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1
+bandehado,NN,noun,platter,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bangis,NN,noun,violence synonym: kahas,-0.625,Negative,-1,-1,-1,-1,-1,0,-1,1,-1,0,-1,-1,-1,0,-1,-1,-1,-1,0,-1,-1
+bánhaw,VB,verb,"to resurrect, to rise from the dead.",-0.649,Negative,-1,1,-1,-1,0,-1,-1,-1,-1,0,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1
+bánta’,NN,noun,"guess, opinion, supposition, estimate.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,1
+barnis,NN,noun,"lacquer , varnish",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+báskit,NN,noun,basket.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,1
+baskug,NN,noun,"strength synonyms: bakud , kusug",0.494,Positive,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1
+basol,VB,verb,to chide ; to scold,-0.402,Negative,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,-1,-1,1,-1
+baston,NN,noun,stick,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,1,0,-1,-1,0,0,-1,0,0,0,0
+bátak,VB,verb,"to pull upward, to raise.",0.0,Neutral,0,0,0,0,0,0,0,-1,0,0,0,1,0,0,0,0,0,1,0,0,0
+batakan,NN,noun,"crane , pulley",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+batás,NN,noun,endurance.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+batobalani,NN,noun,magnet,0.0,Neutral,0,0,0,0,0,0,0,1,0,-1,0,0,1,0,0,0,0,0,0,0,0
+baug,JJ,adjective,barren,0.0,Neutral,0,-1,0,0,0,-1,0,-1,0,0,0,0,0,-1,0,1,0,0,0,0,0
+bay-ad,NN,noun,a type of seashell,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+báylu,VB,verb,"to exchange, to substitute, to swap.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,1,0,0,0,0,0,0
+bayo-bayo,NN,noun,pulse,0.0,Neutral,0,0,0,0,0,-1,0,0,0,0,0,-1,0,0,1,0,0,-1,0,0,0
+bendita,VB,verb,( transitive ) bless,0.421,Positive,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,0,1
+beteráno,NN,noun,veteran.,0.0,Neutral,0,0,0,0,0,0,-1,0,-1,0,0,0,1,0,0,1,1,0,0,0,0
+bikoláno,NN,noun,"language spoken principally in albay, camarines sur, catanduanes, sorsogon, the southern half of camarines norte, and in some towns of masbate.",0.0,Neutral,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+bilánggu,NN,noun,prisoner.,-0.542,Negative,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,0,1,0,-1,-1,1,-1,-1,-1
+bílin,NN,noun,"request, last words.",0.0,Neutral,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,1,0,-1,0
+binata,JJ,adjective,immature,0.0,Neutral,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,0
+biskwit,NN,noun,biscuit,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0
+bitú’un,NN,noun,star.,0.0,Neutral,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1,0,0,-1,0,0,0
+bodéga,NN,noun,"warehouse, storage, cellar.",0.0,Neutral,0,0,0,0,0,0,0,0,-1,-1,0,0,0,0,0,0,0,0,0,0,0
+bokbok,NN,noun,a type of boring insect,-0.318,Negative,-1,0,-1,-1,0,0,-1,1,-1,-1,-1,-1,-1,1,-1,-1,-1,-1,-1,-1,-1
+botélya,NN,noun,bottle.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,-1,0
+bugál,VB,verb,"to be proud, to show off.",0.477,Positive,1,1,1,1,1,1,1,1,1,0,1,1,1,1,-1,1,1,1,1,1,1
+bugalon,VB,verb,to be or become proud,0.477,Positive,1,1,1,1,-1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,-1
+búgnu’,VB,verb,"to greet, to speak to, to interact with.",0.318,Positive,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,1,0,1,1
+bugsay,NN,noun,"oar , paddle",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0
+búgsay,VB,verb,"to row, to strike the water with an oar.",-0.128,Negative,-1,0,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,1,-1,-1,-1,-1,1,-1,0,-1
+buhaha,JJ,adjective,"heedless , lavish , prodigal , wasteful",0.0,Neutral,0,0,0,0,-1,0,0,0,1,-1,0,1,0,-1,-1,1,0,0,0,0,0
+bukidnon,JJ,adjective,"coarse , rough , uncultured , uncouth",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+buláhan,JJ,adjective,"fortunate, lucky.",0.691,Positive,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1
+búlak,NN,noun,"flower, blossom, cotton fibers.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bulbul,NN,noun,down ( soft hair of the face when beginning to appear ),0.0,Neutral,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+buling,VB,verb,"stain , soil , dirty",-0.44,Negative,-1,0,-1,-1,0,-1,-1,-1,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+buluhatan,NN,noun,workshop,0.0,Neutral,0,0,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+bululngan,NN,noun,"clinic , hospital , medical center",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,1,1,0,0,0,0
+bumulutho,NN,noun,"schoolboy , schoolgirl , student",0.0,Neutral,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+búndul,JJ,adjective,"slow, tardy.",0.0,Neutral,0,-1,0,0,-1,-1,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0
+bunggo,VB,verb,shove or throw with force,0.0,Neutral,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,-1,1,0,0,0,0,0
+bungúl,NN,noun,deaf.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+burus,NN,noun,blister,0.0,Neutral,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,-1,0,1,0,0,-1
+busal,NN,noun,"bridle , muzzle",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+busál,NN,noun,"of dogs, mouth cover to prevent biting.",0.026,Neutral,0,0,1,0,0,0,0,0,0,0,0,0,-1,-1,0,0,-1,0,0,0,0
+busúng,JJ,adjective,"pregnant, with child.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bús’ak,VB,verb,"to chop wood, to chop wood for firewood.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0
+butáng,NN,noun,"thing, object.",0.0,Neutral,0,0,0,0,0,0,-1,0,0,1,0,0,0,0,0,0,0,0,0,-1,0
+búthu’,VB,verb,"to go to school, to study, to learn.",0.0,Neutral,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,-1,0,0,0,-1,0,0
+bútyag,VB,verb,"to tell others, to disclose, to let out a secret.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,1,0,0,-1,0,0,0,0,0,0,0
+byérnes,NN,noun,friday.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dabádabá,VB,verb,"to flare up, to blaze, to be on fire.",-0.34,Negative,-1,0,-1,-1,0,-1,-1,-1,-1,-1,-1,1,-1,-1,-1,0,-1,0,-1,0,-1
+dahon-dahon,NN,noun,"mantis , praying mantis",0.361,Positive,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+dalága,NN,noun,"unmarried girl, between the age of about fifteen to thirty.",0.0,Neutral,0,0,0,0,0,0,0,0,-1,1,1,0,0,0,0,0,0,0,0,0,0
+daldal,VB,verb,"( of wind, waves ) push , impel",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dáldal,VB,verb,"to backbite, to spread false malicious talk, to talk against.",0.0,Neutral,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0
+dalum,JJ,adjective,"( of thoughts ) deep , profound , insightful",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0
+dalunggan,NN,noun,( anatomy ) ear,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0
+damán,NN,noun,nightmare.,0.0,Neutral,0,-1,0,0,-1,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+dámhag,VB,verb,"to fall headlong, to fall on one’s face.",0.0,Neutral,0,-1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+damúg,NN,noun,"of pigs, food.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+dáplus,VB,verb,"to slide off, to stray.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+daut,VB,verb,to spoil,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+dayan,NN,noun,"stroll , walk synonym: lagaw",0.0,Neutral,0,0,0,0,0,0,0,-1,0,0,0,1,1,0,0,0,0,0,0,0,0
+delárgo,NN,noun,long pants for men.,0.0,Neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
+desyémbre,NN,noun,december.,0.0,Neutral,0,0,0,0,0,0,0,-1,0,0,-1,0,0,0,0,0,0,0,0,0,0
+díkta,VB,verb,"to dictate, nagdíkta ang ma’éstra sa kláse.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+dinamita,NN,noun,dynamite,0.178,Positive,1,0,1,1,0,1,1,-1,1,1,0,1,1,1,1,1,1,1,1,1,1
+dorado,NN,noun,gilt,0.0,Neutral,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,-1
+dugang,VB,verb,to add or increase in number,0.382,Positive,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,0,1,1,1,-1,1
+dugú’,VB,verb,to bleed.,0.0,Neutral,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,-1,0,-1,0,0,0,0
+dukú’,VB,verb,"to bow, to stoop down.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dúla’,VB,verb,"to lose, to miss, to mislay.",-0.511,Negative,-1,-1,-1,-1,1,0,-1,-1,-1,-1,-1,-1,-1,-1,1,0,-1,-1,-1,-1,-1
+dulunggan,NN,noun,ear,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1,0,0,0,0
+dumagsa,VB,verb,flourish,0.0,Neutral,0,1,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0
+dunoton,VB,verb,crush,-0.153,Negative,-1,-1,-1,-1,-1,-1,1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,0,-1
+dupak,NN,noun,"bad language, obscene words",-0.807,Negative,-1,-1,-1,-1,0,0,-1,-1,-1,1,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,-1
+dúyu,JJ,adjective,"dejected, sad.",-0.743,Negative,-1,0,-1,-1,0,0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,-1,-1
+dyús,NN,noun,"god, the almighty.",0.273,Positive,1,0,1,1,-1,-1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ebanghélyo,NN,noun,"gospel, epistle.",0.0,Neutral,0,0,0,0,0,0,-1,0,0,0,-1,0,0,0,-1,0,1,0,0,0,0
+emperador,NN,noun,emperor,0.0,Neutral,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+enhenyéro,NN,noun,engineer.,0.0,Neutral,0,0,0,0,-1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eskuwela,VB,verb,to go to school ; to attend school,0.0,Neutral,0,0,0,0,0,-1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+espíritu,NN,noun,"soul, spirit, ghost.",-0.153,Negative,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,1,-1
+galyetas,NN,noun,"cracker , hardtack , biscuit",0.0,Neutral,0,0,0,0,-1,0,-1,0,0,-1,0,0,0,0,0,0,0,0,0,0,-1
+gál’um,JJ,adjective,cloudy.,0.0,Neutral,0,0,0,0,-1,1,-1,0,0,0,0,0,0,0,0,0,0,1,0,-1,-1
+gánsa,NN,noun,goose.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0
+gantángan,NN,noun,wooden measuring box with a volume content of approximately one ganta or three liters.,0.0,Neutral,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+ganyat,VB,verb,"attract , entice , seduce",0.361,Positive,1,1,1,1,-1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,-1
+géra,VB,verb,to declare or fight a war.,-0.758,Negative,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,1,-1,-1,-1
+gihápun,RB,adverb,always.,0.0,Neutral,0,0,0,0,0,0,0,1,0,0,0,0,0,-1,0,0,0,0,1,0,0
+ginamús,NN,noun,native fish sauce made out of marinated fish.,0.0,Neutral,0,0,0,0,0,-1,0,0,0,0,0,-1,0,0,0,0,0,-1,-1,0,0
+gísi’,VB,verb,"to tear, to slit with a sharp instrument, to split, to break asunder.",0.0,Neutral,0,0,0,0,0,-1,0,1,0,0,0,0,1,0,0,1,0,0,-1,0,0
+governadór,NN,noun,governor.,0.0,Neutral,0,0,0,0,-1,0,-1,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+gútrab,VB,verb,to chop or cut off with a knife or a pair of scissors.,-0.273,Negative,-1,-1,-1,-1,1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+hagumhum,VB,verb,to rumble or boom,0.0,Neutral,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0
+haláy,VB,verb,"to drape, to hang to dry.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,-1,0,0,0
+hamún,NN,noun,"ham, cured meat.",0.0,Neutral,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+háplak,VB,verb,"to fall flat on the ground, to lay flat.",0.0,Neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+hápu’,VB,verb,"to be tired, to be exhausted.",-0.66,Negative,-1,-1,-1,-1,1,1,-1,-1,1,-1,0,-1,-1,-1,1,-1,-1,-1,-1,0,-1
+harána,VB,verb,"to serenade, to sing to a lady with intentions of courtship.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,1,0,-1,-1,-1,0,0,0,0,0
+harúthut,VB,verb,"to sew in big stitches, to patch.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hiláw,JJ,adjective,"raw, unripe, fresh.",0.318,Positive,1,1,1,1,0,0,1,1,1,1,1,1,1,-1,1,1,1,1,1,1,0
+hímbis,NN,noun,fish scales.,0.0,Neutral,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hinablos,NN,noun,nephew ; niece,0.0,Neutral,0,0,0,0,1,-1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+hinali,JJ,adjective,sudden,0.0,Neutral,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+hinganíban,NN,noun,weapon.,-0.296,Negative,-1,-1,-1,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,1,-1,0,-1,-1,-1,0,-1
+hísa,NN,noun,"envy, jealousy.",-0.527,Negative,-1,-1,-1,-1,1,1,-1,-1,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+híwa’,NN,noun,"chunck, sliced piece, one slice.",0.0,Neutral,0,0,0,0,1,1,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0
+hubág,NN,noun,"swelling, boil.",0.0,Neutral,0,0,0,0,1,-1,0,0,-1,0,0,0,1,-1,-1,0,0,0,0,0,0
+húblas,VB,verb,"to strip off, to take off.",0.0,Neutral,0,0,0,0,0,-1,0,0,1,0,0,0,0,0,0,-1,0,0,0,0,0
+hubog,JJ,adjective,drunk ; intoxicated synonym: balong,-0.34,Negative,-1,-1,-1,-1,1,0,1,-1,-1,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1,1
+hugák,JJ,adjective,loose.,-0.318,Negative,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,0,-1,-1,-1,1,1,-1,-1,0,-1
+húlag,VB,verb,"to move, to stir, to get busy.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1,0
+húlas,NN,noun,"perspiration, moisture.",0.0,Neutral,0,0,0,0,1,-1,0,0,0,1,0,-1,0,0,0,0,0,-1,0,0,0
+huramúl,JJ,adjective,damp.,0.0,Neutral,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0,1,0,0,0
+hurínghúring,VB,verb,"to be rumored, to be spread as news.",0.0,Neutral,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+igú’,VB,verb,"to fit, to accommodate.",0.361,Positive,1,1,1,1,-1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ilá,JJ,adjective,"elusive, untamed, undomesticated.",0.0,Neutral,0,0,0,0,-1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+ilayá,NN,noun,"hinterland, remote area.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,1,-1,0,0,1,0,0,0,0
+íla’,VB,verb,"to like, to admire, to appreciate, to wish for.",0.875,Positive,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,-1,1,1,1,1
+imbénto,NN,noun,"invention, creation.",0.273,Positive,1,0,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,-1,1,1
+ímul,JJ,adjective,"poor, impoverized.",-0.477,Negative,-1,-1,-1,-1,0,0,1,-1,-1,-1,1,-1,-1,-1,-1,-1,-1,0,-1,1,1
+ingkántu,NN,noun,"fairy, evil spirit.",-0.572,Negative,-1,-1,-1,-1,0,0,-1,-1,-1,-1,-1,0,-1,-1,-1,1,-1,-1,-1,0,-1
+itikíta,NN,noun,"trademark, label.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0
+kaaway,NN,noun,enemy ; foe,-0.751,Negative,-1,-1,-1,-1,1,1,-1,-1,0,-1,-1,0,-1,-1,-1,0,-1,-1,-1,-1,0
+kabáyu’,VB,verb,to ride on horseback.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,-1,0,0
+kabugaw,NN,noun,"pomelo , grapefruit",0.0,Neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1,-1,0,0,0,0,0
+káha,NN,noun,"jewel box, safe.",0.66,Positive,1,0,1,1,0,0,1,1,1,1,1,1,-1,1,1,1,0,1,1,1,1
+káhas,VB,verb,"to dare, to make a challenge, to be violent.",-0.557,Negative,-1,-1,-1,-1,1,1,-1,1,-1,-1,-1,1,-1,-1,-1,0,-1,-1,-1,-1,-1
+kahubug,NN,noun,drunkenness ; intoxication ; inebriation,0.0,Neutral,0,0,0,0,0,0,0,1,0,0,0,0,0,-1,0,0,0,0,0,-1,0
+kamaróte,NN,noun,"of a ship, cabin.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kándus,VB,verb,"to scoop out, to serve on a dish from a pot.",0.153,Positive,1,1,1,1,1,-1,-1,1,0,1,1,-1,1,1,-1,1,0,1,-1,1,1
+kapid,NN,noun,twins,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0
+kapilya,NN,noun,chapel,0.0,Neutral,0,0,0,0,-1,0,0,0,0,0,0,0,1,0,0,0,0,-1,0,0,-1
+kaprítsu,JJ,adjective,"flighty, vain‚ wily.",0.0,Neutral,0,0,0,0,0,1,0,-1,0,0,0,1,0,0,0,0,0,0,0,0,0
+kárbaw,NN,noun,"carabao, water buffalo.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+karéra,VB,verb,"to run a race, to race.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+karon,RB,adverb,"later synonyms: gilayon , madason",0.0,Neutral,0,0,0,0,0,1,0,0,0,0,-1,0,0,0,0,0,1,0,0,0,0
+kasál,VB,verb,"to perform a marriage, to officiate a wedding.",0.0,Neutral,0,0,0,0,0,-1,0,0,0,0,0,0,1,0,-1,0,1,0,0,0,0
+kaséra,VB,verb,to pay room and board.,-0.103,Negative,-1,-1,-1,-1,0,0,-1,1,-1,1,0,-1,-1,-1,-1,-1,-1,-1,-1,1,-1
+katig,NN,noun,outrigger float,0.0,Neutral,0,0,0,0,-1,1,-1,0,0,0,0,0,0,0,0,-1,0,0,0,-1,-1
+katulundan,NN,noun,west,0.0,Neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+kauswagan,NN,noun,advancement ; improvement ; progress,0.7,Positive,1,1,1,1,-1,0,1,1,1,1,1,0,1,1,-1,1,1,1,1,1,0
+káwat,JJ,adjective,"thief, robber.",-0.791,Negative,-1,-1,-1,-1,-1,0,-1,-1,-1,-1,1,1,-1,-1,-1,-1,-1,-1,-1,0,-1
+ka’íngin,NN,noun,"uphill land, land cleared by burning.",0.103,Positive,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+kina’ádman,NN,noun,science.,0.0,Neutral,0,0,0,0,1,1,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,-1
+kláse,NN,noun,class.,0.0,Neutral,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+kodák,NN,noun,"camera, picture.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,1
+kulyápis,JJ,adjective,emaciated.,0.0,Neutral,0,1,0,0,-1,1,1,0,0,0,-1,0,-1,1,0,0,0,1,0,0,-1
+kumpáre,NN,noun,"comrade, relationship between the godfather and parents of the godchild.",0.0,Neutral,0,0,0,0,0,0,0,0,0,-1,-1,0,0,0,0,0,0,-1,0,0,0
+kúrug,VB,verb,"to shiver, to tremble, to shake.",-0.421,Negative,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,0
+kusípad,VB,verb,"to thumb through, to pick with the fingers like corn from the cob.",0.361,Positive,1,0,1,1,0,0,1,1,1,0,1,0,1,1,1,1,1,1,1,1,-1
+kutsilyo,NN,noun,knife synonym: utak,0.0,Neutral,0,0,0,0,-1,1,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0
+kuyámpad,VB,verb,"to run, to scamper off.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kwadra,NN,noun,shed,0.0,Neutral,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-1,0,0,0
+kwélyo,NN,noun,"collar, back of the neck.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+labábu,NN,noun,"lavabo, washbasin.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,0,0,0,0,0
+lába’,JJ,adjective,"long, extending for a considerable distance.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,1,0,0
+labúgay,VB,verb,"to stir, to mix especially liquids.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0
+laham,VB,verb,"to touch , feel",0.0,Neutral,0,0,0,0,0,1,-1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+láklak,VB,verb,to lap with the tongue.,0.0,Neutral,0,0,0,0,-1,1,0,0,0,0,0,-1,0,0,0,0,0,0,1,0,0
+lalaki,NN,noun,"a man , an adult male",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1,0,0
+lamún,NN,noun,blind.,-0.402,Negative,-1,0,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+lápad,NN,noun,"width, area, broadness.",0.0,Neutral,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,-1,0,0,0,0,0
+látum,VB,verb,to penetrate to the innermost part.,0.0,Neutral,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+láwag,VB,verb,"to pronounce, to call out.",0.0,Neutral,0,0,0,0,0,-1,0,1,0,0,0,-1,0,0,0,0,0,0,0,0,0
+láwas,NN,noun,"body, human body.;  representative.",0.0,Neutral,0,0,0,0,-1,-1,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0
+lá’aw,VB,verb,"to watch, to observe, to look out of the window.",0.0,Neutral,0,0,0,0,0,0,0,1,0,-1,0,0,0,0,0,0,0,0,0,0,0
+líbut,NN,noun,surrounding.,0.0,Neutral,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,-1,0,0,0,0
+líksi,VB,verb,"to jump around, to leap.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,-1,0,0,0,0,0
+línug,NN,noun,earthquake.,0.0,Neutral,0,0,0,0,0,0,-1,0,0,0,0,0,0,-1,0,0,0,0,0,0,0
+linúng,JJ,adjective,"calm, silent, peaceful.",0.67,Positive,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1
+lísu’,VB,verb,"to turn about, to be awry.",0.0,Neutral,0,0,0,0,-1,-1,0,0,0,0,0,1,-1,1,0,0,0,1,0,0,0
+litsúgas,NN,noun,lettuce.,0.0,Neutral,0,0,0,0,0,0,0,0,1,0,-1,0,0,0,0,0,0,-1,0,0,0
+luhúd,VB,verb,to kneel down.,0.0,Neutral,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+luwás,VB,verb,"to free, to redeem, to save.",0.758,Positive,1,1,1,1,0,0,1,1,1,1,1,-1,0,1,1,1,1,1,1,1,1
+lúyag,VB,verb,"to want, to desire, to like.",0.67,Positive,1,1,1,1,-1,1,1,1,1,1,1,-1,1,0,1,1,1,1,1,1,0
+maalam,JJ,adjective,"learned , clever , wise",0.727,Positive,1,1,1,1,-1,-1,-1,0,1,1,1,1,1,1,1,1,1,0,1,1,1
+maayo-ayo,JJ,adjective,"nice , engaging",0.637,Positive,1,1,1,1,1,1,1,1,1,1,0,-1,0,1,1,-1,1,-1,1,1,1
+mabaskug,JJ,adjective,loud synonym: magansal,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+manang,NN,noun,term of address for an elder sister or the eldest sister : big sis,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+mangú’,JJ,adjective,"unlettered, ignorant.",-0.273,Negative,-1,-1,-1,-1,0,0,-1,-1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,1
+mayordómo,NN,noun,"butler, official of a ship.",0.0,Neutral,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mestisílya,NN,noun,female half-breed.,0.0,Neutral,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+mugún,VB,verb,"to work for a daily wage, to earn.",0.0,Neutral,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+namit,NN,noun,"delicacy synonyms: nanam , rimis",0.0,Neutral,0,0,0,0,-1,0,0,0,-1,-1,1,0,0,0,1,0,0,0,0,0,0
+ngalan,NN,noun,name,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,1
+níwang,VB,verb,"to reduce in weight, to become thinner.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+operá,VB,verb,"to operate, to be operated on.",0.0,Neutral,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+páhug,VB,verb,"to frighten, to tease.",-0.572,Negative,-1,-1,-1,-1,0,0,-1,-1,-1,-1,-1,-1,0,-1,-1,0,-1,-1,-1,-1,1
+pakéte,NN,noun,"pack, package.",0.0,Neutral,0,0,0,0,0,0,-1,0,0,0,-1,0,0,0,-1,0,0,0,0,0,0
+pakút,NN,noun,"guess, venture.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,-1,-1,1,-1,0,0,0,0,-1
+panambítun,VB,verb,"to sigh, to mourn, to cry.",-0.7,Negative,-1,-1,-1,-1,0,0,0,-1,-1,1,1,1,-1,-1,-1,-1,-1,-1,-1,1,-1
+pananglítan,CC,conjunction,"supposing, in case, if.",0.0,Neutral,0,0,0,0,-1,0,0,1,0,0,-1,0,0,0,0,0,1,0,0,0,0
+pangalikog,VB,verb,frequentative of kalíkog,0.0,Neutral,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,-1,0,0,0,0,0
+panganud,NN,noun,cloud,0.0,Neutral,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,-1,0,0,0,0
+panihúl,VB,verb,"to whistle, to be whistled at.",0.0,Neutral,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0
+pantálya,NN,noun,dummy.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+paryénte,NN,noun,"relative, cousin.",0.0,Neutral,0,0,0,0,1,0,0,0,0,-1,0,0,0,-1,0,0,0,0,0,0,1
+pasáhe,NN,noun,"passage, trip.;  passenger.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+pasahi,NN,noun,passage,0.0,Neutral,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pasénsya,NN,noun,"forgiveness, excuse.",0.34,Positive,1,1,1,1,-1,0,1,-1,1,1,1,1,1,1,-1,1,0,1,-1,1,1
+páslaw,VB,verb,"to be caught red-handed, to fail, to lose.",-0.735,Negative,-1,-1,-1,-1,0,0,1,-1,-1,-1,1,-1,-1,0,-1,-1,-1,-1,-1,-1,-1
+pásyar,NN,noun,"stroll, walk.",0.0,Neutral,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+pígaw,VB,verb,"to become weak, to become frail.",-0.44,Negative,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,1,1,-1,-1,-1,0,-1
+pilá,RB,adverb,"how much, how many.",0.0,Neutral,0,0,0,0,0,0,0,0,0,-1,1,0,0,0,0,0,-1,0,0,0,1
+pilipíno,NN,noun,"filipino, citizen of the philippines.",0.0,Neutral,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+pintór,NN,noun,painter.,0.0,Neutral,0,0,0,0,1,-1,0,0,0,0,-1,0,0,0,0,-1,0,0,0,0,1
+piríku,NN,noun,parrot.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1,0,0,0,0,0
+platíto,NN,noun,saucer.,0.0,Neutral,0,0,0,0,1,0,0,0,0,0,0,0,0,0,-1,0,0,1,0,0,1
+púlung,VB,verb,"to express oneself, to give a speech, to give an advice.",0.0,Neutral,0,1,0,0,1,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,-1,0
+púlu’,CD,numeral,variant of napúlu’.,0.0,Neutral,0,0,0,0,0,1,0,0,0,0,-1,0,-1,0,0,0,0,0,1,0,0
+púnggud,NN,noun,"pimple, blemish.",0.0,Neutral,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+púrma,NN,noun,"form, shape.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+púrung,NN,noun,"crown, veil, head cover.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,-1,0,1,1,0,0,0,0,0,0,1
+putút,JJ,adjective,"of people, short.",0.0,Neutral,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1,0,-1,0,0,0,0
+rádyo,NN,noun,radio.,0.0,Neutral,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,-1,0
+rénda,NN,noun,bridle.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,1,0,0,0
+rénta,VB,verb,"to rent, to hire.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+sabát,VB,verb,"to respond, to answer.",0.0,Neutral,0,1,0,0,0,0,0,0,-1,0,-1,1,0,0,0,0,0,0,0,0,0
+sagad,NN,noun,specialist,0.0,Neutral,0,0,0,0,-1,0,0,0,1,0,0,0,0,0,0,0,-1,0,0,0,0
+saging,NN,noun,banana ; plantain,0.0,Neutral,0,0,0,0,0,0,-1,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+sákut,VB,verb,"to mix, to blend, to put together.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+salakay,NN,noun,overthrow,0.0,Neutral,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,-1,0,0,0,0
+salaming,NN,noun,mirror synonym: espeho,0.0,Neutral,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+sálug,VB,verb,"to mix, to mingle.",0.0,Neutral,0,0,0,0,0,-1,0,0,0,0,0,-1,0,1,0,0,0,-1,1,0,0
+salúk,VB,verb,to dip or scoop out with the hand or a dipper or ladle.,0.586,Positive,1,1,1,1,0,-1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+sál’ut,VB,verb,"to insert, to get between.",0.0,Neutral,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0
+samad,VB,verb,to wound ; to hurt ; to injure,-0.527,Negative,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1
+samád,VB,verb,"to wound, to injure, to destroy.",-0.542,Negative,-1,-1,-1,-1,1,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1
+sámay,VB,verb,to line with stripes.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,-1,-1,0,0,0,0,0,-1,0,0
+sámput,VB,verb,"to come to, to reach, to arrive at.",0.026,Neutral,0,0,1,0,-1,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sangá,NN,noun,"branch, bough, twig.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+sápsap,VB,verb,"to chop so as to make even, to smoothen.",0.0,Neutral,0,0,0,0,0,1,0,0,-1,0,0,0,1,-1,0,0,0,0,0,0,0
+semana,NN,noun,week,0.0,Neutral,0,0,0,0,0,0,-1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+serbésa,NN,noun,beer.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,-1,0,1,0,1,0
+síbu,NN,noun,grease.,0.0,Neutral,0,0,0,0,-1,-1,-1,0,1,0,0,0,0,-1,0,0,1,-1,0,1,0
+síd’ing,VB,verb,"to peep, to look in for a little while.",0.0,Neutral,0,0,0,0,0,0,0,0,0,-1,0,0,0,1,0,0,0,0,0,0,0
+sigúro,RB,adverb,"maybe, perhaps.",0.0,Neutral,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,1,1,0,0,1,0
+sínggit,VB,verb,"to shout, to howl.",0.0,Neutral,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,-1
+síplat,NN,noun,"glance, stolen glimpse.",-0.494,Negative,-1,-1,-1,-1,0,0,-1,0,-1,-1,0,-1,-1,-1,0,1,-1,-1,-1,-1,-1
+sobre,NN,noun,excess,0.0,Neutral,0,0,0,0,0,0,-1,0,-1,-1,0,0,0,1,0,0,-1,0,0,0,1
+sugilánun,NN,noun,"story, conversation.",0.0,Neutral,0,0,0,0,0,0,0,-1,0,-1,0,0,-1,0,0,0,0,0,0,0,0
+súm’ud,VB,verb,"to loathe, to have more than enough so as to feel boredom, to cloy.",-0.67,Negative,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,-1,-1,1,1,-1,1,-1,-1
+sun-adan,NN,noun,fireplace,0.0,Neutral,0,0,0,0,-1,1,1,0,1,1,0,1,0,0,-1,0,0,0,-1,0,0
+sundang,NN,noun,a type of bolo knife,0.0,Neutral,0,0,0,0,0,0,0,0,0,1,0,-1,0,1,0,0,0,0,0,0,0
+súnggu’,VB,verb,"to bump into, to crash against, to knock hard against something.",-0.477,Negative,-1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,-1,-1,-1,1,-1,-1,-1,-1,-1
+súngka’,VB,verb,to appeal a case in the upper court.,0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0
+syá,PRP,pronoun,"he, she, it (third person singular nominal pronoun).",0.0,Neutral,0,0,0,0,-1,1,-1,0,0,-1,0,0,0,0,0,0,0,0,0,-1,1
+tablétas,NN,noun,"medicine tablet, pill.",0.0,Neutral,0,0,0,0,-1,-1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+tabú’,NN,noun,"dipper, can used to scoop out water;  case, event, happening.",0.153,Positive,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,-1,1,1,1,1,1
+tábu’,VB,verb,"to come together, to meet purposely, to fetch from an airport or pier.",0.0,Neutral,0,0,0,0,1,0,0,-1,0,0,0,0,0,0,-1,-1,0,0,0,0,0
+tagiposoon,NN,noun,heart synonym: kasingkasing,0.637,Positive,1,0,1,1,0,0,1,-1,0,1,1,1,1,1,1,1,1,-1,1,1,0
+tágring,NN,noun,"resonance, ringing sound as of a telephone.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0
+tagúb,NN,noun,"sheath, scabbard.",0.0,Neutral,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tagudíli’,VB,verb,"to condemn, to damn.",-0.649,Negative,-1,-1,-1,-1,0,0,-1,1,-1,-1,0,-1,-1,-1,-1,1,-1,-1,-1,0,-1
+tákdung,VB,verb,to cover the head.,0.0,Neutral,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0
+tákna’,NN,noun,"hour, moment.",0.0,Neutral,0,0,0,0,-1,0,-1,1,0,0,0,0,0,-1,0,0,0,0,-1,0,0
+tak’an,VB,verb,"to get disgusted with, to get bored, to become weary, to get tired of.",-0.859,Negative,-1,-1,-1,-1,1,1,-1,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,1
+talikúd,VB,verb,"to turn one’s back upon, to abandon, to desert.",-0.44,Negative,-1,-1,-1,-1,0,-1,-1,-1,-1,1,-1,-1,-1,-1,1,0,-1,-1,-1,-1,-1
+talong,NN,noun,eggplant ( us ) ; aubergine ( uk ),0.0,Neutral,0,0,0,0,-1,-1,1,0,0,0,0,0,0,0,0,0,-1,0,0,0,0
+tampok,NN,noun,elite,0.0,Neutral,0,0,0,0,-1,-1,-1,1,0,0,0,0,-1,0,0,0,0,0,0,0,0
+tamúd,VB,verb,to look upon.,0.0,Neutral,0,0,0,0,0,0,0,0,-1,0,0,-1,0,0,0,0,0,-1,0,0,0
+táni’,RB,adverb,"if possible, perhaps, possibly.",0.0,Neutral,0,0,0,0,1,1,0,0,0,0,0,-1,-1,0,0,0,0,0,0,0,1
+tanúm,VB,verb,"to plant, to allow to grow.",0.226,Positive,1,1,1,1,0,0,1,1,1,-1,1,1,1,1,1,1,1,-1,1,1,1
+tápak,NN,noun,"foot mark, footfall.",0.0,Neutral,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,1,1,0,0,1,0,0
+tápak,VB,verb,"to tread barefooted, to step on.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0
+táyug,JJ,adjective,high up in the air.,0.0,Neutral,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0
+tibúnug,JJ,adjective,"healthy, robust.",0.625,Positive,1,1,1,1,1,0,1,1,1,1,0,1,1,1,-1,0,1,1,1,1,0
+tíklud,VB,verb,"to push away, to push behind.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,-1,0,0,0
+tikoy,NN,noun,nian gao ( a chinese new year cake made of glutinous rice flour ),0.0,Neutral,0,0,0,0,-1,-1,0,0,0,1,0,-1,0,0,-1,-1,0,0,0,0,0
+timá’an,NN,noun,"sign, signal, warning.",-0.34,Negative,-1,0,-1,-1,1,1,-1,-1,-1,-1,-1,-1,0,-1,-1,1,-1,0,-1,-1,-1
+tinápay,NN,noun,"bread, cookie.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0
+tingála,VB,verb,"to wonder, to be astonished, to be surprised.",0.542,Positive,1,1,1,1,-1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1
+tíngug,VB,verb,"to make a sound, to speak after a stretch of silence.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,1,0
+tipík,NN,noun,"bit, small piece, chip.",0.0,Neutral,0,0,0,0,0,0,-1,1,0,0,1,0,0,0,0,0,-1,0,0,0,0
+típu,NN,noun,"poise, character type, personality.",0.0,Neutral,0,0,0,0,0,1,0,0,0,0,0,1,-1,0,-1,0,0,0,0,0,0
+trák,NN,noun,truck.,0.0,Neutral,0,0,0,0,1,0,0,-1,0,0,-1,0,-1,0,0,0,0,0,1,0,0
+tugot,VB,verb,to allow,0.226,Positive,1,0,1,1,0,0,1,1,0,1,1,1,-1,1,0,0,1,1,1,1,-1
+túhuy,VB,verb,to direct toward.,0.0,Neutral,0,0,0,0,-1,0,0,0,1,0,0,0,0,1,0,0,-1,0,0,0,0
+tuig-tuig,JJ,adjective,"yearly , annual : happening once a year",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+túlug,NN,noun,"sleep, slumber.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0
+túlu’,NN,noun,"one drop, one drip.",-0.273,Negative,-1,0,-1,-1,0,0,-1,-1,-1,-1,-1,1,-1,-1,-1,0,-1,-1,-1,-1,-1
+túnda’,VB,verb,"to announce, to make public.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0
+tungá’,NN,noun,"middle, center, half.",0.0,Neutral,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+túntu,JJ,adjective,"stupid, ignorant, unsophisticated.",-0.772,Negative,-1,-1,-1,-1,1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+túntu,UH,interjection,"you idiot, stupid.",-0.772,Negative,-1,-1,-1,-1,1,0,-1,1,-1,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,1,-1
+tu’ún,NN,noun,"studies, learning, school work.",0.0,Neutral,0,1,0,0,1,1,0,0,0,-1,0,0,0,0,0,0,1,0,0,0,0
+úgtu,NN,noun,variant of údtu.,0.0,Neutral,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,-1,0,0,1,0,0
+uhú,UH,interjection,"see, look.",0.0,Neutral,0,0,0,0,0,-1,-1,-1,0,0,0,0,0,0,0,0,0,0,0,0,0
+ulípun,NN,noun,"poor man, servant.",-0.477,Negative,-1,-1,-1,-1,0,0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,1,1,-1,-1,-1
+ulípun,JJ,adjective,poor.,-0.477,Negative,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,-1,-1,-1,1,-1,-1,-1,-1,-1
+úlu,NN,noun,head.,0.0,Neutral,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+úna,VB,verb,"to go ahead, to overtake.",0.0,Neutral,0,0,0,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,0,0,0
+úpak,VB,verb,"to take the skin off, to peel.",0.0,Neutral,0,0,0,0,-1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+urang,NN,noun,shrimp ; prawn,0.0,Neutral,0,0,0,0,1,0,0,0,0,0,0,-1,1,0,0,0,0,0,0,0,0
+usa,NN,noun,deer,0.0,Neutral,0,0,0,0,0,-1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+uswag,VB,verb,to postpone,-0.226,Negative,-1,-1,-1,-1,1,0,-1,-1,-1,0,-1,-1,-1,0,0,-1,-1,-1,-1,-1,-1
+utak,NN,noun,bolo synonym: binangon,0.0,Neutral,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,-1
+yágpis,JJ,adjective,"lanky, thin.",0.0,Neutral,0,0,0,0,1,-1,0,1,0,0,0,0,0,0,0,0,0,0,-1,1,-1
+yárda,NN,noun,"yardstick, yard.",0.0,Neutral,0,0,0,0,1,0,0,1,0,0,-1,0,0,0,-1,0,0,0,0,0,0
+ya’úb,VB,verb,"to kneel down and bend one’s face until it touches the ground, to capitulate.",0.0,Neutral,0,0,0,0,-1,0,0,0,0,0,0,0,0,0,0,-1,0,-1,1,0,0
+yuhúm,NN,noun,"smile, grin.",0.681,Positive,1,1,1,1,-1,-1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1

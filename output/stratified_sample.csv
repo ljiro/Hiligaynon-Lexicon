@@ -1,0 +1,364 @@
+word,pos_symbol,pos_word,meaning,sentiment score,sentiment
+tak’an,VB,verb,"to get disgusted with, to get bored, to become weary, to get tired of.",-0.859,Negative
+hápu’,VB,verb,"to be tired, to be exhausted.",-0.66,Negative
+páhug,VB,verb,"to frighten, to tease.",-0.572,Negative
+ulípun,JJ,adjective,poor.,-0.477,Negative
+ingkántu,NN,noun,"fairy, evil spirit.",-0.572,Negative
+mangú’,JJ,adjective,"unlettered, ignorant.",-0.273,Negative
+gútrab,VB,verb,to chop or cut off with a knife or a pair of scissors.,-0.273,Negative
+hinganíban,NN,noun,weapon.,-0.296,Negative
+kaaway,NN,noun,enemy ; foe,-0.751,Negative
+samád,VB,verb,"to wound, to injure, to destroy.",-0.542,Negative
+abút,JJ,adjective,"cranky, irritable, moody.",-0.681,Negative
+hubog,JJ,adjective,drunk ; intoxicated synonym: balong,-0.34,Negative
+síplat,NN,noun,"glance, stolen glimpse.",-0.494,Negative
+ármas,NN,noun,"weapon, arms.",-0.296,Negative
+dupak,NN,noun,"bad language, obscene words",-0.807,Negative
+hugák,JJ,adjective,loose.,-0.318,Negative
+panambítun,VB,verb,"to sigh, to mourn, to cry.",-0.7,Negative
+túntu,JJ,adjective,"stupid, ignorant, unsophisticated.",-0.772,Negative
+dunoton,VB,verb,crush,-0.153,Negative
+ulípun,NN,noun,"poor man, servant.",-0.477,Negative
+dúyu,JJ,adjective,"dejected, sad.",-0.743,Negative
+túlu’,NN,noun,"one drop, one drip.",-0.273,Negative
+buling,VB,verb,"stain , soil , dirty",-0.44,Negative
+súnggu’,VB,verb,"to bump into, to crash against, to knock hard against something.",-0.477,Negative
+bilánggu,NN,noun,prisoner.,-0.542,Negative
+bangis,NN,noun,violence synonym: kahas,-0.625,Negative
+ímul,JJ,adjective,"poor, impoverized.",-0.477,Negative
+basol,VB,verb,to chide ; to scold,-0.402,Negative
+kaséra,VB,verb,to pay room and board.,-0.103,Negative
+timá’an,NN,noun,"sign, signal, warning.",-0.34,Negative
+dúla’,VB,verb,"to lose, to miss, to mislay.",-0.511,Negative
+kúrug,VB,verb,"to shiver, to tremble, to shake.",-0.421,Negative
+bokbok,NN,noun,a type of boring insect,-0.318,Negative
+búgsay,VB,verb,"to row, to strike the water with an oar.",-0.128,Negative
+súm’ud,VB,verb,"to loathe, to have more than enough so as to feel boredom, to cloy.",-0.67,Negative
+talikúd,VB,verb,"to turn one’s back upon, to abandon, to desert.",-0.44,Negative
+túntu,UH,interjection,"you idiot, stupid.",-0.772,Negative
+balíbad,VB,verb,"to find an excuse, to give a reason, to refuse.",-0.226,Negative
+lamún,NN,noun,blind.,-0.402,Negative
+páslaw,VB,verb,"to be caught red-handed, to fail, to lose.",-0.735,Negative
+atubang,VB,verb,to confront ; to face,-0.178,Negative
+espíritu,NN,noun,"soul, spirit, ghost.",-0.153,Negative
+káhas,VB,verb,"to dare, to make a challenge, to be violent.",-0.557,Negative
+tagudíli’,VB,verb,"to condemn, to damn.",-0.649,Negative
+samad,VB,verb,to wound ; to hurt ; to injure,-0.527,Negative
+káwat,JJ,adjective,"thief, robber.",-0.791,Negative
+abusar,VB,verb,"to misuse or abuse , to take advantage of",-0.494,Negative
+géra,VB,verb,to declare or fight a war.,-0.758,Negative
+pígaw,VB,verb,"to become weak, to become frail.",-0.44,Negative
+uswag,VB,verb,to postpone,-0.226,Negative
+bánhaw,VB,verb,"to resurrect, to rise from the dead.",-0.649,Negative
+hísa,NN,noun,"envy, jealousy.",-0.527,Negative
+apinas,JJ,adjective,"difficult , scarce , trying",-0.361,Negative
+dabádabá,VB,verb,"to flare up, to blaze, to be on fire.",-0.34,Negative
+bahúg,VB,verb,"of animals, to feed swine, or any animal; of people, to eat mixed foods simultaneously.",0.0,Neutral
+burus,NN,noun,blister,0.0,Neutral
+salaming,NN,noun,mirror synonym: espeho,0.0,Neutral
+pakút,NN,noun,"guess, venture.",0.0,Neutral
+serbésa,NN,noun,beer.,0.0,Neutral
+tu’ún,NN,noun,"studies, learning, school work.",0.0,Neutral
+dumagsa,VB,verb,flourish,0.0,Neutral
+harána,VB,verb,"to serenade, to sing to a lady with intentions of courtship.",0.0,Neutral
+dalunggan,NN,noun,( anatomy ) ear,0.0,Neutral
+gánsa,NN,noun,goose.,0.0,Neutral
+mayordómo,NN,noun,"butler, official of a ship.",0.0,Neutral
+labúgay,VB,verb,"to stir, to mix especially liquids.",0.0,Neutral
+tuig-tuig,JJ,adjective,"yearly , annual : happening once a year",0.0,Neutral
+buluhatan,NN,noun,workshop,0.0,Neutral
+gál’um,JJ,adjective,cloudy.,0.0,Neutral
+táni’,RB,adverb,"if possible, perhaps, possibly.",0.0,Neutral
+delárgo,NN,noun,long pants for men.,0.0,Neutral
+húlas,NN,noun,"perspiration, moisture.",0.0,Neutral
+dáldal,VB,verb,"to backbite, to spread false malicious talk, to talk against.",0.0,Neutral
+agalon,NN,noun,"boss , employer , lord , master",0.0,Neutral
+sundang,NN,noun,a type of bolo knife,0.0,Neutral
+kláse,NN,noun,class.,0.0,Neutral
+biskwit,NN,noun,biscuit,0.0,Neutral
+laham,VB,verb,"to touch , feel",0.0,Neutral
+sál’ut,VB,verb,"to insert, to get between.",0.0,Neutral
+1-ka,PRP,pronoun,you (short form of ikáw).,0.0,Neutral
+kutsilyo,NN,noun,knife synonym: utak,0.0,Neutral
+daut,VB,verb,to spoil,0.0,Neutral
+ya’úb,VB,verb,"to kneel down and bend one’s face until it touches the ground, to capitulate.",0.0,Neutral
+pilipíno,NN,noun,"filipino, citizen of the philippines.",0.0,Neutral
+platíto,NN,noun,saucer.,0.0,Neutral
+bayo-bayo,NN,noun,pulse,0.0,Neutral
+-ista,NN,noun formative,noun formative affix denoting profession or type of job.,0.0,Neutral
+túhuy,VB,verb,to direct toward.,0.0,Neutral
+úpak,VB,verb,"to take the skin off, to peel.",0.0,Neutral
+bodéga,NN,noun,"warehouse, storage, cellar.",0.0,Neutral
+harúthut,VB,verb,"to sew in big stitches, to patch.",0.0,Neutral
+pakéte,NN,noun,"pack, package.",0.0,Neutral
+manang,NN,noun,term of address for an elder sister or the eldest sister : big sis,0.0,Neutral
+balunggay,NN,noun,"a type of tree , the malunggay or horseradish tree , moringa oleifera",0.0,Neutral
+2-in-…-an,VB,verbal affix,completed action transitive verb affix.,0.0,Neutral
+hímbis,NN,noun,fish scales.,0.0,Neutral
+yárda,NN,noun,"yardstick, yard.",0.0,Neutral
+típu,NN,noun,"poise, character type, personality.",0.0,Neutral
+sobre,NN,noun,excess,0.0,Neutral
+usa,NN,noun,deer,0.0,Neutral
+dulunggan,NN,noun,ear,0.0,Neutral
+salakay,NN,noun,overthrow,0.0,Neutral
+tákna’,NN,noun,"hour, moment.",0.0,Neutral
+alúm,NN,noun,mole.,0.0,Neutral
+pananglítan,CC,conjunction,"supposing, in case, if.",0.0,Neutral
+tápak,VB,verb,"to tread barefooted, to step on.",0.0,Neutral
+bátak,VB,verb,"to pull upward, to raise.",0.0,Neutral
+bugsay,NN,noun,"oar , paddle",0.0,Neutral
+bukidnon,JJ,adjective,"coarse , rough , uncultured , uncouth",0.0,Neutral
+amo,NN,noun,monkey,0.0,Neutral
+abian,VB,verb,alternative form of abyan,0.0,Neutral
+bungúl,NN,noun,deaf.,0.0,Neutral
+lápad,NN,noun,"width, area, broadness.",0.0,Neutral
+tungá’,NN,noun,"middle, center, half.",0.0,Neutral
+kaprítsu,JJ,adjective,"flighty, vain‚ wily.",0.0,Neutral
+kina’ádman,NN,noun,science.,0.0,Neutral
+katig,NN,noun,outrigger float,0.0,Neutral
+katulundan,NN,noun,west,0.0,Neutral
+ilayá,NN,noun,"hinterland, remote area.",0.0,Neutral
+hinali,JJ,adjective,sudden,0.0,Neutral
+pásyar,NN,noun,"stroll, walk.",0.0,Neutral
+rádyo,NN,noun,radio.,0.0,Neutral
+pasáhe,NN,noun,"passage, trip.;  passenger.",0.0,Neutral
+túlug,NN,noun,"sleep, slumber.",0.0,Neutral
+alpabéto,NN,noun,alphabet.,0.0,Neutral
+aláhas,NN,noun,jewelry.,0.0,Neutral
+bágyu,NN,noun,"rainstorm, typhoon, hurricane.",0.0,Neutral
+haláy,VB,verb,"to drape, to hang to dry.",0.0,Neutral
+ngalan,NN,noun,name,0.0,Neutral
+sun-adan,NN,noun,fireplace,0.0,Neutral
+atsára,NN,noun,pickled green papaya.,0.0,Neutral
+utak,NN,noun,bolo synonym: binangon,0.0,Neutral
+lísu’,VB,verb,"to turn about, to be awry.",0.0,Neutral
+hamún,NN,noun,"ham, cured meat.",0.0,Neutral
+túnda’,VB,verb,"to announce, to make public.",0.0,Neutral
+awtopsiya,NN,noun,autopsy,0.0,Neutral
+governadór,NN,noun,governor.,0.0,Neutral
+tágring,NN,noun,"resonance, ringing sound as of a telephone.",0.0,Neutral
+tíngug,VB,verb,"to make a sound, to speak after a stretch of silence.",0.0,Neutral
+húblas,VB,verb,"to strip off, to take off.",0.0,Neutral
+tampok,NN,noun,elite,0.0,Neutral
+báylu,VB,verb,"to exchange, to substitute, to swap.",0.0,Neutral
+buhaha,JJ,adjective,"heedless , lavish , prodigal , wasteful",0.0,Neutral
+baug,JJ,adjective,barren,0.0,Neutral
+púlu’,CD,numeral,variant of napúlu’.,0.0,Neutral
+bagting,NN,noun,"chime , ring , toll",0.0,Neutral
+sigúro,RB,adverb,"maybe, perhaps.",0.0,Neutral
+bikoláno,NN,noun,"language spoken principally in albay, camarines sur, catanduanes, sorsogon, the southern half of camarines norte, and in some towns of masbate.",0.0,Neutral
+bay-ad,NN,noun,a type of seashell,0.0,Neutral
+púrma,NN,noun,"form, shape.",0.0,Neutral
+operá,VB,verb,"to operate, to be operated on.",0.0,Neutral
+rénta,VB,verb,"to rent, to hire.",0.0,Neutral
+piríku,NN,noun,parrot.,0.0,Neutral
+dalága,NN,noun,"unmarried girl, between the age of about fifteen to thirty.",0.0,Neutral
+bahaw,JJ,adjective,( of food ) cold,0.0,Neutral
+sámay,VB,verb,to line with stripes.,0.0,Neutral
+púnggud,NN,noun,"pimple, blemish.",0.0,Neutral
+úgtu,NN,noun,variant of údtu.,0.0,Neutral
+barnis,NN,noun,"lacquer , varnish",0.0,Neutral
+emperador,NN,noun,emperor,0.0,Neutral
+enhenyéro,NN,noun,engineer.,0.0,Neutral
+ángkab,VB,verb,"of animals, to snap, to bite, to seize with teeth so as to grip or bite.",0.0,Neutral
+hubág,NN,noun,"swelling, boil.",0.0,Neutral
+látum,VB,verb,to penetrate to the innermost part.,0.0,Neutral
+yágpis,JJ,adjective,"lanky, thin.",0.0,Neutral
+baláybay,NN,noun,"verse, recitation, rhyme, poetry.",0.0,Neutral
+sápsap,VB,verb,"to chop so as to make even, to smoothen.",0.0,Neutral
+díkta,VB,verb,"to dictate, nagdíkta ang ma’éstra sa kláse.",0.0,Neutral
+pintór,NN,noun,painter.,0.0,Neutral
+úlu,NN,noun,head.,0.0,Neutral
+báskit,NN,noun,basket.,0.0,Neutral
+sálug,VB,verb,"to mix, to mingle.",0.0,Neutral
+busál,NN,noun,"of dogs, mouth cover to prevent biting.",0.026,Neutral
+amorokpok,NN,noun,bird of prey,0.0,Neutral
+dorado,NN,noun,gilt,0.0,Neutral
+kabugaw,NN,noun,"pomelo , grapefruit",0.0,Neutral
+bandehado,NN,noun,platter,0.0,Neutral
+húlag,VB,verb,"to move, to stir, to get busy.",0.0,Neutral
+ebanghélyo,NN,noun,"gospel, epistle.",0.0,Neutral
+baston,NN,noun,stick,0.0,Neutral
+pilá,RB,adverb,"how much, how many.",0.0,Neutral
+níwang,VB,verb,"to reduce in weight, to become thinner.",0.0,Neutral
+-ay,VB,verbal affix,variant of -an.,0.0,Neutral
+bílin,NN,noun,"request, last words.",0.0,Neutral
+línug,NN,noun,earthquake.,0.0,Neutral
+talong,NN,noun,eggplant ( us ) ; aubergine ( uk ),0.0,Neutral
+mabaskug,JJ,adjective,loud synonym: magansal,0.0,Neutral
+bumulutho,NN,noun,"schoolboy , schoolgirl , student",0.0,Neutral
+láklak,VB,verb,to lap with the tongue.,0.0,Neutral
+beteráno,NN,noun,veteran.,0.0,Neutral
+paryénte,NN,noun,"relative, cousin.",0.0,Neutral
+púlung,VB,verb,"to express oneself, to give a speech, to give an advice.",0.0,Neutral
+babana,NN,noun,soursop,0.0,Neutral
+apú,NN,noun,grandchild.,0.0,Neutral
+síbu,NN,noun,grease.,0.0,Neutral
+semana,NN,noun,week,0.0,Neutral
+ánud,VB,verb,"to drift, to flow with the current.",0.0,Neutral
+tagúb,NN,noun,"sheath, scabbard.",0.0,Neutral
+lá’aw,VB,verb,"to watch, to observe, to look out of the window.",0.0,Neutral
+pantálya,NN,noun,dummy.,0.0,Neutral
+busal,NN,noun,"bridle , muzzle",0.0,Neutral
+tinápay,NN,noun,"bread, cookie.",0.0,Neutral
+kwadra,NN,noun,shed,0.0,Neutral
+úna,VB,verb,"to go ahead, to overtake.",0.0,Neutral
+arítus,NN,noun,earring.,0.0,Neutral
+tíklud,VB,verb,"to push away, to push behind.",0.0,Neutral
+tikoy,NN,noun,nian gao ( a chinese new year cake made of glutinous rice flour ),0.0,Neutral
+táyug,JJ,adjective,high up in the air.,0.0,Neutral
+hurínghúring,VB,verb,"to be rumored, to be spread as news.",0.0,Neutral
+damán,NN,noun,nightmare.,0.0,Neutral
+itikíta,NN,noun,"trademark, label.",0.0,Neutral
+kahubug,NN,noun,drunkenness ; intoxication ; inebriation,0.0,Neutral
+dáplus,VB,verb,"to slide off, to stray.",0.0,Neutral
+uhú,UH,interjection,"see, look.",0.0,Neutral
+batakan,NN,noun,"crane , pulley",0.0,Neutral
+kulyápis,JJ,adjective,emaciated.,0.0,Neutral
+búlak,NN,noun,"flower, blossom, cotton fibers.",0.0,Neutral
+amidol,NN,noun,starch,0.0,Neutral
+desyémbre,NN,noun,december.,0.0,Neutral
+abut-abut,VB,verb,frequentative of abút,0.0,Neutral
+butáng,NN,noun,"thing, object.",0.0,Neutral
+sámput,VB,verb,"to come to, to reach, to arrive at.",0.026,Neutral
+pangalikog,VB,verb,frequentative of kalíkog,0.0,Neutral
+sangá,NN,noun,"branch, bough, twig.",0.0,Neutral
+mugún,VB,verb,"to work for a daily wage, to earn.",0.0,Neutral
+bútyag,VB,verb,"to tell others, to disclose, to let out a secret.",0.0,Neutral
+bánta’,NN,noun,"guess, opinion, supposition, estimate.",0.0,Neutral
+karon,RB,adverb,"later synonyms: gilayon , madason",0.0,Neutral
+lalaki,NN,noun,"a man , an adult male",0.0,Neutral
+damúg,NN,noun,"of pigs, food.",0.0,Neutral
+saging,NN,noun,banana ; plantain,0.0,Neutral
+lába’,JJ,adjective,"long, extending for a considerable distance.",0.0,Neutral
+batobalani,NN,noun,magnet,0.0,Neutral
+háplak,VB,verb,"to fall flat on the ground, to lay flat.",0.0,Neutral
+ginamús,NN,noun,native fish sauce made out of marinated fish.,0.0,Neutral
+ági,VB,verb,"to pass by for something, to pass through.",0.0,Neutral
+búthu’,VB,verb,"to go to school, to study, to learn.",0.0,Neutral
+tákdung,VB,verb,to cover the head.,0.0,Neutral
+botélya,NN,noun,bottle.,0.0,Neutral
+tápak,NN,noun,"foot mark, footfall.",0.0,Neutral
+ádlaw,NN,noun,"day, birthday, anniversary.",0.0,Neutral
+rénda,NN,noun,bridle.,0.0,Neutral
+trák,NN,noun,truck.,0.0,Neutral
+gantángan,NN,noun,wooden measuring box with a volume content of approximately one ganta or three liters.,0.0,Neutral
+urang,NN,noun,shrimp ; prawn,0.0,Neutral
+almasín,NN,noun,"store, small market.",0.0,Neutral
+batás,NN,noun,endurance.,0.0,Neutral
+panihúl,VB,verb,"to whistle, to be whistled at.",0.0,Neutral
+kamaróte,NN,noun,"of a ship, cabin.",0.0,Neutral
+gihápun,RB,adverb,always.,0.0,Neutral
+tamúd,VB,verb,to look upon.,0.0,Neutral
+kumpáre,NN,noun,"comrade, relationship between the godfather and parents of the godchild.",0.0,Neutral
+láwas,NN,noun,"body, human body.;  representative.",0.0,Neutral
+aplá’ag,VB,verb,"to spread, to break and scatter.",0.0,Neutral
+líksi,VB,verb,"to jump around, to leap.",0.0,Neutral
+akal-akal,VB,verb,to bubble or seethe,0.0,Neutral
+mestisílya,NN,noun,female half-breed.,0.0,Neutral
+súngka’,VB,verb,to appeal a case in the upper court.,0.0,Neutral
+ilá,JJ,adjective,"elusive, untamed, undomesticated.",0.0,Neutral
+labábu,NN,noun,"lavabo, washbasin.",0.0,Neutral
+hinablos,NN,noun,nephew ; niece,0.0,Neutral
+panganud,NN,noun,cloud,0.0,Neutral
+láwag,VB,verb,"to pronounce, to call out.",0.0,Neutral
+kárbaw,NN,noun,"carabao, water buffalo.",0.0,Neutral
+dugú’,VB,verb,to bleed.,0.0,Neutral
+kapid,NN,noun,twins,0.0,Neutral
+sákut,VB,verb,"to mix, to blend, to put together.",0.0,Neutral
+bitú’un,NN,noun,star.,0.0,Neutral
+tábu’,VB,verb,"to come together, to meet purposely, to fetch from an airport or pier.",0.0,Neutral
+administrasyon,NN,noun,"administration , management",0.0,Neutral
+pasahi,NN,noun,passage,0.0,Neutral
+dayan,NN,noun,"stroll , walk synonym: lagaw",0.0,Neutral
+busúng,JJ,adjective,"pregnant, with child.",0.0,Neutral
+huramúl,JJ,adjective,damp.,0.0,Neutral
+líbut,NN,noun,surrounding.,0.0,Neutral
+ad-adan,NN,noun,"slicer , a frame knife",0.0,Neutral
+síd’ing,VB,verb,"to peep, to look in for a little while.",0.0,Neutral
+tipík,NN,noun,"bit, small piece, chip.",0.0,Neutral
+abrigo,NN,noun,shawl,0.0,Neutral
+bululngan,NN,noun,"clinic , hospital , medical center",0.0,Neutral
+litsúgas,NN,noun,lettuce.,0.0,Neutral
+putút,JJ,adjective,"of people, short.",0.0,Neutral
+almon,NN,noun,tree,0.0,Neutral
+agwatato,NN,noun,procurer ( someone who arranges for prostitution ),0.0,Neutral
+kuyámpad,VB,verb,"to run, to scamper off.",0.0,Neutral
+kodák,NN,noun,"camera, picture.",0.0,Neutral
+galyetas,NN,noun,"cracker , hardtack , biscuit",0.0,Neutral
+hagumhum,VB,verb,to rumble or boom,0.0,Neutral
+sabát,VB,verb,"to respond, to answer.",0.0,Neutral
+balihawog,NN,noun,"bolt , latch",0.0,Neutral
+dámhag,VB,verb,"to fall headlong, to fall on one’s face.",0.0,Neutral
+kwélyo,NN,noun,"collar, back of the neck.",0.0,Neutral
+dukú’,VB,verb,"to bow, to stoop down.",0.0,Neutral
+kabáyu’,VB,verb,to ride on horseback.,0.0,Neutral
+luhúd,VB,verb,to kneel down.,0.0,Neutral
+kasál,VB,verb,"to perform a marriage, to officiate a wedding.",0.0,Neutral
+abono,NN,noun,payment for another in advance,0.0,Neutral
+namit,NN,noun,"delicacy synonyms: nanam , rimis",0.0,Neutral
+sugilánun,NN,noun,"story, conversation.",0.0,Neutral
+eskuwela,VB,verb,to go to school ; to attend school,0.0,Neutral
+híwa’,NN,noun,"chunck, sliced piece, one slice.",0.0,Neutral
+byérnes,NN,noun,friday.,0.0,Neutral
+tablétas,NN,noun,"medicine tablet, pill.",0.0,Neutral
+búndul,JJ,adjective,"slow, tardy.",0.0,Neutral
+kapilya,NN,noun,chapel,0.0,Neutral
+púrung,NN,noun,"crown, veil, head cover.",0.0,Neutral
+gísi’,VB,verb,"to tear, to slit with a sharp instrument, to split, to break asunder.",0.0,Neutral
+binata,JJ,adjective,immature,0.0,Neutral
+dalum,JJ,adjective,"( of thoughts ) deep , profound , insightful",0.0,Neutral
+bús’ak,VB,verb,"to chop wood, to chop wood for firewood.",0.0,Neutral
+bulbul,NN,noun,down ( soft hair of the face when beginning to appear ),0.0,Neutral
+syá,PRP,pronoun,"he, she, it (third person singular nominal pronoun).",0.0,Neutral
+aboy,JJ,adjective,bent ; curved ; warped,0.0,Neutral
+bunggo,VB,verb,shove or throw with force,0.0,Neutral
+sínggit,VB,verb,"to shout, to howl.",0.0,Neutral
+karéra,VB,verb,"to run a race, to race.",0.0,Neutral
+sagad,NN,noun,specialist,0.0,Neutral
+daldal,VB,verb,"( of wind, waves ) push , impel",0.0,Neutral
+pasénsya,NN,noun,"forgiveness, excuse.",0.34,Positive
+bugál,VB,verb,"to be proud, to show off.",0.477,Positive
+álam,JJ,adjective,"bright, smart, brilliant.",0.856,Positive
+kauswagan,NN,noun,advancement ; improvement ; progress,0.7,Positive
+kándus,VB,verb,"to scoop out, to serve on a dish from a pot.",0.153,Positive
+awa,NN,noun,"compassion , mercy , pity",0.511,Positive
+kusípad,VB,verb,"to thumb through, to pick with the fingers like corn from the cob.",0.361,Positive
+bánda,NN,noun,"cord or strip of material serving chiefly for decoration, a music band or group of musicians organized for playing together.",0.202,Positive
+ananay,JJ,adjective,"gentle , mild , soft , slow , noiseless , quiet , tranquil , quietly",0.477,Positive
+tibúnug,JJ,adjective,"healthy, robust.",0.625,Positive
+tugot,VB,verb,to allow,0.226,Positive
+dahon-dahon,NN,noun,"mantis , praying mantis",0.361,Positive
+ganyat,VB,verb,"attract , entice , seduce",0.361,Positive
+buláhan,JJ,adjective,"fortunate, lucky.",0.691,Positive
+salúk,VB,verb,to dip or scoop out with the hand or a dipper or ladle.,0.586,Positive
+dugang,VB,verb,to add or increase in number,0.382,Positive
+íla’,VB,verb,"to like, to admire, to appreciate, to wish for.",0.875,Positive
+áku’,VB,verb,"to own, to claim, to promise, to swear, to admit.",0.44,Positive
+arí’arí,JJ,adjective,stunted in growth.,0.382,Positive
+imbénto,NN,noun,"invention, creation.",0.273,Positive
+hiláw,JJ,adjective,"raw, unripe, fresh.",0.318,Positive
+tanúm,VB,verb,"to plant, to allow to grow.",0.226,Positive
+bugalon,VB,verb,to be or become proud,0.477,Positive
+asoy,JJ,adjective,useful,0.44,Positive
+dyús,NN,noun,"god, the almighty.",0.273,Positive
+tabú’,NN,noun,"dipper, can used to scoop out water;  case, event, happening.",0.153,Positive
+álam,VB,verb,"to become smart, to become brilliant.",0.758,Positive
+tingála,VB,verb,"to wonder, to be astonished, to be surprised.",0.542,Positive
+yuhúm,NN,noun,"smile, grin.",0.681,Positive
+igú’,VB,verb,"to fit, to accommodate.",0.361,Positive
+búgnu’,VB,verb,"to greet, to speak to, to interact with.",0.318,Positive
+linúng,JJ,adjective,"calm, silent, peaceful.",0.67,Positive
+tagiposoon,NN,noun,heart synonym: kasingkasing,0.637,Positive
+lúyag,VB,verb,"to want, to desire, to like.",0.67,Positive
+dinamita,NN,noun,dynamite,0.178,Positive
+abat-abat,VB,verb,living from hand to mouth,0.494,Positive
+káha,NN,noun,"jewel box, safe.",0.66,Positive
+ba-og,JJ,adjective,"gray , grey",0.052,Positive
+bendita,VB,verb,( transitive ) bless,0.421,Positive
+maalam,JJ,adjective,"learned , clever , wise",0.727,Positive
+luwás,VB,verb,"to free, to redeem, to save.",0.758,Positive
+baskug,NN,noun,"strength synonyms: bakud , kusug",0.494,Positive
+ka’íngin,NN,noun,"uphill land, land cleared by burning.",0.103,Positive
+maayo-ayo,JJ,adjective,"nice , engaging",0.637,Positive
+1-mang-,VB,verbal affix,active action affix usually designating plural or repeated action.,0.402,Positive
