@@ -105,7 +105,6 @@ amáy	0.000	0.0	0.0
 ámbit	0.296	0.0	0.0
 ámbung	0.735	0.0	0.0
 ámbung	0.791	0.0	0.0
-ámbut	0.000	0.0	0.0
 amérika	0.000	0.0	0.0
 amerikána	0.000	0.0	0.0
 amerikáno	0.000	0.0	0.0
@@ -756,7 +755,6 @@ kabáyu’	0.000	0.0	0.0
 kabáyu’	0.000	0.0	0.0
 kabeséra	0.000	0.0	0.0
 kábig	0.000	0.0	0.0
-kabít	0.000	0.0	0.0
 kabít	0.494	0.0	0.0
 kábu	0.000	0.0	0.0
 kabú’	0.000	0.0	0.0
@@ -850,7 +848,6 @@ kámpo	0.000	0.0	0.0
 kampyón	0.599	0.0	0.0
 kamú	0.000	0.0	0.0
 kamumú’u	0.000	0.0	0.0
-kamústa	0.000	0.0	0.0
 kamústa	0.153	0.0	0.0
 kamút	0.494	0.0	0.0
 kamúti	0.459	0.0	0.0
@@ -1164,6 +1161,7 @@ kwénta	0.000	0.0	0.0
 kwénta	0.202	0.0	0.0
 kwérdas	0.000	0.0	0.0
 kwítis	0.000	0.0	0.0
+kwítis	0.000	0.0	0.0
 dá’an	-0.296	0.0	0.0
 dá’an	0.000	0.0	0.0
 pagkúha’	0.000	0.0	0.0
@@ -1178,6 +1176,7 @@ dakú’	0.751	0.0	0.0
 dakú’	0.000	0.0	0.0
 dakúp	-0.572	0.0	0.0
 dagámi	0.000	0.0	0.0
+dágat	0.000	0.0	0.0
 dágat	0.000	0.0	0.0
 dagát	0.000	0.0	0.0
 dagát	0.000	0.0	0.0
@@ -1209,6 +1208,7 @@ dalagíta	0.000	0.0	0.0
 dalámhak	0.000	0.0	0.0
 dálan	0.103	0.0	0.0
 dalándan	0.000	0.0	0.0
+dalándan	0.000	0.0	0.0
 dálangdálang	-0.660	0.0	0.0
 daláwat	0.000	0.0	0.0
 dáldal	0.000	0.0	0.0
@@ -1236,6 +1236,7 @@ damuhál	-0.459	0.0	0.0
 dámul	0.000	0.0	0.0
 dánlug	0.000	0.0	0.0
 dángat	0.361	0.0	0.0
+dángat	0.000	0.0	0.0
 dangúp	0.000	0.0	0.0
 dapádapá	0.000	0.0	0.0
 dápat	0.361	0.0	0.0
@@ -1263,6 +1264,7 @@ dá’ut	-0.878	0.0	0.0
 dáya’	-0.494	0.0	0.0
 dáya’	-0.772	0.0	0.0
 dáya’	-0.710	0.0	0.0
+dayán	0.000	0.0	0.0
 dayán	0.000	0.0	0.0
 dáyaw	0.848	0.0	0.0
 dayáw	-0.421	0.0	0.0
@@ -1293,6 +1295,7 @@ díla’	0.000	0.0	0.0
 dilántu	0.791	0.0	0.0
 dílap	0.361	0.0	0.0
 díli’	-0.318	0.0	0.0
+díli’	0.000	0.0	0.0
 dimát	0.361	0.0	0.0
 díngding	0.000	0.0	0.0
 dingút	-0.796	0.0	0.0
@@ -1327,6 +1330,7 @@ dukú’	0.000	0.0	0.0
 dukuménto	0.000	0.0	0.0
 dukút	0.000	0.0	0.0
 dúda	-0.625	0.0	0.0
+dúda	0.000	0.0	0.0
 dúda	-0.758	0.0	0.0
 dúga’	0.000	0.0	0.0
 dúgang	0.000	0.0	0.0
@@ -1356,6 +1360,7 @@ dulúnan	0.000	0.0	0.0
 dúlung	0.000	0.0	0.0
 dúl’ung	0.000	0.0	0.0
 dulúnggan	0.000	0.0	0.0
+dulúnggan	0.000	0.0	0.0
 dúlut	0.440	0.0	0.0
 dúlut	0.440	0.0	0.0
 dúlsi	0.000	0.0	0.0
@@ -1383,6 +1388,7 @@ dú’ul	0.000	0.0	0.0
 dúyan	0.000	0.0	0.0
 dúyan	0.000	0.0	0.0
 dúyu	-0.743	0.0	0.0
+dwénde	0.000	0.0	0.0
 dwénde	0.000	0.0	0.0
 dyés	0.000	0.0	0.0
 dyíp	-0.599	0.0	0.0
@@ -2605,6 +2611,7 @@ mútya’	0.000	0.0	0.0
 mwéstra	0.000	0.0	0.0
 myémbro	0.000	0.0	0.0
 myerkolés	0.000	0.0	0.0
+myerkolés	0.000	0.0	0.0
 na	0.000	0.0	0.0
 na-	0.000	0.0	0.0
 na’	0.000	0.0	0.0
@@ -2616,6 +2623,7 @@ nag-	0.000	0.0	0.0
 naláng	0.000	0.0	0.0
 námit	0.572	0.0	0.0
 námun	0.128	0.0	0.0
+námun	0.000	0.0	0.0
 nanám	0.572	0.0	0.0
 nánay	0.477	0.0	0.0
 nánday	0.000	0.0	0.0
@@ -2645,6 +2653,7 @@ nílag	0.000	0.0	0.0
 nímu	0.000	0.0	0.0
 nínyu	0.000	0.0	0.0
 nípa	0.000	0.0	0.0
+nipiś	0.000	0.0	0.0
 nipiś	0.000	0.0	0.0
 nipiś	0.000	0.0	0.0
 nipúlun	0.000	0.0	0.0
@@ -3306,7 +3315,6 @@ salá’	-0.904	0.0	0.0
 salá’	-0.440	0.0	0.0
 salákay	-0.477	0.0	0.0
 salamángka	0.000	0.0	0.0
-salámat	0.361	0.0	0.0
 salamíng	0.000	0.0	0.0
 salampáti	0.000	0.0	0.0
 salapí’	0.000	0.0	0.0
@@ -3623,7 +3631,6 @@ sulú’	0.000	0.0	0.0
 súluk	0.000	0.0	0.0
 sulúd	0.000	0.0	0.0
 sulúd	0.000	0.0	0.0
-sulúd	0.000	0.0	0.0
 súlsul	0.000	0.0	0.0
 súlung	0.000	0.0	0.0
 sulusakayán	0.000	0.0	0.0
@@ -3684,7 +3691,6 @@ swérte	0.459	0.0	0.0
 swérte	0.421	0.0	0.0
 syá	0.000	0.0	0.0
 syápa	0.000	0.0	0.0
-syémpre	0.625	0.0	0.0
 syén	0.000	0.0	0.0
 syénsya	0.000	0.0	0.0
 syérto	0.649	0.0	0.0
@@ -3741,7 +3747,6 @@ tagám	-0.128	0.0	0.0
 tagám	-0.670	0.0	0.0
 tagasák	0.361	0.0	0.0
 tágay	0.000	0.0	0.0
-tagbaláy	0.000	0.0	0.0
 tagbaláy	0.000	0.0	0.0
 tágbang	0.000	0.0	0.0
 tághul	0.000	0.0	0.0
@@ -4651,6 +4656,7 @@ basi	0.000	0.0	0.0
 bisan	0.000	0.0	0.0
 buas	0.000	0.0	0.0
 busa	0.000	0.0	0.0
+daan	0.000	0.0	0.0
 dali	0.000	0.0	0.0
 diin	0.677	0.0	0.0
 dira	0.542	0.0	0.0
@@ -4661,8 +4667,10 @@ indi	0.000	0.0	0.0
 karon	0.000	0.0	0.0
 ngaa	0.000	0.0	0.0
 subong	0.000	0.0	0.0
+sulud	0.000	0.0	0.0
 upod	-0.250	0.0	0.0
 apang	0.000	0.0	0.0
+bisan	0.000	0.0	0.0
 buot	0.000	0.0	0.0
 kag	0.000	0.0	0.0
 iya	0.000	0.0	0.0
@@ -4683,56 +4691,6 @@ paalam	0.000	0.0	0.0
 salamat gid	0.420	0.0	0.0
 uy	0.273	0.0	0.0
 yawa	-0.660	0.0	0.0
-alaypan hayop	0.000	0.0	0.0
-amay namon	0.000	0.0	0.0
-amba sang pispis	0.000	0.0	0.0
-anak nga babae	0.000	0.0	0.0
-apo nga babae	0.000	0.0	0.0
-apo nga lalaki	0.000	0.0	0.0
-asawa sang hari	0.000	0.0	0.0
-asugi nga buhi	0.000	0.0	0.0
-atrasado sa pagbayad	0.000	0.0	0.0
-bag-ong tuig	0.000	0.0	0.0
-balahibo sang hayop	0.000	0.0	0.0
-balayan sang sinulatan ukon dinalan	0.000	0.0	0.0
-banas sa higad sang suba	0.000	0.0	0.0
-bangud sa	0.000	0.0	0.0
-baston ni san hose	0.000	0.0	0.0
-batok sa kasugoan	0.000	0.0	0.0
-bawod sang mga tudlo	0.000	0.0	0.0
-belada sa eskwelahan	0.000	0.0	0.0
-bisan diin	0.000	0.0	0.0
-bisan sin-o	0.000	0.0	0.0
-bunayag makig-atubang	0.421	0.0	0.0
-bunayag sing kabubut-on	0.000	0.0	0.0
-dagway nga makahuhuya	0.000	0.0	0.0
-daku kaayo	0.000	0.0	0.0
-de la cruz	0.000	0.0	0.0
-de la torre	0.000	0.0	0.0
-de los reyes	0.000	0.0	0.0
-dela cruz	0.000	0.0	0.0
-dela torre	0.000	0.0	0.0
-dunang manggad	0.361	0.0	0.0
-dutang panublion	0.000	0.0	0.0
-espiritu santo	0.000	0.0	0.0
-isa pa	0.000	0.0	0.0
-maayong aga	0.493	0.0	0.0
-maayong gab-i	0.700	0.0	0.0
-maayong hapon	0.493	0.0	0.0
-maghatag sing kinahanglan	0.000	0.0	0.0
-napulo'g anum	0.000	0.0	0.0
-napulo'g apat	0.000	0.0	0.0
-napulo'g duha	0.000	0.0	0.0
-napulo'g isa	0.000	0.0	0.0
-napulo'g lima	0.000	0.0	0.0
-napulo'g pito	0.000	0.0	0.0
-napulo'g siyam	0.000	0.0	0.0
-napulo'g tatlo	0.000	0.0	0.0
-napulo'g walo	0.000	0.0	0.0
-palangga ta ka	0.637	0.0	0.0
-salamat gid	0.420	0.0	0.0
-sofronio española	0.000	0.0	0.0
-tudlo sang dalaga	0.000	0.0	0.0
 aba	0.000	0.0	0.0
 abad	0.511	0.0	0.0
 abadesa	0.000	0.0	0.0
@@ -4898,6 +4856,7 @@ aroro	0.000	0.0	0.0
 aros	0.000	0.0	0.0
 arpa	0.000	0.0	0.0
 arte	0.000	0.0	0.0
+artikulo	0.000	0.0	0.0
 asawa sang hari	0.000	0.0	0.0
 asero	0.000	0.0	0.0
 asibar	0.000	0.0	0.0
@@ -4933,6 +4892,7 @@ ayi	0.000	0.0	0.0
 ayo	0.558	0.0	0.0
 aypon	0.000	0.0	0.0
 ayuda	0.402	0.0	0.0
+baba	0.000	0.0	0.0
 babae	0.000	0.0	0.0
 babana	0.000	0.0	0.0
 babaye	0.000	0.0	0.0
@@ -5041,6 +5001,7 @@ banglid	0.000	0.0	0.0
 bangon	0.000	0.0	0.0
 bao	0.000	0.0	0.0
 bapor	0.000	0.0	0.0
+bara	0.000	0.0	0.0
 baraha	0.202	0.0	0.0
 barahan	0.000	0.0	0.0
 barandilya	0.000	0.0	0.0
@@ -5899,12 +5860,14 @@ anum	0.000	0.0	0.0
 apat	0.000	0.0	0.0
 duha	0.000	0.0	0.0
 gatus	0.000	0.0	0.0
+isa	0.000	0.0	0.0
 kalim-an	0.000	0.0	0.0
 kaluhaan	0.000	0.0	0.0
 kan-uman	0.000	0.0	0.0
 kap-atan	0.000	0.0	0.0
 kasiyaman	0.000	0.0	0.0
 libo	0.000	0.0	0.0
+lima	0.000	0.0	0.0
 napulo	0.000	0.0	0.0
 napulo'g anum	0.000	0.0	0.0
 napulo'g apat	0.000	0.0	0.0
@@ -5915,15 +5878,11 @@ napulo'g pito	0.000	0.0	0.0
 napulo'g siyam	0.000	0.0	0.0
 napulo'g tatlo	0.000	0.0	0.0
 napulo'g walo	0.000	0.0	0.0
+pito	0.000	0.0	0.0
 siyam	0.000	0.0	0.0
 tatlo	0.000	0.0	0.0
 walo	0.000	0.0	0.0
-halong	0.494	0.0	0.0
-maayong gab-i	0.700	0.0	0.0
-palangga ta ka	0.637	0.0	0.0
-bago	0.000	0.0	0.0
-buot	0.000	0.0	0.0
-sulud	0.000	0.0	0.0
+balaw	0.000	0.0	0.0
 adto	0.000	0.0	0.0
 ako	0.000	0.0	0.0
 aton	0.000	0.0	0.0

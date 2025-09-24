@@ -1,4 +1,5 @@
 import pandas as pd
+import unicodedata
 from pathlib import Path
 
 # === File paths ===
@@ -13,34 +14,47 @@ excluded_file = base_dir / "excluded_expressions.csv"
 
 # === Penn Treebank POS Mapping ===
 pos_map = {
-    "noun": "NN", "noun formative": "NN",
-    "verb": "VB", "verbal affix": "VB",
-    "adjective": "JJ", "adjective formative": "JJ",
+    "noun": "NN",
+    "noun formative": "NN",
+    "verb": "VB",
+    "verbal affix": "VB",
+    "adjective": "JJ",
+    "adjective formative": "JJ",
     "adverb": "RB",
     "pronoun": "PRP",
     "particle": "RP",
     "conjunction": "CC",
     "interjection": "UH",
     "numeral": "CD",
-    "determiner": "DT", "deictic": "DT",
+    "determiner": "DT",
+    "deictic": "DT",
 }
 
 drop_categories = {"phrase", "idiom", "phrasebook"}
+
+
+# === Utility: Normalize word (for grouping only) ===
+def normalize_word(word: str) -> str:
+    if not isinstance(word, str):
+        return ""
+    return "".join(
+        c for c in unicodedata.normalize("NFD", word) if unicodedata.category(c) != "Mn"
+    ).lower()
 
 
 # === Function to clean a dataset ===
 def clean_dataset(path, rename_map=None):
     df = pd.read_csv(path, dtype=str)
 
-    # Rename columns if needed
+    # Rename if needed
     if rename_map:
         df = df.rename(columns=rename_map)
 
-    # Keep only important columns
+    # Keep only the important columns
     keep_cols = ["word", "POS word", "meaning"]
     df = df[[c for c in keep_cols if c in df.columns]]
 
-    # Normalize text (lowercase + strip)
+    # Normalize text
     df = df.apply(lambda col: col.astype(str).str.strip().str.lower())
 
     # Forward-fill missing words
@@ -79,11 +93,17 @@ excluded_all.to_csv(excluded_file, index=False)
 # === Merge both datasets ===
 merged = pd.concat([cec_df, wiki_df], ignore_index=True)
 
-# Remove rows with blank meaning
+# Add normalized form for grouping
+merged["group"] = merged["word"].apply(normalize_word)
+
+# Sort so that variants (like "tubig" and "túbig") appear together
+merged = merged.sort_values(by=["group", "word"]).reset_index(drop=True)
+
+# Drop rows with blank meaning
 merged = merged[merged["meaning"].notna() & (merged["meaning"].str.strip() != "")]
 
-# ✅ Keep duplicates as-is (no numbering like abi 1, abi 2, abi 3)
-# Just save them directly
+# Save merged file (without "group" helper column)
+merged.drop(columns=["group"], inplace=True)
 merged.to_csv(merged_file, index=False)
 
 # === Report ===
