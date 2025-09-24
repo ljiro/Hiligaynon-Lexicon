@@ -1,71 +1,8 @@
-word,POS word,meaning
-ámbut,idiom,i don’t know.
-kabít,idiom,mistress.
-kamústa,idiom,how are you.
-salámat,idiom,thank you.
-sulúd,idiom,"come in, enter."
-syémpre,idiom,"of course, certainly, yes."
-tagbaláy,idiom,hello (anybody home).
-alaypan hayop,phrase,zoo
-amay namon,phrase,(christianity) lord's prayer
-amba sang pispis,phrase,warbler
-anak nga babae,phrase,daughter
-apo nga babae,phrase,granddaughter
-apo nga lalaki,phrase,grandson
-asawa sang hari,phrase,queen
-asugi nga buhi,phrase,quicksilver
-atrasado sa pagbayad,phrase,delinquent
-bag-ong tuig,phrase,new year's day
-balahibo sang hayop,phrase,"fur, sable"
-balayan sang sinulatan ukon dinalan,phrase,syntax
-banas sa higad sang suba,phrase,"riverside
-nagaistar ako banas sa higad sang suba.i live by the riverside."
-bangud sa,phrase,concerning
-baston ni san hose,phrase,hollyhock
-batok sa kasugoan,phrase,"unconstitutional, unlawful"
-bawod sang mga tudlo,phrase,"wave (literally, bent fingers)"
-belada sa eskwelahan,phrase,commencement
-bisan diin,phrase,"everywhere, somewhere, wherever"
-bisan sin-o,phrase,"anybody, whoever"
-bunayag makig-atubang,phrase,genial
-bunayag sing kabubut-on,phrase,cordial
-dagway nga makahuhuya,phrase,shabby
-daku kaayo,phrase,very big
-de la cruz,phrase,a common surname from spanish of religious origin
-de la torre,phrase,"a surname from spanish, equivalent to spanish de la torre, more widely spelled as dela torre. generally concentrated in negros occidental"
-de los reyes,phrase,"a surname from spanish of religious origin, largely displaced by the spelling delos reyes"
-dela cruz,phrase,a common christian surname from spanish
-dela torre,phrase,a surname from spanish
-dunang manggad,phrase,natural resources
-dutang panublion,phrase,patrimony
-espiritu santo,phrase,the largest island of vanuatu.
-isa pa,phrase,"likewise, plus"
-maayong aga,phrase,good morning!
-maayong gab-i,phrase,good evening; good night
-maayong hapon,phrase,good afternoon! (from 1pm to 5:59pm)
-maghatag sing kinahanglan,phrase,supply
-napulo'g anum,phrase,sixteen
-napulo'g apat,phrase,fourteen
-napulo'g duha,phrase,"deprecated, pre-2014 spelling of napulog duha."
-napulo'g isa,phrase,eleven
-napulo'g lima,phrase,"deprecated, pre-2014 spelling of napulog lima."
-napulo'g pito,phrase,"deprecated, pre-2014 spelling of napulog pito."
-napulo'g siyam,phrase,"deprecated, pre-2014 spelling of napulog siyam."
-napulo'g tatlo,phrase,thirteen
-napulo'g walo,phrase,"deprecated, pre-2014 spelling of napulog walo."
-palangga ta ka,phrase,"i love you
-synonym: ginahigugma ko ikaw"
-salamat gid,phrase,thank you very much!
-sofronio española,phrase,"a municipality of palawan, philippines.
-meronyms: abo-abo, iraray, isumbo, labog, panitian, pulot center, pulot interior, pulot shore, punang — barangays of sofronio española
-coordinate terms: aborlan, agutaya, araceli, balabac, bataraza, brooke's point, busuanga, cagayancillo, coron, culion, cuyo, dumaran, el nido, kalayaan, linapacan, magsaysay, narra, quezon, rizal, roxas, san vicente, sofronio española, taytay — cities and municipalities of palawan"
-tudlo sang dalaga,phrase,a type of banana
-halong,phrasebook,"to handle with care
-synonym: amlig"
-maayong gab-i,phrasebook,good evening; good night
-palangga ta ka,phrasebook,"i love you
-synonym: ginahigugma ko ikaw"
-bago,phrasebook,"new (recently made or introduced)
-antonyms: luma, daan"
-buot,phrasebook,to rub
-sulud,phrasebook,nominative plural of sulg
+word,pos_word,meaning,pos_symbol
+ámbut,idiom,i don’t know.,id
+kabít,idiom,mistress.,id
+kamústa,idiom,how are you.,id
+salámat,idiom,thank you.,id
+sulúd,idiom,"come in, enter.",id
+syémpre,idiom,"of course, certainly, yes.",id
+tagbaláy,idiom,hello (anybody home).,id

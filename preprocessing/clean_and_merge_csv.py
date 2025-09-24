@@ -1,11 +1,12 @@
 import pandas as pd
 import unicodedata
+import csv
 from pathlib import Path
 
 # === File paths ===
 base_dir = Path(r"C:\Users\CODE CLASSES\nlp\Hiligaynon-Lexicon\output\preprocessed-output")
 cec_file = base_dir / "NLP Lexicon - Cecielmotus.csv"
-wiki_file = base_dir / "NLP Lexicon - Wikitionary.csv"
+wiki_file = base_dir / "wiktionary_final.csv"
 
 cec_cleaned = base_dir / "Cecielmotus_cleaned.csv"
 wiki_cleaned = base_dir / "Wikitionary_cleaned.csv"
@@ -33,7 +34,11 @@ pos_map = {
 drop_categories = {"phrase", "idiom", "phrasebook"}
 
 
-# === Utility: Normalize word (for grouping only) ===
+# --- Helpers ---
+def _norm_colname(c: str) -> str:
+    return c.strip().lower().replace(" ", "_").replace("-", "_")
+
+
 def normalize_word(word: str) -> str:
     if not isinstance(word, str):
         return ""
@@ -43,72 +48,89 @@ def normalize_word(word: str) -> str:
 
 
 # === Function to clean a dataset ===
-def clean_dataset(path, rename_map=None):
-    df = pd.read_csv(path, dtype=str)
+def clean_dataset(path, rename_map=None, default_symbol="UNK"):
+    # detect delimiter (best-effort)
+    with open(path, "r", encoding="utf-8") as f:
+        sample = f.read(4096)
+        try:
+            dialect = csv.Sniffer().sniff(sample)
+            delimiter = dialect.delimiter
+        except Exception:
+            delimiter = ","
 
-    # Rename if needed
+    # read file robustly
+    df = pd.read_csv(path, dtype=str, delimiter=delimiter, on_bad_lines="skip", engine="python")
+
+    # normalize column names
+    df.columns = [_norm_colname(c) for c in df.columns]
+
+    # apply rename_map if provided (normalize its keys/values too)
     if rename_map:
-        df = df.rename(columns=rename_map)
+        ren = {_norm_colname(k): _norm_colname(v) for k, v in rename_map.items()}
+        df = df.rename(columns=ren)
 
-    # Keep only the important columns
-    keep_cols = ["word", "POS word", "meaning"]
-    df = df[[c for c in keep_cols if c in df.columns]]
+    # keep only relevant columns if they exist
+    keep_cols = ["word", "pos_word", "meaning", "pos_symbol"]
+    df = df[[c for c in keep_cols if c in df.columns]].copy()
 
-    # Normalize text
-    df = df.apply(lambda col: col.astype(str).str.strip().str.lower())
+    # normalize cell values (strip + lower)
+    for col in df.columns:
+        df[col] = df[col].astype(str).str.strip().str.lower()
 
-    # Forward-fill missing words
+    # forward fill 'word'
     if "word" in df.columns:
         df["word"] = df["word"].replace("nan", pd.NA).ffill()
 
-    # Drop excluded categories
+    # exclude unwanted POS categories (works because pos_word is lowercased)
     excluded = pd.DataFrame()
-    if "POS word" in df.columns:
-        excluded = df[df["POS word"].isin(drop_categories)]
-        df = df[~df["POS word"].isin(drop_categories)]
+    if "pos_word" in df.columns:
+        mask_excluded = df["pos_word"].isin(drop_categories)
+        excluded = df[mask_excluded].copy()
+        df = df[~mask_excluded].copy()
 
-    # Map POS word → Penn Treebank symbol
-    df["POS symbol"] = df["POS word"].map(pos_map)
+    # ensure pos_symbol exists and map pos_word -> pos_symbol where possible
+    if "pos_symbol" not in df.columns:
+        df["pos_symbol"] = default_symbol
+    if "pos_word" in df.columns:
+        df["pos_symbol"] = df["pos_word"].map(pos_map).fillna(df["pos_symbol"])
 
-    # Reorder columns
-    df = df[["word", "POS symbol", "POS word", "meaning"]]
+    # reorder columns if present
+    col_order = ["word", "pos_symbol", "pos_word", "meaning"]
+    df = df[[c for c in col_order if c in df.columns]]
 
     return df, excluded
 
 
-# === Process Cecielmotus ===
+# === Run cleaning for both sources ===
 cec_df, cec_excluded = clean_dataset(cec_file)
 cec_df.to_csv(cec_cleaned, index=False)
 
-# === Process Wiktionary ===
 wiki_df, wiki_excluded = clean_dataset(
     wiki_file, rename_map={"Part of speech": "POS word", "Word": "word"}
 )
 wiki_df.to_csv(wiki_cleaned, index=False)
 
-# === Save excluded rows ===
+# save excluded rows (phrase/idiom/phrasebook)
 excluded_all = pd.concat([cec_excluded, wiki_excluded], ignore_index=True)
 excluded_all.to_csv(excluded_file, index=False)
 
-# === Merge both datasets ===
+# === Merge and group (keep original spelling, group variants together) ===
 merged = pd.concat([cec_df, wiki_df], ignore_index=True)
 
-# Add normalized form for grouping
+# add helper normalized form and sort by it so variants (túbig / tubig) are adjacent
 merged["group"] = merged["word"].apply(normalize_word)
-
-# Sort so that variants (like "tubig" and "túbig") appear together
 merged = merged.sort_values(by=["group", "word"]).reset_index(drop=True)
 
-# Drop rows with blank meaning
-merged = merged[merged["meaning"].notna() & (merged["meaning"].str.strip() != "")]
+# drop rows with blank meaning
+merged = merged[merged["meaning"].notna() & (merged["meaning"].str.strip() != "")].copy()
 
-# Save merged file (without "group" helper column)
+# remove helper column and save
 merged.drop(columns=["group"], inplace=True)
 merged.to_csv(merged_file, index=False)
 
 # === Report ===
 print("=== Cleaning Report ===")
 print(f"Cecielmotus rows: {cec_df.shape[0]}")
-print(f"Wikitionary rows: {wiki_df.shape[0]}")
-print(f"Excluded rows saved: {excluded_all.shape[0]}")
+print(f"Wiktionary rows: {wiki_df.shape[0]}")
+print(f"Excluded rows saved: {excluded_all.shape[0]} (phrase/idiom/phrasebook)")
 print(f"Final merged rows: {merged.shape[0]}")

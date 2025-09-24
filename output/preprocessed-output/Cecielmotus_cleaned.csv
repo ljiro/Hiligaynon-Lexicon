@@ -1,4 +1,4 @@
-word,POS symbol,POS word,meaning
+word,pos_symbol,pos_word,meaning
 a,RP,particle,"oh, well, hesitating filler."
 -a,VB,verbal affix,affix.
 abakáda,NN,noun,alphabet.
