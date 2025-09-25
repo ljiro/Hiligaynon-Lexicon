@@ -6,7 +6,7 @@ import math
 # Step 1: Load dataset
 # ===========================================
 # Replace with your actual file path
-file_path = r"C:\Users\CODE CLASSES\nlp\Hiligaynon-Lexicon\output\Ceciel_Wiki_merged_scores.csv"
+file_path = r"/output-files/Ceciel_Wiki_merged_scores.csv"
 df = pd.read_csv(file_path)
 
 # === Count per class ===

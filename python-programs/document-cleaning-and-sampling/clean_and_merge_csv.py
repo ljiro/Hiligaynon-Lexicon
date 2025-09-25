@@ -4,7 +4,7 @@ import csv
 from pathlib import Path
 
 # === File paths ===
-base_dir = Path(r"C:\Users\CODE CLASSES\nlp\Hiligaynon-Lexicon\output\preprocessed-output")
+base_dir = Path(r"/output-files/preprocessed-output-files")
 cec_file = base_dir / "NLP Lexicon - Cecielmotus.csv"
 wiki_file = base_dir / "wiktionary_final.csv"
 

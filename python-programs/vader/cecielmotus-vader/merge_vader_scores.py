@@ -1,10 +1,10 @@
 import pandas as pd
 from pathlib import Path
 
-# Input/output paths
-csv_input = Path(r"C:\Users\CODE CLASSES\nlp\Hiligaynon-Lexicon\output\preprocessed-output\Ceciel_Wiki_merged.csv")
-txt_input = Path(r"C:\Users\CODE CLASSES\nlp\Hiligaynon-Lexicon\output\vader-output\vader_hiligaynon_cleaned.txt")
-output_path = Path(r"C:\Users\CODE CLASSES\nlp\Hiligaynon-Lexicon\output\Ceciel_Wiki_merged_scores.csv")
+# Input/output-files paths
+csv_input = Path(r"/output-files/preprocessed-output-files/Ceciel_Wiki_merged.csv")
+txt_input = Path(r"/output-files/vader-output-files/vader_hiligaynon_cleaned.txt")
+output_path = Path(r"/output-files/Ceciel_Wiki_merged_scores.csv")
 
 # Load CSV
 lexicon = pd.read_csv(csv_input)

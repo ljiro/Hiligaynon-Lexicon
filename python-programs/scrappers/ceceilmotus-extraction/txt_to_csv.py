@@ -2,11 +2,11 @@ import re
 import csv
 from pathlib import Path
 
-txt_path = Path(r"/output/output.txt")
-csv_path = Path(r"/output/output_parsed.csv")
+txt_path = Path(r"/output-files/output-files.txt")
+csv_path = Path(r"/output-files/output_parsed.csv")
 start_page = 28
 
-# create output dir if missing
+# create output-files dir if missing
 csv_path.parent.mkdir(parents=True, exist_ok=True)
 
 # DIACRITICS to help detect Hiligaynon text

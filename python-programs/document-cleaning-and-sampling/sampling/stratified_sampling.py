@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Get input/output paths
+# Get input/output-files paths
 input_csv = r"C:\Users\CODE CLASSES\nlp\Hiligaynon-Lexicon\output\Ceciel_Wiki_merged_scores.csv"
 
 # Load dataset
@@ -25,7 +25,7 @@ positive_sample = df[df[sentiment_col] == "Positive"].sample(n=target_samples["P
 final_sample = pd.concat([neutral_sample, negative_sample, positive_sample], axis=0)
 
 # Save to single CSV
-output_file = r"C:\Users\CODE CLASSES\nlp\Hiligaynon-Lexicon\output\proportional-stratified-sample\lexicon_sample.csv"
+output_file = r"/output-files/proportional-stratified-sample/lexicon_sample.csv"
 final_sample.to_csv(output_file, index=False)
 
 print("Combined random sample saved as sample.csv")
