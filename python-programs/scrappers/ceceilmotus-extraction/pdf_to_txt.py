@@ -3,7 +3,7 @@ from pathlib import Path
 
 pdf_path = Path(r"/resources-files/ceceilmotus.pdf")
 
-txt_path = Path(r"/output-files/output-files.txt")
+txt_path = Path(r"C:\Users\CODE CLASSES\nlp\Hiligaynon-Lexicon\files\output-files\raw-output\output.txt")
 txt_path.parent.mkdir(parents=True, exist_ok=True)
 
 with pdfplumber.open(pdf_path) as pdf, open(txt_path, "w", encoding="utf-8") as out_file:
